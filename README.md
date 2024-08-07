@@ -58,6 +58,23 @@ The model will output the probabilities of a home win, draw, and away win based 
 ## Screenshots
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
 
+## Notes on Tensorflow
+```
+const model = tf.sequential();
+```
+`tf.sequential()`: This creates a sequential model, which is a linear stack of layers. A sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor.
+```
+model.add(tf.layers.dense({ units: 10, activation: 'relu', inputShape: [2] }));
+model.add(tf.layers.dense({ units: 3, activation: 'softmax' }));
+```
+`model.add(tf.layers.dense({ ... }))`: This adds a dense (fully connected) layer to the model.
+```
+tf.layers.dense({ units: 10, activation: 'relu', inputShape: [2] })
+```
+`units: 10`: This specifies that the layer has 10 neurons.
+`activation: 'relu'`: This specifies the activation function for the layer. 'relu' stands for Rectified Linear Unit, which is commonly used in hidden layers of neural networks.
+`inputShape: [2]`: This specifies that the input to this layer has a shape of [2]. In this case, it means that each input sample will have 2 features (home team index and away team index).
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
