@@ -59,10 +59,10 @@ Run the following command to train the model:
 node main.js
 ```
 
-### Results
+## Results
 The model will output the probabilities of a home win, draw, and away win based on the input teams' historical performance.
 
-## Screenshots
+### Screenshots
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
 
 ## Notes on Tensorflow Implementation
