@@ -62,8 +62,13 @@ node main.js
 ## Results
 The model will output the probabilities of a home win, draw, and away win based on the input teams' historical performance.
 
+To check the accuracy of the model, a script called `comparison.js` uses all the results from before 2023, then predicts the 2023 results. The last step compares the predictions with the real results and prints an accuracy percentage, where 100% would mean it predicted all results accurately. The first version of this model (which is what is configured in `main.js`) resulted in a 22% accuracy rating (which can be seen in the screenshot below).
+
+This performance is actually quite terrible, and even worse than a random number generator, which would have a 33 percent accuracy (considering there are 3 outcomes: home win, away win, draw).
+
 ### Screenshots
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
+<img src='https://github.com/dougmolineux/football-predictor/blob/97d8a5067896ae6fb2234e0ade8f4571f4fe7d65/screenshots/accuracy_of_first_model.png' />
 
 ## Notes on Tensorflow Implementation
 ### Instantiating a Sequential Model
