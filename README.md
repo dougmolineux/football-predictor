@@ -10,6 +10,7 @@ This project uses TensorFlow.js to create a machine learning model that predicts
 - [Usage](#usage)
 - [Example](#example)
 - [Results](#results)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -51,14 +52,14 @@ Run the following command to train the model:
 node main.js
 ```
 
-Results
+### Results
 The model will output the probabilities of a home win, draw, and away win based on the input teams' historical performance.
 
-Screenshots
+## Screenshots
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
