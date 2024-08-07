@@ -104,9 +104,12 @@ model.compile({
 ### Summary of Implementation
 1. Define Model: const model = tf.sequential(); creates a new sequential model.
 2. Add Layers:
+   
     a. First layer with 10 neurons, ReLU activation, and input shape of 2.
+   
     b. Second layer with 3 neurons and softmax activation for classification.
-3. Compile Model: Configures the model with the Adam optimizer, sparse categorical crossentropy loss function, and accuracy metric.
+   
+4. Compile Model: Configures the model with the Adam optimizer, sparse categorical crossentropy loss function, and accuracy metric.
 
 These steps set up the neural network for training on the football match data to predict match outcomes.
 
