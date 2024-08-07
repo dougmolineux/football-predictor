@@ -7,10 +7,16 @@ This project uses TensorFlow.js to create a machine learning model that predicts
 ## Table of Contents
 - [Introduction](#introduction)
 - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 - [Usage](#usage)
-- [Example](#example)
+  - [Training the Model](#training-the-model)
 - [Results](#results)
 - [Screenshots](#screenshots)
+- [Notes on Tensorflow Implementation](#notes-on-tensorflow-implementation)
+  - [Adding the Layers](#adding-the-layers)
+  - [Configuring the Model](#configuring-the-model)
+  - [Summary of Implementation](#summary-of-implementation)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -70,7 +76,11 @@ model.add(tf.layers.dense({ units: 3, activation: 'softmax' }));
 ```
 `model.add(tf.layers.dense({ ... }))`: This adds a dense (fully connected) layer to the model.
 ```
-tf.layers.dense({ units: 10, activation: 'relu', inputShape: [2] })
+tf.layers.dense({
+    units: 10,          // specifies that the layer has 10 neurons.
+    activation: 'relu', // Rectified Linear Unit
+    inputShape: [2]     // input sample will have 2 features (home team index and away team index)
+})
 ```
 `units: 10`: This specifies that the layer has 10 neurons.
 
@@ -95,7 +105,7 @@ model.compile({
 ```
 `model.compile({ ... })`: This configures the model for training.
 
-`optimizer: 'adam'`: This specifies the optimizer to use during training. 'adam' is an adaptive learning rate optimization algorithm that's popular for training deep learning models. (question what other optimizers are available?)
+`optimizer: 'adam'`: This specifies the optimizer to use during training. 'adam' is an adaptive learning rate optimization algorithm that's popular for training deep learning models. The Adam optimizer, or Adaptive Moment Estimation, is a machine learning algorithm used to train deep neural networks. 
 
 `loss: 'sparseCategoricalCrossentropy'`: This specifies the loss function to use during training. 'sparseCategoricalCrossentropy' is appropriate for classification problems where the target variable is an integer representing the class index.
 
