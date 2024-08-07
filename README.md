@@ -58,7 +58,8 @@ The model will output the probabilities of a home win, draw, and away win based 
 ## Screenshots
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
 
-## Notes on Tensorflow
+## Notes on Tensorflow Implementation
+### Adding the Layers
 ```
 const model = tf.sequential();
 ```
@@ -72,8 +73,42 @@ model.add(tf.layers.dense({ units: 3, activation: 'softmax' }));
 tf.layers.dense({ units: 10, activation: 'relu', inputShape: [2] })
 ```
 `units: 10`: This specifies that the layer has 10 neurons.
+
 `activation: 'relu'`: This specifies the activation function for the layer. 'relu' stands for Rectified Linear Unit, which is commonly used in hidden layers of neural networks.
+
 `inputShape: [2]`: This specifies that the input to this layer has a shape of [2]. In this case, it means that each input sample will have 2 features (home team index and away team index).
+
+```
+tf.layers.dense({ units: 3, activation: 'softmax' })
+```
+`units: 3`: This specifies that the layer has 3 neurons, which correspond to the 3 possible classes (home win, draw, away win).
+
+`activation: 'softmax'`: This specifies the activation function for the layer. 'softmax' is used in the output layer for classification problems because it converts the outputs to a probability distribution over the 3 classes.
+
+### Configuring the Model
+```
+model.compile({
+    optimizer: 'adam',
+    loss: 'sparseCategoricalCrossentropy',
+    metrics: ['accuracy']
+});
+```
+`model.compile({ ... })`: This configures the model for training.
+
+`optimizer: 'adam'`: This specifies the optimizer to use during training. 'adam' is an adaptive learning rate optimization algorithm that's popular for training deep learning models. (question what other optimizers are available?)
+
+`loss: 'sparseCategoricalCrossentropy'`: This specifies the loss function to use during training. 'sparseCategoricalCrossentropy' is appropriate for classification problems where the target variable is an integer representing the class index.
+
+`metrics: ['accuracy']`: This specifies the metrics to evaluate during training and testing. 'accuracy' measures the fraction of correctly predicted instances.
+
+### Summary of Implementation
+1. Define Model: const model = tf.sequential(); creates a new sequential model.
+2. Add Layers:
+    a. First layer with 10 neurons, ReLU activation, and input shape of 2.
+    b. Second layer with 3 neurons and softmax activation for classification.
+3. Compile Model: Configures the model with the Adam optimizer, sparse categorical crossentropy loss function, and accuracy metric.
+
+These steps set up the neural network for training on the football match data to predict match outcomes.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
