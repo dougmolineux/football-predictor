@@ -27,7 +27,7 @@ The Premier League Match Predictor uses historical match data to train a neural 
 1. Clone the repository:
     ```bash
     git clone https://github.com/dougmolineux/football-predictor.git
-    cd premier-league-match-predictor
+    cd football-predictor
     ```
 2. Install the required dependencies:
     ```bash
