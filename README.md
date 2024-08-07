@@ -14,6 +14,7 @@ This project uses TensorFlow.js to create a machine learning model that predicts
 - [Results](#results)
 - [Screenshots](#screenshots)
 - [Notes on Tensorflow Implementation](#notes-on-tensorflow-implementation)
+  - [Instantiating a Sequential Model](#instantiating-a-sequential-model)
   - [Adding the Layers](#adding-the-layers)
   - [Configuring the Model](#configuring-the-model)
   - [Summary of Implementation](#summary-of-implementation)
@@ -65,11 +66,12 @@ The model will output the probabilities of a home win, draw, and away win based 
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
 
 ## Notes on Tensorflow Implementation
-### Adding the Layers
+### Instantiating a Sequential Model
 ```
 const model = tf.sequential();
 ```
 `tf.sequential()`: This creates a sequential model, which is a linear stack of layers. A sequential model is appropriate for a plain stack of layers where each layer has exactly one input tensor and one output tensor.
+### Adding the Layers
 ```
 model.add(tf.layers.dense({ units: 10, activation: 'relu', inputShape: [2] }));
 model.add(tf.layers.dense({ units: 3, activation: 'softmax' }));
