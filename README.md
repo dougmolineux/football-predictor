@@ -82,7 +82,7 @@ tf.layers.dense({
     inputShape: [2]     // input sample will have 2 features (home team index and away team index)
 })
 ```
-`units: 10`: This specifies that the layer has 10 neurons.
+`units: 10`: This specifies that the layer has 10 neurons. Why 10? With 10 neurons, the model has enough capacity to capture these relationships without being too complex. Starting with 10 neurons can be a reasonable initial choice, which can be adjusted based on the model's performance during validation. By having 10 neurons, the layer can introduce sufficient non-linearity to the model. This is particularly important for problems where the relationship between input features and the output is not linear.
 
 `activation: 'relu'`: This specifies the activation function for the layer. 'relu' stands for Rectified Linear Unit, which is commonly used in hidden layers of neural networks.
 
@@ -112,7 +112,7 @@ model.compile({
 `metrics: ['accuracy']`: This specifies the metrics to evaluate during training and testing. 'accuracy' measures the fraction of correctly predicted instances.
 
 ### Summary of Implementation
-1. Define Model: const model = tf.sequential(); creates a new sequential model.
+1. Define Model: `const model = tf.sequential();` creates a new sequential model.
 2. Add Layers:
    
     a. First layer with 10 neurons, ReLU activation, and input shape of 2.
