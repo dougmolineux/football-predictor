@@ -1,4 +1,2910 @@
 Season_End_Year,Wk,Date,Home,HomeGoals,AwayGoals,Away,FTR
+1993,1,1992-08-15,Coventry City,2,1,Middlesbrough,H
+1993,1,1992-08-15,Leeds United,2,1,Wimbledon,H
+1993,1,1992-08-15,Sheffield Utd,2,1,Manchester Utd,H
+1993,1,1992-08-15,Crystal Palace,3,3,Blackburn,D
+1993,1,1992-08-15,Arsenal,2,4,Norwich City,A
+1993,1,1992-08-15,Ipswich Town,1,1,Aston Villa,D
+1993,1,1992-08-15,Everton,1,1,Sheffield Weds,D
+1993,1,1992-08-15,Southampton,0,0,Tottenham,D
+1993,1,1992-08-15,Chelsea,1,1,Oldham Athletic,D
+1993,1,1992-08-16,Nott'ham Forest,1,0,Liverpool,H
+1993,1,1992-08-17,Manchester City,1,1,QPR,D
+1993,2,1992-08-18,Blackburn,1,0,Arsenal,H
+1993,2,1992-08-18,Wimbledon,0,1,Ipswich Town,A
+1993,2,1992-08-19,Tottenham,0,2,Coventry City,A
+1993,2,1992-08-19,Liverpool,2,1,Sheffield Utd,H
+1993,2,1992-08-19,Aston Villa,1,1,Leeds United,D
+1993,2,1992-08-19,Oldham Athletic,1,1,Crystal Palace,D
+1993,2,1992-08-19,Middlesbrough,2,0,Manchester City,H
+1993,2,1992-08-19,Norwich City,2,1,Chelsea,H
+1993,2,1992-08-19,QPR,3,1,Southampton,H
+1993,2,1992-08-19,Manchester Utd,0,3,Everton,A
+1993,2,1992-08-19,Sheffield Weds,2,0,Nott'ham Forest,H
+1993,3,1992-08-22,Tottenham,2,2,Crystal Palace,D
+1993,3,1992-08-22,Wimbledon,1,2,Coventry City,A
+1993,3,1992-08-22,Blackburn,1,0,Manchester City,H
+1993,3,1992-08-22,Norwich City,1,1,Everton,D
+1993,3,1992-08-22,Sheffield Weds,3,3,Chelsea,D
+1993,3,1992-08-22,Manchester Utd,1,1,Ipswich Town,D
+1993,3,1992-08-22,Aston Villa,1,1,Southampton,D
+1993,3,1992-08-22,Middlesbrough,4,1,Leeds United,H
+1993,3,1992-08-22,QPR,3,2,Sheffield Utd,H
+1993,3,1992-08-22,Oldham Athletic,5,3,Nott'ham Forest,H
+1993,3,1992-08-23,Liverpool,0,2,Arsenal,A
+1993,4,1992-08-24,Southampton,0,1,Manchester Utd,A
+1993,4,1992-08-25,Sheffield Utd,2,2,Wimbledon,D
+1993,4,1992-08-25,Ipswich Town,2,2,Liverpool,D
+1993,4,1992-08-25,Crystal Palace,1,1,Sheffield Weds,D
+1993,4,1992-08-25,Leeds United,5,0,Tottenham,H
+1993,4,1992-08-25,Everton,1,0,Aston Villa,H
+1993,4,1992-08-26,Manchester City,3,1,Norwich City,H
+1993,4,1992-08-26,Arsenal,2,0,Oldham Athletic,H
+1993,4,1992-08-26,Coventry City,0,1,QPR,A
+1993,4,1992-08-26,Chelsea,0,0,Blackburn,D
+1993,5,1992-08-29,Sheffield Utd,0,2,Aston Villa,A
+1993,5,1992-08-29,Nott'ham Forest,0,2,Manchester Utd,A
+1993,5,1992-08-29,Southampton,2,1,Middlesbrough,H
+1993,5,1992-08-29,Crystal Palace,1,2,Norwich City,A
+1993,5,1992-08-29,Manchester City,3,3,Oldham Athletic,D
+1993,5,1992-08-29,Chelsea,1,0,QPR,H
+1993,5,1992-08-29,Arsenal,2,1,Sheffield Weds,H
+1993,5,1992-08-29,Coventry City,0,2,Blackburn,A
+1993,5,1992-08-29,Everton,0,0,Wimbledon,D
+1993,5,1992-08-29,Leeds United,2,2,Liverpool,D
+1993,5,1992-08-30,Ipswich Town,1,1,Tottenham,D
+1993,6,1992-08-31,Norwich City,3,1,Nott'ham Forest,H
+1993,6,1992-09-01,Middlesbrough,2,2,Ipswich Town,D
+1993,6,1992-09-01,Wimbledon,0,1,Manchester City,A
+1993,6,1992-09-01,Liverpool,1,1,Southampton,D
+1993,6,1992-09-01,Oldham Athletic,2,2,Leeds United,D
+1993,6,1992-09-02,Manchester Utd,1,0,Crystal Palace,H
+1993,6,1992-09-02,Sheffield Weds,1,2,Coventry City,A
+1993,6,1992-09-02,QPR,0,0,Arsenal,D
+1993,6,1992-09-02,Tottenham,2,0,Sheffield Utd,H
+1993,6,1992-09-02,Aston Villa,1,3,Chelsea,A
+1993,7,1992-09-05,Norwich City,1,0,Southampton,H
+1993,7,1992-09-05,Oldham Athletic,0,1,Coventry City,A
+1993,7,1992-09-05,Sheffield Weds,0,3,Manchester City,A
+1993,7,1992-09-05,Wimbledon,3,2,Arsenal,H
+1993,7,1992-09-05,Middlesbrough,2,0,Sheffield Utd,H
+1993,7,1992-09-05,QPR,0,0,Ipswich Town,D
+1993,7,1992-09-05,Blackburn,4,1,Nott'ham Forest,H
+1993,7,1992-09-05,Aston Villa,3,0,Crystal Palace,H
+1993,7,1992-09-05,Tottenham,2,1,Everton,H
+1993,7,1992-09-05,Liverpool,2,1,Chelsea,H
+1993,7,1992-09-06,Manchester Utd,2,0,Leeds United,H
+1993,8,1992-09-12,Crystal Palace,2,2,Oldham Athletic,D
+1993,8,1992-09-12,Manchester City,0,1,Middlesbrough,A
+1993,8,1992-09-12,Everton,0,2,Manchester Utd,A
+1993,8,1992-09-12,Chelsea,2,3,Norwich City,A
+1993,8,1992-09-12,Southampton,1,2,QPR,A
+1993,8,1992-09-12,Ipswich Town,2,1,Wimbledon,H
+1993,8,1992-09-12,Arsenal,0,1,Blackburn,A
+1993,8,1992-09-12,Sheffield Utd,1,0,Liverpool,H
+1993,8,1992-09-12,Nott'ham Forest,1,2,Sheffield Weds,A
+1993,8,1992-09-13,Leeds United,1,1,Aston Villa,D
+1993,8,1992-09-14,Coventry City,1,0,Tottenham,H
+1993,6,1992-09-15,Blackburn,2,3,Everton,A
+1993,9,1992-09-19,Wimbledon,1,1,Blackburn,D
+1993,9,1992-09-19,Tottenham,1,1,Manchester Utd,D
+1993,9,1992-09-19,Norwich City,1,0,Sheffield Weds,H
+1993,9,1992-09-19,Aston Villa,4,2,Liverpool,H
+1993,9,1992-09-19,Oldham Athletic,4,2,Ipswich Town,H
+1993,9,1992-09-19,Sheffield Utd,1,1,Arsenal,D
+1993,9,1992-09-19,QPR,3,3,Middlesbrough,D
+1993,9,1992-09-19,Everton,0,2,Crystal Palace,A
+1993,9,1992-09-19,Southampton,1,1,Leeds United,D
+1993,9,1992-09-20,Manchester City,0,1,Chelsea,A
+1993,9,1992-09-21,Nott'ham Forest,1,1,Coventry City,D
+1993,10,1992-09-26,Blackburn,2,0,Oldham Athletic,H
+1993,10,1992-09-26,Manchester Utd,0,0,QPR,D
+1993,10,1992-09-26,Ipswich Town,0,0,Sheffield Utd,D
+1993,10,1992-09-26,Liverpool,2,3,Wimbledon,A
+1993,10,1992-09-26,Leeds United,2,0,Everton,H
+1993,10,1992-09-26,Middlesbrough,2,3,Aston Villa,A
+1993,10,1992-09-26,Chelsea,0,0,Nott'ham Forest,D
+1993,10,1992-09-26,Crystal Palace,1,2,Southampton,A
+1993,10,1992-09-26,Coventry City,1,1,Norwich City,D
+1993,10,1992-09-27,Sheffield Weds,2,0,Tottenham,H
+1993,10,1992-09-28,Arsenal,1,0,Manchester City,H
+1993,11,1992-10-03,Manchester City,2,2,Nott'ham Forest,D
+1993,11,1992-10-03,Middlesbrough,1,1,Manchester Utd,D
+1993,11,1992-10-03,Arsenal,2,1,Chelsea,H
+1993,11,1992-10-03,Sheffield Utd,2,0,Southampton,H
+1993,11,1992-10-03,Coventry City,2,2,Crystal Palace,D
+1993,11,1992-10-03,Wimbledon,2,3,Aston Villa,A
+1993,11,1992-10-03,QPR,4,1,Tottenham,H
+1993,11,1992-10-03,Liverpool,1,0,Sheffield Weds,H
+1993,11,1992-10-03,Ipswich Town,4,2,Leeds United,H
+1993,11,1992-10-03,Blackburn,7,1,Norwich City,H
+1993,11,1992-10-04,Oldham Athletic,1,0,Everton,H
+1993,12,1992-10-17,Leeds United,3,1,Sheffield Utd,H
+1993,12,1992-10-17,Everton,1,1,Coventry City,D
+1993,12,1992-10-17,Crystal Palace,0,0,Manchester City,D
+1993,12,1992-10-17,Tottenham,2,2,Middlesbrough,D
+1993,12,1992-10-17,Norwich City,2,1,QPR,H
+1993,12,1992-10-17,Sheffield Weds,2,1,Oldham Athletic,H
+1993,12,1992-10-17,Southampton,2,2,Wimbledon,D
+1993,12,1992-10-17,Chelsea,2,1,Ipswich Town,H
+1993,12,1992-10-17,Nott'ham Forest,0,1,Arsenal,A
+1993,12,1992-10-18,Manchester Utd,2,2,Liverpool,D
+1993,12,1992-10-19,Aston Villa,0,0,Blackburn,D
+1993,4,1992-10-21,Nott'ham Forest,1,0,Middlesbrough,H
+1993,13,1992-10-24,Middlesbrough,1,1,Sheffield Weds,D
+1993,13,1992-10-24,Blackburn,0,0,Manchester Utd,D
+1993,13,1992-10-24,Wimbledon,1,1,Tottenham,D
+1993,13,1992-10-24,Ipswich Town,2,2,Crystal Palace,D
+1993,13,1992-10-24,QPR,2,1,Leeds United,H
+1993,13,1992-10-24,Sheffield Utd,0,0,Nott'ham Forest,D
+1993,13,1992-10-24,Coventry City,1,2,Chelsea,A
+1993,13,1992-10-24,Oldham Athletic,1,1,Aston Villa,D
+1993,13,1992-10-24,Manchester City,1,0,Southampton,H
+1993,13,1992-10-24,Arsenal,2,0,Everton,H
+1993,13,1992-10-25,Liverpool,4,1,Norwich City,H
+1993,14,1992-10-31,Nott'ham Forest,0,1,Ipswich Town,A
+1993,14,1992-10-31,Norwich City,1,1,Middlesbrough,D
+1993,14,1992-10-31,Manchester Utd,0,1,Wimbledon,A
+1993,14,1992-10-31,Chelsea,1,2,Sheffield Utd,A
+1993,14,1992-10-31,Everton,1,3,Manchester City,A
+1993,14,1992-10-31,Southampton,1,0,Oldham Athletic,H
+1993,14,1992-10-31,Tottenham,2,0,Liverpool,H
+1993,14,1992-10-31,Sheffield Weds,0,0,Blackburn,D
+1993,14,1992-10-31,Leeds United,2,2,Coventry City,D
+1993,14,1992-11-01,Aston Villa,2,0,QPR,H
+1993,14,1992-11-02,Crystal Palace,1,2,Arsenal,A
+1993,15,1992-11-07,Nott'ham Forest,0,1,Everton,A
+1993,15,1992-11-07,Liverpool,4,1,Middlesbrough,H
+1993,15,1992-11-07,Ipswich Town,0,0,Southampton,D
+1993,15,1992-11-07,Arsenal,3,0,Coventry City,H
+1993,15,1992-11-07,Chelsea,3,1,Crystal Palace,H
+1993,15,1992-11-07,Manchester City,4,0,Leeds United,H
+1993,15,1992-11-07,Blackburn,0,2,Tottenham,A
+1993,15,1992-11-07,Wimbledon,0,2,QPR,A
+1993,15,1992-11-07,Aston Villa,1,0,Manchester Utd,H
+1993,15,1992-11-08,Sheffield Utd,1,1,Sheffield Weds,D
+1993,15,1992-11-09,Oldham Athletic,2,3,Norwich City,A
+1993,16,1992-11-21,Coventry City,2,3,Manchester City,A
+1993,16,1992-11-21,Crystal Palace,1,1,Nott'ham Forest,D
+1993,16,1992-11-21,Sheffield Weds,1,1,Ipswich Town,D
+1993,16,1992-11-21,Manchester Utd,3,0,Oldham Athletic,H
+1993,16,1992-11-21,Norwich City,2,1,Sheffield Utd,H
+1993,16,1992-11-21,Tottenham,0,0,Aston Villa,D
+1993,16,1992-11-21,Leeds United,3,0,Arsenal,H
+1993,16,1992-11-21,Everton,0,1,Chelsea,A
+1993,16,1992-11-21,Middlesbrough,2,0,Wimbledon,H
+1993,16,1992-11-22,QPR,0,1,Liverpool,A
+1993,16,1992-11-22,Southampton,1,1,Blackburn,D
+1993,17,1992-11-28,Oldham Athletic,4,1,Middlesbrough,H
+1993,17,1992-11-28,Blackburn,1,0,QPR,H
+1993,17,1992-11-28,Arsenal,0,1,Manchester Utd,A
+1993,17,1992-11-28,Aston Villa,2,3,Norwich City,A
+1993,17,1992-11-28,Wimbledon,1,1,Sheffield Weds,D
+1993,17,1992-11-28,Ipswich Town,1,0,Everton,H
+1993,17,1992-11-28,Sheffield Utd,1,1,Coventry City,D
+1993,17,1992-11-28,Manchester City,0,1,Tottenham,A
+1993,17,1992-11-28,Liverpool,5,0,Crystal Palace,H
+1993,17,1992-11-28,Nott'ham Forest,1,2,Southampton,A
+1993,17,1992-11-29,Chelsea,1,0,Leeds United,H
+1993,18,1992-12-05,Leeds United,1,4,Nott'ham Forest,A
+1993,18,1992-12-05,Crystal Palace,2,0,Sheffield Utd,H
+1993,18,1992-12-05,Southampton,2,0,Arsenal,H
+1993,18,1992-12-05,Coventry City,2,2,Ipswich Town,D
+1993,18,1992-12-05,Tottenham,1,2,Chelsea,A
+1993,18,1992-12-05,QPR,3,2,Oldham Athletic,H
+1993,18,1992-12-05,Middlesbrough,3,2,Blackburn,H
+1993,18,1992-12-05,Sheffield Weds,1,2,Aston Villa,A
+1993,18,1992-12-05,Norwich City,2,1,Wimbledon,H
+1993,18,1992-12-06,Manchester Utd,2,1,Manchester City,H
+1993,18,1992-12-07,Everton,2,1,Liverpool,H
+1993,19,1992-12-11,Middlesbrough,0,0,Chelsea,D
+1993,19,1992-12-12,Sheffield Utd,1,0,Everton,H
+1993,19,1992-12-12,QPR,1,3,Crystal Palace,A
+1993,19,1992-12-12,Leeds United,3,1,Sheffield Weds,H
+1993,19,1992-12-12,Tottenham,1,0,Arsenal,H
+1993,19,1992-12-12,Manchester Utd,1,0,Norwich City,H
+1993,19,1992-12-12,Southampton,2,2,Coventry City,D
+1993,19,1992-12-12,Aston Villa,2,1,Nott'ham Forest,H
+1993,19,1992-12-12,Ipswich Town,3,1,Manchester City,H
+1993,19,1992-12-12,Wimbledon,5,2,Oldham Athletic,H
+1993,19,1992-12-13,Liverpool,2,1,Blackburn,H
+1993,20,1992-12-19,Oldham Athletic,2,1,Tottenham,H
+1993,20,1992-12-19,Blackburn,1,0,Sheffield Utd,H
+1993,20,1992-12-19,Everton,2,1,Southampton,H
+1993,20,1992-12-19,Chelsea,1,1,Manchester Utd,D
+1993,20,1992-12-19,Coventry City,5,1,Liverpool,H
+1993,20,1992-12-19,Manchester City,1,1,Aston Villa,D
+1993,20,1992-12-19,Sheffield Weds,1,0,QPR,H
+1993,20,1992-12-19,Arsenal,1,1,Middlesbrough,D
+1993,20,1992-12-20,Crystal Palace,1,0,Leeds United,H
+1993,20,1992-12-20,Nott'ham Forest,1,1,Wimbledon,D
+1993,20,1992-12-21,Norwich City,0,2,Ipswich Town,A
+1993,21,1992-12-26,Crystal Palace,2,0,Wimbledon,H
+1993,21,1992-12-26,Arsenal,0,0,Ipswich Town,D
+1993,21,1992-12-26,Coventry City,3,0,Aston Villa,H
+1993,21,1992-12-26,Chelsea,1,1,Southampton,D
+1993,21,1992-12-26,Manchester City,2,0,Sheffield Utd,H
+1993,21,1992-12-26,Sheffield Weds,3,3,Manchester Utd,D
+1993,21,1992-12-26,Norwich City,0,0,Tottenham,D
+1993,21,1992-12-26,Blackburn,3,1,Leeds United,H
+1993,21,1992-12-26,Everton,2,2,Middlesbrough,D
+1993,22,1992-12-28,Middlesbrough,0,1,Crystal Palace,A
+1993,22,1992-12-28,QPR,4,2,Everton,H
+1993,22,1992-12-28,Aston Villa,1,0,Arsenal,H
+1993,22,1992-12-28,Liverpool,1,1,Manchester City,D
+1993,22,1992-12-28,Southampton,1,2,Sheffield Weds,A
+1993,22,1992-12-28,Manchester Utd,5,0,Coventry City,H
+1993,22,1992-12-28,Wimbledon,0,0,Chelsea,D
+1993,22,1992-12-28,Ipswich Town,2,1,Blackburn,H
+1993,22,1992-12-28,Leeds United,0,0,Norwich City,D
+1993,22,1992-12-28,Tottenham,2,1,Nott'ham Forest,H
+1993,23,1993-01-09,Arsenal,1,1,Sheffield Utd,D
+1993,23,1993-01-09,Crystal Palace,0,2,Everton,A
+1993,23,1993-01-09,Chelsea,2,4,Manchester City,A
+1993,23,1993-01-09,Manchester Utd,4,1,Tottenham,H
+1993,23,1993-01-09,Coventry City,0,1,Nott'ham Forest,A
+1993,23,1993-01-09,Leeds United,2,1,Southampton,H
+1993,23,1993-01-09,Ipswich Town,1,2,Oldham Athletic,A
+1993,23,1993-01-09,Middlesbrough,0,1,QPR,A
+1993,23,1993-01-09,Blackburn,0,0,Wimbledon,D
+1993,23,1993-01-09,Liverpool,1,2,Aston Villa,A
+1993,23,1993-01-10,Sheffield Weds,1,0,Norwich City,H
+1993,24,1993-01-16,Nott'ham Forest,3,0,Chelsea,H
+1993,24,1993-01-16,Sheffield Utd,3,0,Ipswich Town,H
+1993,24,1993-01-16,Oldham Athletic,0,1,Blackburn,A
+1993,24,1993-01-16,Norwich City,1,1,Coventry City,D
+1993,24,1993-01-16,Wimbledon,2,0,Liverpool,H
+1993,24,1993-01-16,Tottenham,0,2,Sheffield Weds,A
+1993,24,1993-01-16,Southampton,1,0,Crystal Palace,H
+1993,24,1993-01-16,Everton,2,0,Leeds United,H
+1993,24,1993-01-16,Manchester City,0,1,Arsenal,A
+1993,24,1993-01-17,Aston Villa,5,1,Middlesbrough,H
+1993,24,1993-01-18,QPR,1,3,Manchester Utd,A
+1993,28,1993-01-23,Coventry City,3,0,Oldham Athletic,H
+1993,25,1993-01-26,Blackburn,2,5,Coventry City,A
+1993,25,1993-01-26,Oldham Athletic,0,1,Manchester City,A
+1993,25,1993-01-26,Wimbledon,1,3,Everton,A
+1993,25,1993-01-26,Middlesbrough,2,1,Southampton,H
+1993,25,1993-01-27,Norwich City,4,2,Crystal Palace,H
+1993,25,1993-01-27,Tottenham,0,2,Ipswich Town,A
+1993,25,1993-01-27,Manchester Utd,2,0,Nott'ham Forest,H
+1993,25,1993-01-27,Aston Villa,3,1,Sheffield Utd,H
+1993,25,1993-01-27,QPR,1,1,Chelsea,D
+1993,26,1993-01-30,Manchester City,3,2,Blackburn,H
+1993,26,1993-01-30,Coventry City,0,2,Wimbledon,A
+1993,26,1993-01-30,Nott'ham Forest,2,0,Oldham Athletic,H
+1993,26,1993-01-30,Southampton,2,0,Aston Villa,H
+1993,26,1993-01-30,Sheffield Utd,1,2,QPR,A
+1993,26,1993-01-30,Chelsea,0,2,Sheffield Weds,A
+1993,26,1993-01-30,Everton,0,1,Norwich City,A
+1993,26,1993-01-30,Ipswich Town,2,1,Manchester Utd,H
+1993,26,1993-01-30,Crystal Palace,1,3,Tottenham,A
+1993,26,1993-01-30,Leeds United,3,0,Middlesbrough,H
+1993,26,1993-01-31,Arsenal,0,1,Liverpool,A
+1993,27,1993-02-02,Blackburn,1,2,Crystal Palace,A
+1993,27,1993-02-06,QPR,1,1,Manchester City,D
+1993,27,1993-02-06,Oldham Athletic,3,1,Chelsea,H
+1993,27,1993-02-06,Liverpool,0,0,Nott'ham Forest,D
+1993,27,1993-02-06,Manchester Utd,2,1,Sheffield Utd,H
+1993,27,1993-02-06,Aston Villa,2,0,Ipswich Town,H
+1993,27,1993-02-06,Sheffield Weds,3,1,Everton,H
+1993,27,1993-02-06,Middlesbrough,0,2,Coventry City,A
+1993,27,1993-02-06,Wimbledon,1,0,Leeds United,H
+1993,27,1993-02-07,Tottenham,4,2,Southampton,H
+1993,28,1993-02-08,Leeds United,0,0,Manchester Utd,D
+1993,28,1993-02-09,Sheffield Utd,2,0,Middlesbrough,H
+1993,28,1993-02-09,Ipswich Town,1,1,QPR,D
+1993,28,1993-02-10,Crystal Palace,1,0,Aston Villa,H
+1993,28,1993-02-10,Arsenal,0,1,Wimbledon,A
+1993,28,1993-02-10,Everton,1,2,Tottenham,A
+1993,28,1993-02-10,Chelsea,0,0,Liverpool,D
+1993,28,1993-02-10,Southampton,3,0,Norwich City,H
+1993,29,1993-02-13,Southampton,2,1,Liverpool,H
+1993,29,1993-02-13,Leeds United,2,0,Oldham Athletic,H
+1993,29,1993-02-13,Chelsea,0,1,Aston Villa,A
+1993,30,1993-02-20,Manchester Utd,2,1,Southampton,H
+1993,30,1993-02-20,Liverpool,0,0,Ipswich Town,D
+1993,30,1993-02-20,Middlesbrough,1,2,Nott'ham Forest,A
+1993,30,1993-02-20,Oldham Athletic,0,1,Arsenal,A
+1993,30,1993-02-20,Tottenham,4,0,Leeds United,H
+1993,30,1993-02-20,Aston Villa,2,1,Everton,H
+1993,30,1993-02-20,QPR,2,0,Coventry City,H
+1993,30,1993-02-20,Wimbledon,2,0,Sheffield Utd,H
+1993,30,1993-02-20,Sheffield Weds,2,1,Crystal Palace,H
+1993,30,1993-02-20,Norwich City,2,1,Manchester City,H
+1993,30,1993-02-21,Blackburn,2,0,Chelsea,H
+1993,22,1993-02-22,Sheffield Utd,2,0,Oldham Athletic,H
+1993,28,1993-02-23,Manchester City,1,2,Sheffield Weds,A
+1993,21,1993-02-24,Nott'ham Forest,1,0,QPR,H
+1993,33,1993-02-24,Arsenal,0,0,Leeds United,D
+1993,31,1993-02-27,Everton,2,2,Oldham Athletic,D
+1993,31,1993-02-27,Southampton,3,2,Sheffield Utd,H
+1993,31,1993-02-27,Tottenham,3,2,QPR,H
+1993,31,1993-02-27,Aston Villa,1,0,Wimbledon,H
+1993,31,1993-02-27,Manchester Utd,3,0,Middlesbrough,H
+1993,31,1993-02-27,Nott'ham Forest,0,2,Manchester City,A
+1993,31,1993-02-27,Leeds United,1,0,Ipswich Town,H
+1993,31,1993-02-27,Crystal Palace,0,0,Coventry City,D
+1993,31,1993-02-27,Sheffield Weds,1,1,Liverpool,D
+1993,31,1993-02-28,Norwich City,0,0,Blackburn,D
+1993,31,1993-03-01,Chelsea,1,0,Arsenal,H
+1993,29,1993-03-02,Ipswich Town,0,1,Middlesbrough,A
+1993,29,1993-03-02,Sheffield Utd,6,0,Tottenham,H
+1993,27,1993-03-03,Norwich City,1,1,Arsenal,D
+1993,29,1993-03-03,Coventry City,1,0,Sheffield Weds,H
+1993,29,1993-03-03,Everton,2,1,Blackburn,H
+1993,33,1993-03-03,Nott'ham Forest,1,1,Crystal Palace,D
+1993,32,1993-03-06,Wimbledon,1,2,Southampton,A
+1993,32,1993-03-06,QPR,3,1,Norwich City,H
+1993,32,1993-03-06,Liverpool,1,2,Manchester Utd,A
+1993,32,1993-03-07,Coventry City,0,1,Everton,A
+1993,33,1993-03-09,Blackburn,0,0,Southampton,D
+1993,33,1993-03-09,Wimbledon,2,0,Middlesbrough,H
+1993,33,1993-03-09,Oldham Athletic,1,0,Manchester Utd,H
+1993,33,1993-03-10,Manchester City,1,0,Coventry City,H
+1993,33,1993-03-10,Liverpool,1,0,QPR,H
+1993,33,1993-03-10,Aston Villa,0,0,Tottenham,D
+1993,33,1993-03-10,Sheffield Utd,0,1,Norwich City,A
+1993,33,1993-03-10,Chelsea,2,1,Everton,H
+1993,33,1993-03-10,Ipswich Town,0,1,Sheffield Weds,A
+1993,34,1993-03-13,Coventry City,0,2,Arsenal,A
+1993,34,1993-03-13,QPR,1,2,Wimbledon,A
+1993,34,1993-03-13,Norwich City,1,0,Oldham Athletic,H
+1993,34,1993-03-13,Southampton,4,3,Ipswich Town,H
+1993,34,1993-03-13,Leeds United,1,0,Manchester City,H
+1993,34,1993-03-13,Everton,3,0,Nott'ham Forest,H
+1993,34,1993-03-13,Middlesbrough,1,2,Liverpool,A
+1993,34,1993-03-14,Manchester Utd,1,1,Aston Villa,D
+1993,34,1993-03-15,Crystal Palace,1,1,Chelsea,D
+1993,29,1993-03-17,Nott'ham Forest,0,3,Norwich City,A
+1993,35,1993-03-20,Ipswich Town,0,0,Coventry City,D
+1993,35,1993-03-20,Liverpool,1,0,Everton,H
+1993,35,1993-03-20,Arsenal,4,3,Southampton,H
+1993,35,1993-03-20,Aston Villa,2,0,Sheffield Weds,H
+1993,35,1993-03-20,Wimbledon,3,0,Norwich City,H
+1993,35,1993-03-20,Manchester City,1,1,Manchester Utd,D
+1993,35,1993-03-20,Oldham Athletic,2,2,QPR,D
+1993,35,1993-03-20,Chelsea,1,1,Tottenham,D
+1993,35,1993-03-20,Sheffield Utd,0,1,Crystal Palace,A
+1993,35,1993-03-20,Blackburn,1,1,Middlesbrough,D
+1993,35,1993-03-21,Nott'ham Forest,1,1,Leeds United,D
+1993,36,1993-03-22,Middlesbrough,2,3,Oldham Athletic,A
+1993,36,1993-03-23,Crystal Palace,1,1,Liverpool,D
+1993,36,1993-03-24,Tottenham,3,1,Manchester City,H
+1993,36,1993-03-24,Coventry City,1,3,Sheffield Utd,A
+1993,36,1993-03-24,Manchester Utd,0,0,Arsenal,D
+1993,36,1993-03-24,Norwich City,1,0,Aston Villa,H
+1993,36,1993-03-24,Everton,3,0,Ipswich Town,H
+1993,36,1993-03-24,Leeds United,1,1,Chelsea,D
+1993,36,1993-03-24,Southampton,1,2,Nott'ham Forest,A
+1993,36,1993-03-24,QPR,0,3,Blackburn,A
+1993,36,1993-03-24,Sheffield Weds,1,1,Wimbledon,D
+1993,37,1993-04-03,Coventry City,2,0,Southampton,H
+1993,37,1993-04-03,Blackburn,4,1,Liverpool,H
+1993,37,1993-04-03,Manchester City,3,1,Ipswich Town,H
+1993,37,1993-04-03,Crystal Palace,1,1,QPR,D
+1993,37,1993-04-03,Oldham Athletic,6,2,Wimbledon,H
+1993,37,1993-04-03,Chelsea,4,0,Middlesbrough,H
+1993,37,1993-04-04,Nott'ham Forest,0,1,Aston Villa,A
+1993,37,1993-04-05,Norwich City,1,3,Manchester Utd,A
+1993,32,1993-04-06,Ipswich Town,1,1,Chelsea,D
+1993,32,1993-04-06,Sheffield Utd,2,1,Leeds United,H
+1993,40,1993-04-06,Middlesbrough,1,0,Arsenal,H
+1993,28,1993-04-07,Nott'ham Forest,1,3,Blackburn,A
+1993,32,1993-04-07,Oldham Athletic,1,1,Sheffield Weds,D
+1993,38,1993-04-09,Sheffield Utd,1,1,Manchester City,D
+1993,38,1993-04-09,Wimbledon,4,0,Crystal Palace,H
+1993,38,1993-04-09,Tottenham,5,1,Norwich City,H
+1993,38,1993-04-10,Aston Villa,0,0,Coventry City,D
+1993,38,1993-04-10,QPR,4,3,Nott'ham Forest,H
+1993,38,1993-04-10,Southampton,1,0,Chelsea,H
+1993,38,1993-04-10,Liverpool,1,0,Oldham Athletic,H
+1993,38,1993-04-10,Middlesbrough,1,2,Everton,A
+1993,38,1993-04-10,Manchester Utd,2,1,Sheffield Weds,H
+1993,38,1993-04-10,Leeds United,5,2,Blackburn,H
+1993,38,1993-04-10,Ipswich Town,1,2,Arsenal,A
+1993,39,1993-04-12,Manchester City,1,1,Liverpool,D
+1993,39,1993-04-12,Crystal Palace,4,1,Middlesbrough,H
+1993,39,1993-04-12,Arsenal,0,1,Aston Villa,A
+1993,39,1993-04-12,Blackburn,2,1,Ipswich Town,H
+1993,39,1993-04-12,Everton,3,5,QPR,A
+1993,39,1993-04-12,Coventry City,0,1,Manchester Utd,A
+1993,39,1993-04-12,Chelsea,4,2,Wimbledon,H
+1993,39,1993-04-12,Sheffield Weds,5,2,Southampton,H
+1993,39,1993-04-12,Nott'ham Forest,2,1,Tottenham,H
+1993,39,1993-04-14,Norwich City,4,2,Leeds United,H
+1993,39,1993-04-14,Oldham Athletic,1,1,Sheffield Utd,D
+1993,40,1993-04-17,Tottenham,4,1,Oldham Athletic,H
+1993,40,1993-04-17,Liverpool,4,0,Coventry City,H
+1993,40,1993-04-17,Manchester Utd,3,0,Chelsea,H
+1993,40,1993-04-17,Sheffield Utd,1,3,Blackburn,A
+1993,40,1993-04-17,Southampton,0,0,Everton,D
+1993,40,1993-04-17,Leeds United,0,0,Crystal Palace,D
+1993,40,1993-04-17,Wimbledon,1,0,Nott'ham Forest,H
+1993,40,1993-04-18,Aston Villa,3,1,Manchester City,H
+1993,40,1993-04-19,Ipswich Town,3,1,Norwich City,H
+1993,32,1993-04-20,Middlesbrough,3,0,Tottenham,H
+1993,25,1993-04-21,Liverpool,2,0,Leeds United,H
+1993,29,1993-04-21,Manchester City,1,1,Wimbledon,D
+1993,29,1993-04-21,Crystal Palace,0,2,Manchester Utd,A
+1993,32,1993-04-21,Blackburn,3,0,Aston Villa,H
+1993,32,1993-04-21,Arsenal,1,1,Nott'ham Forest,D
+1993,34,1993-04-21,Sheffield Weds,1,1,Sheffield Utd,D
+1993,41,1993-05-01,Leeds United,1,1,QPR,D
+1993,41,1993-05-01,Sheffield Weds,2,3,Middlesbrough,A
+1993,41,1993-05-01,Chelsea,2,1,Coventry City,H
+1993,41,1993-05-01,Norwich City,1,0,Liverpool,H
+1993,41,1993-05-01,Crystal Palace,3,1,Ipswich Town,H
+1993,41,1993-05-01,Nott'ham Forest,0,2,Sheffield Utd,A
+1993,41,1993-05-01,Everton,0,0,Arsenal,D
+1993,41,1993-05-01,Tottenham,1,1,Wimbledon,D
+1993,41,1993-05-01,Southampton,0,1,Manchester City,A
+1993,41,1993-05-02,Aston Villa,0,1,Oldham Athletic,A
+1993,41,1993-05-03,Manchester Utd,3,1,Blackburn,H
+1993,29,1993-05-04,Arsenal,0,0,QPR,D
+1993,37,1993-05-04,Everton,0,2,Sheffield Utd,A
+1993,37,1993-05-04,Sheffield Weds,1,1,Leeds United,D
+1993,21,1993-05-05,Oldham Athletic,3,2,Liverpool,H
+1993,32,1993-05-05,Manchester City,0,0,Crystal Palace,D
+1993,34,1993-05-05,Tottenham,1,2,Blackburn,A
+1993,25,1993-05-06,Sheffield Weds,1,0,Arsenal,H
+1993,42,1993-05-08,Arsenal,3,0,Crystal Palace,H
+1993,42,1993-05-08,Ipswich Town,2,1,Nott'ham Forest,H
+1993,42,1993-05-08,Middlesbrough,3,3,Norwich City,D
+1993,42,1993-05-08,Liverpool,6,2,Tottenham,H
+1993,42,1993-05-08,Sheffield Utd,4,2,Chelsea,H
+1993,42,1993-05-08,Manchester City,2,5,Everton,A
+1993,42,1993-05-08,Blackburn,1,0,Sheffield Weds,H
+1993,42,1993-05-08,Oldham Athletic,4,3,Southampton,H
+1993,42,1993-05-08,Coventry City,3,3,Leeds United,D
+1993,42,1993-05-09,Wimbledon,1,2,Manchester Utd,A
+1993,42,1993-05-09,QPR,2,1,Aston Villa,H
+1993,37,1993-05-11,Arsenal,1,3,Tottenham,A
+1993,40,1993-05-11,QPR,3,1,Sheffield Weds,H
+1994,1,1993-08-14,Liverpool,2,0,Sheffield Weds,H
+1994,1,1993-08-14,Chelsea,1,2,Blackburn,A
+1994,1,1993-08-14,Aston Villa,4,1,QPR,H
+1994,1,1993-08-14,Oldham Athletic,0,3,Ipswich Town,A
+1994,1,1993-08-14,Arsenal,0,3,Coventry City,A
+1994,1,1993-08-14,Manchester City,1,1,Leeds United,D
+1994,1,1993-08-14,Newcastle Utd,0,1,Tottenham,A
+1994,1,1993-08-14,Sheffield Utd,3,1,Swindon Town,H
+1994,1,1993-08-14,Southampton,0,2,Everton,A
+1994,1,1993-08-14,West Ham,0,2,Wimbledon,A
+1994,1,1993-08-15,Norwich City,0,2,Manchester Utd,A
+1994,2,1993-08-16,Tottenham,0,1,Arsenal,A
+1994,2,1993-08-17,Wimbledon,1,1,Chelsea,D
+1994,2,1993-08-17,Leeds United,1,0,West Ham,H
+1994,2,1993-08-17,Ipswich Town,1,0,Southampton,H
+1994,2,1993-08-17,Everton,1,0,Manchester City,H
+1994,2,1993-08-18,Manchester Utd,3,0,Sheffield Utd,H
+1994,2,1993-08-18,Sheffield Weds,0,0,Aston Villa,D
+1994,2,1993-08-18,Blackburn,2,3,Norwich City,A
+1994,2,1993-08-18,Swindon Town,0,1,Oldham Athletic,A
+1994,2,1993-08-18,Coventry City,2,1,Newcastle Utd,H
+1994,2,1993-08-18,QPR,1,3,Liverpool,A
+1994,3,1993-08-21,Wimbledon,2,2,Aston Villa,D
+1994,3,1993-08-21,Ipswich Town,1,0,Chelsea,H
+1994,3,1993-08-21,Manchester Utd,1,1,Newcastle Utd,D
+1994,3,1993-08-21,Coventry City,1,1,West Ham,D
+1994,3,1993-08-21,Sheffield Weds,0,1,Arsenal,A
+1994,3,1993-08-21,Leeds United,0,4,Norwich City,A
+1994,3,1993-08-21,QPR,2,1,Southampton,H
+1994,3,1993-08-21,Everton,4,2,Sheffield Utd,H
+1994,3,1993-08-21,Blackburn,1,0,Oldham Athletic,H
+1994,3,1993-08-21,Tottenham,1,0,Manchester City,H
+1994,3,1993-08-22,Swindon Town,0,5,Liverpool,A
+1994,4,1993-08-23,Aston Villa,1,2,Manchester Utd,A
+1994,4,1993-08-24,Sheffield Utd,2,1,Wimbledon,H
+1994,4,1993-08-24,Arsenal,2,1,Leeds United,H
+1994,4,1993-08-24,Oldham Athletic,3,3,Coventry City,D
+1994,4,1993-08-24,Manchester City,0,2,Blackburn,A
+1994,4,1993-08-25,West Ham,2,0,Sheffield Weds,H
+1994,4,1993-08-25,Liverpool,1,2,Tottenham,A
+1994,4,1993-08-25,Chelsea,2,0,QPR,H
+1994,4,1993-08-25,Norwich City,1,0,Ipswich Town,H
+1994,4,1993-08-25,Southampton,5,1,Swindon Town,H
+1994,4,1993-08-25,Newcastle Utd,1,0,Everton,H
+1994,5,1993-08-27,Manchester City,1,1,Coventry City,D
+1994,5,1993-08-28,Oldham Athletic,1,1,Wimbledon,D
+1994,5,1993-08-28,Liverpool,2,0,Leeds United,H
+1994,5,1993-08-28,Aston Villa,1,0,Tottenham,H
+1994,5,1993-08-28,Arsenal,2,0,Everton,H
+1994,5,1993-08-28,Chelsea,1,1,Sheffield Weds,D
+1994,5,1993-08-28,Southampton,1,3,Manchester Utd,A
+1994,5,1993-08-28,West Ham,0,4,QPR,A
+1994,5,1993-08-28,Norwich City,0,0,Swindon Town,D
+1994,5,1993-08-28,Sheffield Utd,1,1,Ipswich Town,D
+1994,5,1993-08-29,Newcastle Utd,1,1,Blackburn,D
+1994,6,1993-08-31,Everton,0,1,Aston Villa,A
+1994,6,1993-08-31,Ipswich Town,1,1,Newcastle Utd,D
+1994,6,1993-08-31,Wimbledon,1,0,Southampton,H
+1994,6,1993-08-31,Leeds United,1,0,Oldham Athletic,H
+1994,6,1993-09-01,Coventry City,1,0,Liverpool,H
+1994,6,1993-09-01,Manchester Utd,3,0,West Ham,H
+1994,6,1993-09-01,Swindon Town,1,3,Manchester City,A
+1994,6,1993-09-01,Tottenham,1,1,Chelsea,D
+1994,6,1993-09-01,Sheffield Weds,3,3,Norwich City,D
+1994,6,1993-09-01,Blackburn,1,1,Arsenal,D
+1994,6,1993-09-01,QPR,2,1,Sheffield Utd,H
+1994,7,1993-09-11,Arsenal,4,0,Ipswich Town,H
+1994,7,1993-09-11,Norwich City,0,1,Wimbledon,A
+1994,7,1993-09-11,Manchester City,3,0,QPR,H
+1994,7,1993-09-11,Chelsea,1,0,Manchester Utd,H
+1994,7,1993-09-11,Oldham Athletic,0,1,Everton,A
+1994,7,1993-09-11,Aston Villa,0,0,Coventry City,D
+1994,7,1993-09-11,West Ham,0,0,Swindon Town,D
+1994,7,1993-09-11,Sheffield Utd,2,2,Tottenham,D
+1994,7,1993-09-11,Southampton,0,2,Leeds United,A
+1994,7,1993-09-12,Liverpool,0,1,Blackburn,A
+1994,7,1993-09-13,Newcastle Utd,4,2,Sheffield Weds,H
+1994,8,1993-09-18,Blackburn,0,2,West Ham,A
+1994,8,1993-09-18,Tottenham,5,0,Oldham Athletic,H
+1994,8,1993-09-18,QPR,2,2,Norwich City,D
+1994,8,1993-09-18,Swindon Town,2,2,Newcastle Utd,D
+1994,8,1993-09-18,Leeds United,2,1,Sheffield Utd,H
+1994,8,1993-09-18,Coventry City,1,1,Chelsea,D
+1994,8,1993-09-18,Ipswich Town,1,2,Aston Villa,A
+1994,8,1993-09-18,Everton,2,0,Liverpool,H
+1994,8,1993-09-18,Sheffield Weds,2,0,Southampton,H
+1994,8,1993-09-19,Manchester Utd,1,0,Arsenal,H
+1994,8,1993-09-20,Wimbledon,1,0,Manchester City,H
+1994,9,1993-09-25,Newcastle Utd,2,0,West Ham,H
+1994,9,1993-09-25,Arsenal,1,0,Southampton,H
+1994,9,1993-09-25,Sheffield Utd,0,1,Manchester City,A
+1994,9,1993-09-25,Everton,1,5,Norwich City,A
+1994,9,1993-09-25,Manchester Utd,4,2,Swindon Town,H
+1994,9,1993-09-25,Oldham Athletic,1,1,Aston Villa,D
+1994,9,1993-09-25,Coventry City,0,2,Leeds United,A
+1994,9,1993-09-25,Chelsea,1,0,Liverpool,H
+1994,9,1993-09-25,Blackburn,1,1,Sheffield Weds,D
+1994,9,1993-09-26,Ipswich Town,2,2,Tottenham,D
+1994,9,1993-09-27,Wimbledon,1,1,QPR,D
+1994,10,1993-10-02,Norwich City,1,0,Coventry City,H
+1994,10,1993-10-02,West Ham,1,0,Chelsea,H
+1994,10,1993-10-02,Swindon Town,1,3,Blackburn,A
+1994,10,1993-10-02,Aston Villa,0,2,Newcastle Utd,A
+1994,10,1993-10-02,Liverpool,0,0,Arsenal,D
+1994,10,1993-10-02,Leeds United,4,0,Wimbledon,H
+1994,10,1993-10-02,Sheffield Weds,2,3,Manchester Utd,A
+1994,10,1993-10-02,Southampton,3,3,Sheffield Utd,D
+1994,10,1993-10-02,QPR,3,0,Ipswich Town,H
+1994,10,1993-10-03,Tottenham,3,2,Everton,H
+1994,10,1993-10-04,Manchester City,1,1,Oldham Athletic,D
+1994,11,1993-10-16,Chelsea,1,2,Norwich City,A
+1994,11,1993-10-16,Coventry City,1,1,Southampton,D
+1994,11,1993-10-16,Liverpool,2,1,Oldham Athletic,H
+1994,11,1993-10-16,Swindon Town,1,1,Everton,D
+1994,11,1993-10-16,West Ham,0,0,Aston Villa,D
+1994,11,1993-10-16,Sheffield Weds,2,2,Wimbledon,D
+1994,11,1993-10-16,Manchester Utd,2,1,Tottenham,H
+1994,11,1993-10-16,Newcastle Utd,1,2,QPR,A
+1994,11,1993-10-16,Arsenal,0,0,Manchester City,D
+1994,11,1993-10-17,Ipswich Town,0,0,Leeds United,D
+1994,11,1993-10-18,Blackburn,0,0,Sheffield Utd,D
+1994,12,1993-10-23,Oldham Athletic,0,0,Arsenal,D
+1994,12,1993-10-23,Aston Villa,1,0,Chelsea,H
+1994,12,1993-10-23,Tottenham,1,1,Swindon Town,D
+1994,12,1993-10-23,Manchester City,1,1,Liverpool,D
+1994,12,1993-10-23,Norwich City,0,0,West Ham,D
+1994,12,1993-10-23,Sheffield Utd,1,1,Sheffield Weds,D
+1994,12,1993-10-23,QPR,5,1,Coventry City,H
+1994,12,1993-10-23,Everton,0,1,Manchester Utd,A
+1994,12,1993-10-23,Leeds United,3,3,Blackburn,D
+1994,12,1993-10-24,Southampton,2,1,Newcastle Utd,H
+1994,12,1993-10-25,Wimbledon,0,2,Ipswich Town,A
+1994,13,1993-10-30,Manchester Utd,2,1,QPR,H
+1994,13,1993-10-30,Chelsea,0,1,Oldham Athletic,A
+1994,13,1993-10-30,Arsenal,0,0,Norwich City,D
+1994,13,1993-10-30,Newcastle Utd,4,0,Wimbledon,H
+1994,13,1993-10-30,Blackburn,1,0,Tottenham,H
+1994,13,1993-10-30,Swindon Town,1,2,Aston Villa,A
+1994,13,1993-10-30,Liverpool,4,2,Southampton,H
+1994,13,1993-10-30,Ipswich Town,0,2,Everton,A
+1994,13,1993-10-30,Sheffield Weds,3,3,Leeds United,D
+1994,13,1993-10-31,Coventry City,0,0,Sheffield Utd,D
+1994,13,1993-11-01,West Ham,3,1,Manchester City,H
+1994,14,1993-11-06,Ipswich Town,1,4,Sheffield Weds,A
+1994,14,1993-11-06,Southampton,1,0,Tottenham,H
+1994,14,1993-11-06,QPR,1,0,Blackburn,H
+1994,14,1993-11-06,Arsenal,1,2,Aston Villa,A
+1994,14,1993-11-06,Coventry City,2,1,Everton,H
+1994,14,1993-11-06,Sheffield Utd,1,2,Norwich City,A
+1994,14,1993-11-06,Leeds United,4,1,Chelsea,H
+1994,14,1993-11-06,Liverpool,2,0,West Ham,H
+1994,14,1993-11-06,Wimbledon,3,0,Swindon Town,H
+1994,14,1993-11-07,Manchester City,2,3,Manchester Utd,A
+1994,14,1993-11-08,Oldham Athletic,1,3,Newcastle Utd,A
+1994,15,1993-11-20,Aston Villa,1,0,Sheffield Utd,H
+1994,15,1993-11-20,Blackburn,2,0,Southampton,H
+1994,15,1993-11-20,West Ham,2,0,Oldham Athletic,H
+1994,15,1993-11-20,Chelsea,0,2,Arsenal,A
+1994,15,1993-11-20,Norwich City,1,1,Manchester City,D
+1994,15,1993-11-20,Manchester Utd,3,1,Wimbledon,H
+1994,15,1993-11-20,Everton,0,3,QPR,A
+1994,15,1993-11-20,Swindon Town,2,2,Ipswich Town,D
+1994,15,1993-11-20,Tottenham,1,1,Leeds United,D
+1994,15,1993-11-20,Sheffield Weds,0,0,Coventry City,D
+1994,15,1993-11-21,Newcastle Utd,3,0,Liverpool,H
+1994,16,1993-11-22,Chelsea,0,0,Manchester City,D
+1994,16,1993-11-23,Blackburn,2,1,Coventry City,H
+1994,16,1993-11-23,Everton,1,1,Leeds United,D
+1994,16,1993-11-24,West Ham,0,0,Arsenal,D
+1994,16,1993-11-24,Swindon Town,1,0,QPR,H
+1994,16,1993-11-24,Aston Villa,0,2,Southampton,A
+1994,16,1993-11-24,Sheffield Weds,3,0,Oldham Athletic,H
+1994,16,1993-11-24,Manchester Utd,0,0,Ipswich Town,D
+1994,16,1993-11-24,Newcastle Utd,4,0,Sheffield Utd,H
+1994,16,1993-11-24,Tottenham,1,1,Wimbledon,D
+1994,17,1993-11-27,Wimbledon,1,1,Everton,D
+1994,17,1993-11-27,Arsenal,2,1,Newcastle Utd,H
+1994,17,1993-11-27,Oldham Athletic,2,1,Norwich City,H
+1994,17,1993-11-27,Manchester City,1,3,Sheffield Weds,A
+1994,17,1993-11-27,Leeds United,3,0,Swindon Town,H
+1994,17,1993-11-27,Sheffield Utd,1,0,Chelsea,H
+1994,17,1993-11-27,Coventry City,0,1,Manchester Utd,A
+1994,17,1993-11-27,Ipswich Town,1,0,Blackburn,H
+1994,17,1993-11-27,QPR,1,1,Tottenham,D
+1994,17,1993-11-28,Liverpool,2,1,Aston Villa,H
+1994,17,1993-11-29,Southampton,0,2,West Ham,A
+1994,18,1993-12-04,Manchester Utd,2,2,Norwich City,D
+1994,18,1993-12-04,Tottenham,1,2,Newcastle Utd,A
+1994,18,1993-12-04,Wimbledon,1,2,West Ham,A
+1994,18,1993-12-04,Sheffield Weds,3,1,Liverpool,H
+1994,18,1993-12-04,Everton,1,0,Southampton,H
+1994,18,1993-12-04,Coventry City,1,0,Arsenal,H
+1994,18,1993-12-04,Leeds United,3,2,Manchester City,H
+1994,18,1993-12-04,Swindon Town,0,0,Sheffield Utd,D
+1994,18,1993-12-04,Ipswich Town,0,0,Oldham Athletic,D
+1994,18,1993-12-04,QPR,2,2,Aston Villa,D
+1994,18,1993-12-05,Blackburn,2,0,Chelsea,H
+1994,19,1993-12-06,Arsenal,1,1,Tottenham,D
+1994,19,1993-12-07,Sheffield Utd,0,3,Manchester Utd,A
+1994,19,1993-12-07,Oldham Athletic,2,1,Swindon Town,H
+1994,19,1993-12-08,West Ham,0,1,Leeds United,A
+1994,19,1993-12-08,Liverpool,3,2,QPR,H
+1994,19,1993-12-08,Southampton,0,1,Ipswich Town,A
+1994,19,1993-12-08,Manchester City,1,0,Everton,H
+1994,19,1993-12-08,Aston Villa,2,2,Sheffield Weds,D
+1994,20,1993-12-11,Southampton,0,1,QPR,A
+1994,20,1993-12-11,West Ham,3,2,Coventry City,H
+1994,20,1993-12-11,Sheffield Utd,0,0,Everton,D
+1994,20,1993-12-11,Newcastle Utd,1,1,Manchester Utd,D
+1994,20,1993-12-11,Aston Villa,0,1,Wimbledon,A
+1994,20,1993-12-11,Oldham Athletic,1,2,Blackburn,A
+1994,20,1993-12-11,Chelsea,1,1,Ipswich Town,D
+1994,20,1993-12-11,Manchester City,0,2,Tottenham,A
+1994,20,1993-12-11,Liverpool,2,2,Swindon Town,D
+1994,20,1993-12-12,Arsenal,1,0,Sheffield Weds,H
+1994,20,1993-12-13,Norwich City,2,1,Leeds United,H
+1994,21,1993-12-18,Leeds United,2,1,Arsenal,H
+1994,21,1993-12-18,Tottenham,3,3,Liverpool,D
+1994,21,1993-12-18,Everton,0,2,Newcastle Utd,A
+1994,21,1993-12-18,Coventry City,1,1,Oldham Athletic,D
+1994,21,1993-12-18,Swindon Town,2,1,Southampton,H
+1994,21,1993-12-18,Blackburn,2,0,Manchester City,H
+1994,21,1993-12-18,Sheffield Weds,5,0,West Ham,H
+1994,21,1993-12-18,Wimbledon,2,0,Sheffield Utd,H
+1994,21,1993-12-18,Ipswich Town,2,1,Norwich City,H
+1994,21,1993-12-19,Manchester Utd,3,1,Aston Villa,H
+1994,22,1993-12-22,Newcastle Utd,1,1,Leeds United,D
+1994,22,1993-12-26,Sheffield Utd,0,0,Liverpool,D
+1994,22,1993-12-26,Wimbledon,1,2,Coventry City,A
+1994,22,1993-12-26,Manchester Utd,1,1,Blackburn,D
+1994,22,1993-12-27,Tottenham,1,3,Norwich City,A
+1994,22,1993-12-27,Ipswich Town,1,1,West Ham,D
+1994,22,1993-12-27,QPR,2,0,Oldham Athletic,H
+1994,22,1993-12-27,Southampton,3,1,Chelsea,H
+1994,22,1993-12-27,Everton,0,2,Sheffield Weds,A
+1994,22,1993-12-27,Swindon Town,0,4,Arsenal,A
+1994,23,1993-12-28,Manchester City,1,1,Southampton,D
+1994,23,1993-12-28,West Ham,1,3,Tottenham,A
+1994,23,1993-12-28,Chelsea,1,0,Newcastle Utd,H
+1994,23,1993-12-28,Liverpool,1,1,Wimbledon,D
+1994,23,1993-12-29,Sheffield Weds,3,3,Swindon Town,D
+1994,23,1993-12-29,Oldham Athletic,2,5,Manchester Utd,A
+1994,23,1993-12-29,Blackburn,2,0,Everton,H
+1994,23,1993-12-29,Norwich City,1,2,Aston Villa,A
+1994,23,1993-12-29,Leeds United,1,1,QPR,D
+1994,23,1993-12-29,Arsenal,3,0,Sheffield Utd,H
+1994,24,1994-01-01,Aston Villa,0,1,Blackburn,A
+1994,24,1994-01-01,Tottenham,1,2,Coventry City,A
+1994,24,1994-01-01,Newcastle Utd,2,0,Manchester City,H
+1994,24,1994-01-01,Swindon Town,1,3,Chelsea,A
+1994,24,1994-01-01,Everton,0,1,West Ham,A
+1994,24,1994-01-01,Wimbledon,0,3,Arsenal,A
+1994,24,1994-01-01,Sheffield Utd,2,1,Oldham Athletic,H
+1994,24,1994-01-01,QPR,1,2,Sheffield Weds,A
+1994,24,1994-01-01,Manchester Utd,0,0,Leeds United,D
+1994,24,1994-01-01,Ipswich Town,1,2,Liverpool,A
+1994,24,1994-01-01,Southampton,0,1,Norwich City,A
+1994,25,1994-01-03,Coventry City,1,1,Swindon Town,D
+1994,25,1994-01-03,West Ham,0,0,Sheffield Utd,D
+1994,25,1994-01-03,Arsenal,0,0,QPR,D
+1994,25,1994-01-03,Chelsea,4,2,Everton,H
+1994,25,1994-01-03,Sheffield Weds,1,0,Tottenham,H
+1994,25,1994-01-04,Norwich City,1,2,Newcastle Utd,A
+1994,25,1994-01-04,Liverpool,3,3,Manchester Utd,D
+1994,26,1994-01-15,Oldham Athletic,0,3,Liverpool,A
+1994,26,1994-01-15,Wimbledon,2,1,Sheffield Weds,H
+1994,26,1994-01-15,Everton,6,2,Swindon Town,H
+1994,26,1994-01-15,Norwich City,1,1,Chelsea,D
+1994,26,1994-01-15,Manchester City,0,0,Arsenal,D
+1994,26,1994-01-15,Southampton,1,0,Coventry City,H
+1994,26,1994-01-15,Tottenham,0,1,Manchester Utd,A
+1994,26,1994-01-15,Aston Villa,3,1,West Ham,H
+1994,26,1994-01-15,Sheffield Utd,1,2,Blackburn,A
+1994,26,1994-01-15,Leeds United,0,0,Ipswich Town,D
+1994,26,1994-01-16,QPR,1,2,Newcastle Utd,A
+1994,27,1994-01-22,Sheffield Weds,3,1,Sheffield Utd,H
+1994,27,1994-01-22,Chelsea,1,1,Aston Villa,D
+1994,27,1994-01-22,Coventry City,0,1,QPR,A
+1994,27,1994-01-22,Newcastle Utd,1,2,Southampton,A
+1994,27,1994-01-22,Swindon Town,2,1,Tottenham,H
+1994,27,1994-01-22,Liverpool,2,1,Manchester City,H
+1994,27,1994-01-22,Manchester Utd,1,0,Everton,H
+1994,27,1994-01-22,Ipswich Town,0,0,Wimbledon,D
+1994,27,1994-01-22,Arsenal,1,1,Oldham Athletic,D
+1994,27,1994-01-23,Blackburn,2,1,Leeds United,H
+1994,27,1994-01-24,West Ham,3,3,Norwich City,D
+1994,23,1994-02-02,Coventry City,1,0,Ipswich Town,H
+1994,16,1994-02-05,Norwich City,2,2,Liverpool,D
+1994,28,1994-02-05,Blackburn,3,0,Wimbledon,H
+1994,28,1994-02-05,Oldham Athletic,2,1,Southampton,H
+1994,28,1994-02-05,Manchester City,2,1,Ipswich Town,H
+1994,28,1994-02-05,Everton,4,2,Chelsea,H
+1994,28,1994-02-05,Swindon Town,3,1,Coventry City,H
+1994,28,1994-02-05,Tottenham,1,3,Sheffield Weds,A
+1994,29,1994-02-05,QPR,2,3,Manchester Utd,A
+1994,28,1994-02-06,Aston Villa,1,0,Leeds United,H
+1994,29,1994-02-12,Everton,0,0,Ipswich Town,D
+1994,29,1994-02-12,Oldham Athletic,2,1,Chelsea,H
+1994,29,1994-02-12,Tottenham,0,2,Blackburn,A
+1994,29,1994-02-12,Wimbledon,4,2,Newcastle Utd,H
+1994,29,1994-02-12,Sheffield Utd,0,0,Coventry City,D
+1994,29,1994-02-12,Aston Villa,5,0,Swindon Town,H
+1994,29,1994-02-12,Manchester City,0,0,West Ham,D
+1994,29,1994-02-13,Norwich City,1,1,Arsenal,D
+1994,29,1994-02-14,Southampton,4,2,Liverpool,H
+1994,30,1994-02-19,Everton,1,1,Arsenal,D
+1994,30,1994-02-19,Blackburn,1,0,Newcastle Utd,H
+1994,30,1994-02-19,Coventry City,4,0,Manchester City,H
+1994,30,1994-02-19,Swindon Town,3,3,Norwich City,D
+1994,30,1994-02-19,Leeds United,2,0,Liverpool,H
+1994,19,1994-02-22,Norwich City,2,2,Blackburn,D
+1994,22,1994-02-22,Aston Villa,0,0,Manchester City,D
+1994,30,1994-02-22,Ipswich Town,3,2,Sheffield Utd,H
+1994,19,1994-02-23,Newcastle Utd,4,0,Coventry City,H
+1994,31,1994-02-26,Southampton,1,0,Wimbledon,H
+1994,31,1994-02-26,West Ham,2,2,Manchester Utd,D
+1994,31,1994-02-26,Manchester City,2,1,Swindon Town,H
+1994,31,1994-02-26,Norwich City,1,1,Sheffield Weds,D
+1994,31,1994-02-26,Arsenal,1,0,Blackburn,H
+1994,31,1994-02-26,Liverpool,1,0,Coventry City,H
+1994,31,1994-02-27,Chelsea,4,3,Tottenham,H
+1994,31,1994-02-28,Oldham Athletic,1,1,Leeds United,D
+1994,30,1994-03-02,Tottenham,1,1,Aston Villa,D
+1994,32,1994-03-05,Sheffield Weds,0,1,Newcastle Utd,A
+1994,32,1994-03-05,QPR,1,1,Manchester City,D
+1994,32,1994-03-05,Ipswich Town,1,5,Arsenal,A
+1994,32,1994-03-05,Tottenham,2,2,Sheffield Utd,D
+1994,32,1994-03-05,Blackburn,2,0,Liverpool,H
+1994,32,1994-03-05,Wimbledon,3,1,Norwich City,H
+1994,32,1994-03-05,Manchester Utd,0,1,Chelsea,A
+1994,32,1994-03-05,Swindon Town,1,1,West Ham,D
+1994,32,1994-03-05,Leeds United,0,0,Southampton,D
+1994,32,1994-03-05,Everton,2,1,Oldham Athletic,H
+1994,32,1994-03-06,Coventry City,0,1,Aston Villa,A
+1994,33,1994-03-12,Manchester City,0,1,Wimbledon,A
+1994,33,1994-03-12,Newcastle Utd,7,1,Swindon Town,H
+1994,33,1994-03-12,Southampton,1,1,Sheffield Weds,D
+1994,33,1994-03-12,Norwich City,3,4,QPR,A
+1994,33,1994-03-12,Aston Villa,0,1,Ipswich Town,A
+1994,33,1994-03-13,Sheffield Utd,2,2,Leeds United,D
+1994,33,1994-03-13,Liverpool,2,1,Everton,H
+1994,19,1994-03-16,Chelsea,2,0,Wimbledon,H
+1994,25,1994-03-16,Leeds United,2,0,Aston Villa,H
+1994,31,1994-03-16,Sheffield Utd,1,1,QPR,D
+1994,35,1994-03-16,Manchester Utd,5,0,Sheffield Weds,H
+1994,34,1994-03-19,QPR,1,0,Wimbledon,H
+1994,34,1994-03-19,Tottenham,1,1,Ipswich Town,D
+1994,34,1994-03-19,West Ham,2,4,Newcastle Utd,A
+1994,34,1994-03-19,Southampton,0,4,Arsenal,A
+1994,34,1994-03-19,Manchester City,0,0,Sheffield Utd,D
+1994,34,1994-03-19,Liverpool,2,1,Chelsea,H
+1994,34,1994-03-19,Leeds United,1,0,Coventry City,H
+1994,34,1994-03-19,Swindon Town,2,2,Manchester Utd,D
+1994,34,1994-03-19,Aston Villa,1,2,Oldham Athletic,A
+1994,34,1994-03-20,Sheffield Weds,1,2,Blackburn,A
+1994,34,1994-03-21,Norwich City,3,0,Everton,H
+1994,33,1994-03-22,Arsenal,2,2,Manchester Utd,D
+1994,31,1994-03-23,Newcastle Utd,2,0,Ipswich Town,H
+1994,35,1994-03-26,Wimbledon,1,0,Leeds United,H
+1994,35,1994-03-26,Chelsea,2,0,West Ham,H
+1994,35,1994-03-26,Everton,0,1,Tottenham,A
+1994,35,1994-03-26,Arsenal,1,0,Liverpool,H
+1994,35,1994-03-26,Sheffield Utd,0,0,Southampton,D
+1994,35,1994-03-26,Coventry City,2,1,Norwich City,H
+1994,35,1994-03-26,Ipswich Town,1,3,QPR,A
+1994,35,1994-03-26,Blackburn,3,1,Swindon Town,H
+1994,35,1994-03-26,Oldham Athletic,0,0,Manchester City,D
+1994,28,1994-03-28,Sheffield Utd,3,2,West Ham,H
+1994,25,1994-03-29,Ipswich Town,2,2,Manchester City,D
+1994,25,1994-03-29,Wimbledon,4,1,Blackburn,H
+1994,28,1994-03-29,Newcastle Utd,3,0,Norwich City,H
+1994,25,1994-03-30,Southampton,1,3,Oldham Athletic,A
+1994,28,1994-03-30,Manchester Utd,1,0,Liverpool,H
+1994,30,1994-03-30,Sheffield Weds,3,1,Chelsea,H
+1994,31,1994-03-30,Aston Villa,0,0,Everton,D
+1994,36,1994-04-01,Leeds United,1,1,Newcastle Utd,D
+1994,36,1994-04-02,Arsenal,1,1,Swindon Town,D
+1994,36,1994-04-02,Liverpool,1,2,Sheffield Utd,A
+1994,36,1994-04-02,West Ham,2,1,Ipswich Town,H
+1994,36,1994-04-02,Sheffield Weds,5,1,Everton,H
+1994,36,1994-04-02,Blackburn,2,0,Manchester Utd,H
+1994,36,1994-04-02,Norwich City,1,2,Tottenham,A
+1994,36,1994-04-02,Chelsea,2,0,Southampton,H
+1994,36,1994-04-02,Oldham Athletic,4,1,QPR,H
+1994,36,1994-04-02,Manchester City,3,0,Aston Villa,H
+1994,36,1994-04-02,Coventry City,1,2,Wimbledon,A
+1994,37,1994-04-04,Manchester Utd,3,2,Oldham Athletic,H
+1994,37,1994-04-04,Wimbledon,1,1,Liverpool,D
+1994,37,1994-04-04,Swindon Town,0,1,Sheffield Weds,A
+1994,37,1994-04-04,Aston Villa,0,0,Norwich City,D
+1994,37,1994-04-04,Southampton,0,1,Manchester City,A
+1994,37,1994-04-04,Newcastle Utd,0,0,Chelsea,D
+1994,37,1994-04-04,Ipswich Town,0,2,Coventry City,A
+1994,37,1994-04-04,Tottenham,1,4,West Ham,A
+1994,37,1994-04-04,Sheffield Utd,1,1,Arsenal,D
+1994,37,1994-04-04,Everton,0,3,Blackburn,A
+1994,37,1994-04-04,QPR,0,4,Leeds United,A
+1994,38,1994-04-09,Norwich City,4,5,Southampton,A
+1994,38,1994-04-09,Manchester City,2,1,Newcastle Utd,H
+1994,38,1994-04-09,Coventry City,1,0,Tottenham,H
+1994,38,1994-04-09,Sheffield Weds,3,1,QPR,H
+1994,38,1994-04-09,West Ham,0,1,Everton,A
+1994,38,1994-04-09,Liverpool,1,0,Ipswich Town,H
+1994,38,1994-04-11,Blackburn,1,0,Aston Villa,H
+1994,21,1994-04-13,QPR,1,1,Chelsea,D
+1994,39,1994-04-16,Southampton,3,1,Blackburn,H
+1994,39,1994-04-16,Wimbledon,1,0,Manchester Utd,H
+1994,39,1994-04-16,Liverpool,0,2,Newcastle Utd,A
+1994,39,1994-04-16,Ipswich Town,1,1,Swindon Town,D
+1994,39,1994-04-16,Oldham Athletic,1,2,West Ham,A
+1994,39,1994-04-16,Manchester City,1,1,Norwich City,D
+1994,39,1994-04-16,QPR,2,1,Everton,H
+1994,39,1994-04-16,Arsenal,1,0,Chelsea,H
+1994,39,1994-04-16,Sheffield Utd,1,2,Aston Villa,A
+1994,39,1994-04-16,Coventry City,1,1,Sheffield Weds,D
+1994,39,1994-04-17,Leeds United,2,0,Tottenham,H
+1994,38,1994-04-19,Arsenal,1,1,Wimbledon,D
+1994,40,1994-04-23,Newcastle Utd,3,2,Oldham Athletic,H
+1994,40,1994-04-23,Norwich City,0,1,Sheffield Utd,A
+1994,40,1994-04-23,Aston Villa,1,2,Arsenal,A
+1994,40,1994-04-23,Everton,0,0,Coventry City,D
+1994,40,1994-04-23,Tottenham,3,0,Southampton,H
+1994,40,1994-04-23,Chelsea,1,1,Leeds United,D
+1994,40,1994-04-23,Sheffield Weds,5,0,Ipswich Town,H
+1994,40,1994-04-23,Swindon Town,2,4,Wimbledon,A
+1994,40,1994-04-23,Manchester Utd,2,0,Manchester City,H
+1994,40,1994-04-23,West Ham,1,2,Liverpool,A
+1994,40,1994-04-24,Blackburn,1,1,QPR,D
+1994,30,1994-04-26,Wimbledon,3,0,Oldham Athletic,H
+1994,28,1994-04-27,QPR,1,1,Arsenal,D
+1994,33,1994-04-27,West Ham,1,2,Blackburn,A
+1994,35,1994-04-27,Newcastle Utd,5,1,Aston Villa,H
+1994,38,1994-04-27,Chelsea,2,0,Swindon Town,H
+1994,38,1994-04-27,Leeds United,0,2,Manchester Utd,A
+1994,41,1994-04-30,Southampton,4,1,Aston Villa,H
+1994,41,1994-04-30,Oldham Athletic,0,0,Sheffield Weds,D
+1994,41,1994-04-30,Manchester City,2,2,Chelsea,D
+1994,41,1994-04-30,Wimbledon,2,1,Tottenham,H
+1994,41,1994-04-30,Arsenal,0,2,West Ham,A
+1994,41,1994-04-30,Liverpool,0,1,Norwich City,A
+1994,41,1994-04-30,Leeds United,3,0,Everton,H
+1994,41,1994-04-30,QPR,1,3,Swindon Town,A
+1994,41,1994-04-30,Sheffield Utd,2,0,Newcastle Utd,H
+1994,41,1994-05-01,Ipswich Town,1,2,Manchester Utd,A
+1994,41,1994-05-02,Coventry City,2,1,Blackburn,H
+1994,29,1994-05-03,Leeds United,2,2,Sheffield Weds,D
+1994,30,1994-05-03,QPR,0,0,West Ham,D
+1994,38,1994-05-03,Oldham Athletic,1,1,Sheffield Utd,D
+1994,30,1994-05-04,Manchester Utd,2,0,Southampton,H
+1994,33,1994-05-04,Chelsea,1,2,Coventry City,A
+1994,33,1994-05-05,Oldham Athletic,0,2,Tottenham,A
+1994,42,1994-05-07,Everton,3,2,Wimbledon,H
+1994,42,1994-05-07,Sheffield Weds,1,1,Manchester City,D
+1994,42,1994-05-07,West Ham,3,3,Southampton,D
+1994,42,1994-05-07,Norwich City,1,1,Oldham Athletic,D
+1994,42,1994-05-07,Chelsea,3,2,Sheffield Utd,H
+1994,42,1994-05-07,Newcastle Utd,2,0,Arsenal,H
+1994,42,1994-05-07,Tottenham,1,2,QPR,A
+1994,42,1994-05-07,Swindon Town,0,5,Leeds United,A
+1994,42,1994-05-07,Blackburn,0,0,Ipswich Town,D
+1994,42,1994-05-07,Aston Villa,2,1,Liverpool,H
+1994,42,1994-05-08,Manchester Utd,0,0,Coventry City,D
+1995,1,1994-08-20,Everton,2,2,Aston Villa,D
+1995,1,1994-08-20,Ipswich Town,0,1,Nott'ham Forest,A
+1995,1,1994-08-20,Southampton,1,1,Blackburn,D
+1995,1,1994-08-20,West Ham,0,0,Leeds United,D
+1995,1,1994-08-20,Arsenal,3,0,Manchester City,H
+1995,1,1994-08-20,Coventry City,1,1,Wimbledon,D
+1995,1,1994-08-20,Manchester Utd,2,0,QPR,H
+1995,1,1994-08-20,Chelsea,2,0,Norwich City,H
+1995,1,1994-08-20,Sheffield Weds,3,4,Tottenham,A
+1995,1,1994-08-20,Crystal Palace,1,6,Liverpool,A
+1995,1,1994-08-21,Leicester City,1,3,Newcastle Utd,A
+1995,2,1994-08-22,Nott'ham Forest,1,1,Manchester Utd,D
+1995,2,1994-08-23,Leeds United,1,0,Arsenal,H
+1995,2,1994-08-23,Wimbledon,1,1,Ipswich Town,D
+1995,2,1994-08-23,Blackburn,3,0,Leicester City,H
+1995,2,1994-08-24,QPR,3,2,Sheffield Weds,H
+1995,2,1994-08-24,Newcastle Utd,4,0,Coventry City,H
+1995,2,1994-08-24,Aston Villa,1,1,Southampton,D
+1995,2,1994-08-24,Tottenham,2,1,Everton,H
+1995,2,1994-08-24,Norwich City,0,0,Crystal Palace,D
+1995,2,1994-08-24,Manchester City,3,0,West Ham,H
+1995,3,1994-08-27,Blackburn,4,0,Coventry City,H
+1995,3,1994-08-27,Norwich City,1,0,West Ham,H
+1995,3,1994-08-27,QPR,1,2,Ipswich Town,A
+1995,3,1994-08-27,Manchester City,4,0,Everton,H
+1995,3,1994-08-27,Nott'ham Forest,1,0,Leicester City,H
+1995,3,1994-08-27,Newcastle Utd,5,1,Southampton,H
+1995,3,1994-08-27,Tottenham,0,1,Manchester Utd,A
+1995,3,1994-08-27,Leeds United,2,3,Chelsea,A
+1995,3,1994-08-27,Aston Villa,1,1,Crystal Palace,D
+1995,3,1994-08-27,Wimbledon,0,1,Sheffield Weds,A
+1995,3,1994-08-28,Liverpool,3,0,Arsenal,H
+1995,4,1994-08-29,Coventry City,0,1,Aston Villa,A
+1995,4,1994-08-30,Everton,1,2,Nott'ham Forest,A
+1995,4,1994-08-30,Ipswich Town,1,3,Tottenham,A
+1995,4,1994-08-30,Crystal Palace,1,2,Leeds United,A
+1995,4,1994-08-31,Sheffield Weds,0,0,Norwich City,D
+1995,4,1994-08-31,Chelsea,3,0,Manchester City,H
+1995,4,1994-08-31,Southampton,0,2,Liverpool,A
+1995,4,1994-08-31,West Ham,1,3,Newcastle Utd,A
+1995,4,1994-08-31,Manchester Utd,3,0,Wimbledon,H
+1995,4,1994-08-31,Leicester City,1,1,QPR,D
+1995,4,1994-08-31,Arsenal,0,0,Blackburn,D
+1995,5,1994-09-10,Nott'ham Forest,4,1,Sheffield Weds,H
+1995,5,1994-09-10,Blackburn,3,0,Everton,H
+1995,5,1994-09-10,Liverpool,0,0,West Ham,D
+1995,5,1994-09-10,Newcastle Utd,4,2,Chelsea,H
+1995,5,1994-09-10,Aston Villa,2,0,Ipswich Town,H
+1995,5,1994-09-10,Norwich City,0,0,Arsenal,D
+1995,5,1994-09-10,QPR,2,2,Coventry City,D
+1995,5,1994-09-10,Manchester City,1,1,Crystal Palace,D
+1995,5,1994-09-10,Wimbledon,2,1,Leicester City,H
+1995,5,1994-09-11,Leeds United,2,1,Manchester Utd,H
+1995,5,1994-09-12,Tottenham,1,2,Southampton,A
+1995,6,1994-09-17,Everton,2,2,QPR,D
+1995,6,1994-09-17,Coventry City,2,1,Leeds United,H
+1995,6,1994-09-17,Leicester City,3,1,Tottenham,H
+1995,6,1994-09-17,West Ham,1,0,Aston Villa,H
+1995,6,1994-09-17,Manchester Utd,2,0,Liverpool,H
+1995,6,1994-09-17,Crystal Palace,0,0,Wimbledon,D
+1995,6,1994-09-17,Ipswich Town,1,2,Norwich City,A
+1995,6,1994-09-17,Southampton,1,1,Nott'ham Forest,D
+1995,6,1994-09-17,Sheffield Weds,1,1,Manchester City,D
+1995,6,1994-09-18,Chelsea,1,2,Blackburn,A
+1995,6,1994-09-18,Arsenal,2,3,Newcastle Utd,A
+1995,7,1994-09-24,Ipswich Town,3,2,Manchester Utd,H
+1995,7,1994-09-24,QPR,0,1,Wimbledon,A
+1995,7,1994-09-24,Blackburn,3,1,Aston Villa,H
+1995,7,1994-09-24,Coventry City,1,3,Southampton,A
+1995,7,1994-09-24,Crystal Palace,0,1,Chelsea,A
+1995,7,1994-09-24,Tottenham,1,4,Nott'ham Forest,A
+1995,7,1994-09-24,Everton,1,1,Leicester City,D
+1995,7,1994-09-24,Newcastle Utd,1,1,Liverpool,D
+1995,7,1994-09-24,Manchester City,2,0,Norwich City,H
+1995,7,1994-09-25,West Ham,0,2,Arsenal,A
+1995,7,1994-09-26,Sheffield Weds,1,1,Leeds United,D
+1995,8,1994-10-01,Norwich City,2,1,Blackburn,H
+1995,8,1994-10-01,Liverpool,4,1,Sheffield Weds,H
+1995,8,1994-10-01,Southampton,3,1,Ipswich Town,H
+1995,8,1994-10-01,Wimbledon,1,2,Tottenham,A
+1995,8,1994-10-01,Arsenal,1,2,Crystal Palace,A
+1995,8,1994-10-01,Aston Villa,0,2,Newcastle Utd,A
+1995,8,1994-10-01,Manchester Utd,2,0,Everton,H
+1995,8,1994-10-01,Leeds United,2,0,Manchester City,H
+1995,8,1994-10-02,Chelsea,1,2,West Ham,A
+1995,8,1994-10-02,Nott'ham Forest,3,2,QPR,H
+1995,8,1994-10-03,Leicester City,2,2,Coventry City,D
+1995,9,1994-10-08,Wimbledon,1,3,Arsenal,A
+1995,9,1994-10-08,Chelsea,4,0,Leicester City,H
+1995,9,1994-10-08,Liverpool,3,2,Aston Villa,H
+1995,9,1994-10-08,Norwich City,2,1,Leeds United,H
+1995,9,1994-10-08,Manchester City,3,3,Nott'ham Forest,D
+1995,9,1994-10-08,Southampton,2,0,Everton,H
+1995,9,1994-10-08,Sheffield Weds,1,0,Manchester Utd,H
+1995,9,1994-10-08,Tottenham,1,1,QPR,D
+1995,9,1994-10-08,West Ham,1,0,Crystal Palace,H
+1995,9,1994-10-09,Newcastle Utd,1,1,Blackburn,D
+1995,9,1994-10-10,Coventry City,2,0,Ipswich Town,H
+1995,10,1994-10-15,Blackburn,3,2,Liverpool,H
+1995,10,1994-10-15,Manchester Utd,1,0,West Ham,H
+1995,10,1994-10-15,Everton,0,2,Coventry City,A
+1995,10,1994-10-15,Crystal Palace,0,1,Newcastle Utd,A
+1995,10,1994-10-15,QPR,1,2,Manchester City,A
+1995,10,1994-10-15,Aston Villa,1,1,Norwich City,D
+1995,10,1994-10-15,Arsenal,3,1,Chelsea,H
+1995,10,1994-10-15,Leeds United,1,1,Tottenham,D
+1995,10,1994-10-15,Leicester City,4,3,Southampton,H
+1995,10,1994-10-16,Ipswich Town,1,2,Sheffield Weds,A
+1995,10,1994-10-17,Nott'ham Forest,3,1,Wimbledon,H
+1995,11,1994-10-22,Aston Villa,0,2,Nott'ham Forest,A
+1995,11,1994-10-22,Liverpool,3,0,Wimbledon,H
+1995,11,1994-10-22,Newcastle Utd,2,1,Sheffield Weds,H
+1995,11,1994-10-22,Norwich City,4,2,QPR,H
+1995,11,1994-10-22,Crystal Palace,1,0,Everton,H
+1995,11,1994-10-22,Manchester City,5,2,Tottenham,H
+1995,11,1994-10-22,West Ham,2,0,Southampton,H
+1995,11,1994-10-23,Blackburn,2,4,Manchester Utd,A
+1995,11,1994-10-23,Chelsea,2,0,Ipswich Town,H
+1995,11,1994-10-23,Arsenal,2,1,Coventry City,H
+1995,11,1994-10-24,Leeds United,2,1,Leicester City,H
+1995,12,1994-10-29,QPR,2,0,Aston Villa,H
+1995,12,1994-10-29,Manchester Utd,2,0,Newcastle Utd,H
+1995,12,1994-10-29,Nott'ham Forest,0,2,Blackburn,A
+1995,12,1994-10-29,Coventry City,1,0,Manchester City,H
+1995,12,1994-10-29,Leicester City,0,1,Crystal Palace,A
+1995,12,1994-10-29,Everton,1,1,Arsenal,D
+1995,12,1994-10-29,Southampton,1,3,Leeds United,A
+1995,12,1994-10-29,Sheffield Weds,1,1,Chelsea,D
+1995,12,1994-10-29,Tottenham,3,1,West Ham,H
+1995,12,1994-10-29,Ipswich Town,1,3,Liverpool,A
+1995,12,1994-10-30,Wimbledon,1,0,Norwich City,H
+1995,13,1994-10-31,QPR,2,1,Liverpool,H
+1995,13,1994-11-01,Ipswich Town,2,0,Leeds United,H
+1995,13,1994-11-01,Everton,1,0,West Ham,H
+1995,13,1994-11-02,Southampton,1,1,Norwich City,D
+1995,13,1994-11-02,Coventry City,1,4,Crystal Palace,A
+1995,13,1994-11-02,Sheffield Weds,0,1,Blackburn,A
+1995,14,1994-11-05,Manchester City,3,3,Southampton,D
+1995,14,1994-11-05,Newcastle Utd,2,1,QPR,H
+1995,14,1994-11-05,Liverpool,1,0,Nott'ham Forest,H
+1995,14,1994-11-05,Leeds United,3,1,Wimbledon,H
+1995,14,1994-11-05,Norwich City,0,0,Everton,D
+1995,14,1994-11-05,Crystal Palace,3,0,Ipswich Town,H
+1995,14,1994-11-05,West Ham,1,0,Leicester City,H
+1995,14,1994-11-05,Blackburn,2,0,Tottenham,H
+1995,14,1994-11-06,Arsenal,0,0,Sheffield Weds,D
+1995,14,1994-11-06,Chelsea,2,2,Coventry City,D
+1995,14,1994-11-06,Aston Villa,1,2,Manchester Utd,A
+1995,13,1994-11-07,Nott'ham Forest,0,0,Newcastle Utd,D
+1995,13,1994-11-09,Wimbledon,4,3,Aston Villa,H
+1995,2,1994-11-09,Liverpool,3,1,Chelsea,H
+1995,13,1994-11-10,Manchester Utd,5,0,Manchester City,H
+1995,15,1994-11-19,Sheffield Weds,1,0,West Ham,H
+1995,15,1994-11-19,Tottenham,3,4,Aston Villa,A
+1995,15,1994-11-19,Coventry City,1,0,Norwich City,H
+1995,15,1994-11-19,Southampton,1,0,Arsenal,H
+1995,15,1994-11-19,Ipswich Town,1,3,Blackburn,A
+1995,15,1994-11-19,QPR,3,2,Leeds United,H
+1995,15,1994-11-19,Wimbledon,3,2,Newcastle Utd,H
+1995,15,1994-11-19,Manchester Utd,3,0,Crystal Palace,H
+1995,15,1994-11-19,Nott'ham Forest,0,1,Chelsea,A
+1995,15,1994-11-20,Leicester City,0,1,Manchester City,A
+1995,15,1994-11-21,Everton,2,0,Liverpool,H
+1995,13,1994-11-23,Leicester City,2,1,Arsenal,H
+1995,13,1994-11-23,Tottenham,0,0,Chelsea,D
+1995,16,1994-11-26,Liverpool,1,1,Tottenham,D
+1995,16,1994-11-26,Norwich City,2,1,Leicester City,H
+1995,16,1994-11-26,Manchester City,2,0,Wimbledon,H
+1995,16,1994-11-26,Newcastle Utd,1,1,Ipswich Town,D
+1995,16,1994-11-26,West Ham,0,1,Coventry City,A
+1995,16,1994-11-26,Blackburn,4,0,QPR,H
+1995,16,1994-11-26,Crystal Palace,0,0,Southampton,D
+1995,16,1994-11-26,Leeds United,1,0,Nott'ham Forest,H
+1995,16,1994-11-26,Arsenal,0,0,Manchester Utd,D
+1995,16,1994-11-26,Chelsea,0,1,Everton,A
+1995,16,1994-11-27,Aston Villa,1,1,Sheffield Weds,D
+1995,17,1994-12-03,Manchester Utd,1,0,Norwich City,H
+1995,17,1994-12-03,Sheffield Weds,1,0,Crystal Palace,H
+1995,17,1994-12-03,Coventry City,1,1,Liverpool,D
+1995,17,1994-12-03,Leicester City,1,1,Aston Villa,D
+1995,17,1994-12-03,Tottenham,4,2,Newcastle Utd,H
+1995,17,1994-12-03,Ipswich Town,1,2,Manchester City,A
+1995,17,1994-12-03,Nott'ham Forest,2,2,Arsenal,D
+1995,17,1994-12-03,Southampton,0,1,Chelsea,A
+1995,17,1994-12-03,Wimbledon,0,3,Blackburn,A
+1995,17,1994-12-04,QPR,2,1,West Ham,H
+1995,17,1994-12-05,Everton,3,0,Leeds United,H
+1995,18,1994-12-10,Tottenham,3,1,Sheffield Weds,H
+1995,18,1994-12-10,Blackburn,3,2,Southampton,H
+1995,18,1994-12-10,Aston Villa,0,0,Everton,D
+1995,18,1994-12-10,Nott'ham Forest,4,1,Ipswich Town,H
+1995,18,1994-12-10,QPR,2,3,Manchester Utd,A
+1995,18,1994-12-10,Wimbledon,2,0,Coventry City,H
+1995,18,1994-12-10,Norwich City,3,0,Chelsea,H
+1995,18,1994-12-10,Newcastle Utd,3,1,Leicester City,H
+1995,18,1994-12-10,Leeds United,2,2,West Ham,D
+1995,18,1994-12-11,Liverpool,0,0,Crystal Palace,D
+1995,18,1994-12-12,Manchester City,1,2,Arsenal,A
+1995,19,1994-12-16,Ipswich Town,2,2,Wimbledon,D
+1995,19,1994-12-17,Leicester City,0,0,Blackburn,D
+1995,19,1994-12-17,Coventry City,0,0,Newcastle Utd,D
+1995,19,1994-12-17,Manchester Utd,1,2,Nott'ham Forest,A
+1995,19,1994-12-17,Arsenal,1,3,Leeds United,A
+1995,19,1994-12-17,Crystal Palace,0,1,Norwich City,A
+1995,19,1994-12-17,Everton,0,0,Tottenham,D
+1995,19,1994-12-17,Sheffield Weds,0,2,QPR,A
+1995,19,1994-12-17,West Ham,3,0,Manchester City,H
+1995,19,1994-12-18,Chelsea,0,0,Liverpool,D
+1995,19,1994-12-19,Southampton,2,1,Aston Villa,H
+1995,20,1994-12-26,Chelsea,2,3,Manchester Utd,A
+1995,20,1994-12-26,Leicester City,1,2,Liverpool,A
+1995,20,1994-12-26,Arsenal,0,0,Aston Villa,D
+1995,20,1994-12-26,Coventry City,0,0,Nott'ham Forest,D
+1995,20,1994-12-26,Norwich City,0,2,Tottenham,A
+1995,20,1994-12-26,Manchester City,1,3,Blackburn,A
+1995,20,1994-12-26,Southampton,2,3,Wimbledon,A
+1995,20,1994-12-26,Leeds United,0,0,Newcastle Utd,D
+1995,20,1994-12-26,Crystal Palace,0,0,QPR,D
+1995,20,1994-12-26,West Ham,1,1,Ipswich Town,D
+1995,20,1994-12-26,Everton,1,4,Sheffield Weds,A
+1995,21,1994-12-27,Nott'ham Forest,1,0,Norwich City,H
+1995,21,1994-12-27,Tottenham,0,0,Crystal Palace,D
+1995,21,1994-12-28,Wimbledon,1,0,West Ham,H
+1995,21,1994-12-28,Liverpool,2,0,Manchester City,H
+1995,21,1994-12-28,Sheffield Weds,5,1,Coventry City,H
+1995,21,1994-12-28,Aston Villa,3,0,Chelsea,H
+1995,21,1994-12-28,QPR,2,2,Southampton,D
+1995,21,1994-12-28,Ipswich Town,0,2,Arsenal,A
+1995,21,1994-12-28,Manchester Utd,1,1,Leicester City,D
+1995,22,1994-12-31,Manchester City,2,2,Aston Villa,D
+1995,22,1994-12-31,Arsenal,1,3,QPR,A
+1995,22,1994-12-31,Leicester City,0,1,Sheffield Weds,A
+1995,22,1994-12-31,Crystal Palace,0,1,Blackburn,A
+1995,22,1994-12-31,Everton,4,1,Ipswich Town,H
+1995,22,1994-12-31,Leeds United,0,2,Liverpool,A
+1995,22,1994-12-31,West Ham,3,1,Nott'ham Forest,H
+1995,22,1994-12-31,Chelsea,1,1,Wimbledon,D
+1995,22,1994-12-31,Coventry City,0,4,Tottenham,A
+1995,22,1994-12-31,Norwich City,2,1,Newcastle Utd,H
+1995,22,1994-12-31,Southampton,2,2,Manchester Utd,D
+1995,23,1995-01-02,Ipswich Town,4,1,Leicester City,H
+1995,23,1995-01-02,Newcastle Utd,0,0,Manchester City,D
+1995,23,1995-01-02,Nott'ham Forest,1,0,Crystal Palace,H
+1995,23,1995-01-02,Blackburn,4,2,West Ham,H
+1995,23,1995-01-02,Tottenham,1,0,Arsenal,H
+1995,23,1995-01-02,Aston Villa,0,0,Leeds United,D
+1995,23,1995-01-02,Sheffield Weds,1,1,Southampton,D
+1995,23,1995-01-02,Wimbledon,2,1,Everton,H
+1995,23,1995-01-02,Liverpool,4,0,Norwich City,H
+1995,23,1995-01-03,Manchester Utd,2,0,Coventry City,H
+1995,24,1995-01-14,Aston Villa,2,1,QPR,H
+1995,24,1995-01-14,West Ham,1,2,Tottenham,A
+1995,24,1995-01-14,Crystal Palace,2,0,Leicester City,H
+1995,24,1995-01-14,Arsenal,1,1,Everton,D
+1995,24,1995-01-14,Chelsea,1,1,Sheffield Weds,D
+1995,24,1995-01-14,Blackburn,3,0,Nott'ham Forest,H
+1995,24,1995-01-14,Leeds United,0,0,Southampton,D
+1995,24,1995-01-14,Manchester City,0,0,Coventry City,D
+1995,24,1995-01-14,Norwich City,1,2,Wimbledon,A
+1995,24,1995-01-14,Liverpool,0,1,Ipswich Town,A
+1995,24,1995-01-15,Newcastle Utd,1,1,Manchester Utd,D
+1995,25,1995-01-21,Nott'ham Forest,1,2,Aston Villa,A
+1995,25,1995-01-21,Ipswich Town,2,2,Chelsea,D
+1995,25,1995-01-21,Sheffield Weds,0,0,Newcastle Utd,D
+1995,25,1995-01-21,Coventry City,0,1,Arsenal,A
+1995,25,1995-01-21,Everton,3,1,Crystal Palace,H
+1995,25,1995-01-22,Manchester Utd,1,0,Blackburn,H
+1995,26,1995-01-23,West Ham,0,2,Sheffield Weds,A
+1995,26,1995-01-24,Liverpool,0,0,Everton,D
+1995,26,1995-01-24,Arsenal,1,1,Southampton,D
+1995,26,1995-01-24,Leeds United,4,0,QPR,H
+1995,26,1995-01-25,Norwich City,2,2,Coventry City,D
+1995,26,1995-01-25,Manchester City,0,1,Leicester City,A
+1995,26,1995-01-25,Crystal Palace,1,1,Manchester Utd,D
+1995,26,1995-01-25,Chelsea,0,2,Nott'ham Forest,A
+1995,26,1995-01-25,Aston Villa,1,0,Tottenham,H
+1995,26,1995-01-25,Newcastle Utd,2,1,Wimbledon,H
+1995,26,1995-01-28,Blackburn,4,1,Ipswich Town,H
+1995,21,1995-02-01,Newcastle Utd,2,0,Everton,H
+1995,21,1995-02-01,Blackburn,1,1,Leeds United,D
+1995,27,1995-02-04,Nott'ham Forest,1,1,Liverpool,D
+1995,27,1995-02-04,Wimbledon,0,0,Leeds United,D
+1995,27,1995-02-04,Sheffield Weds,3,1,Arsenal,H
+1995,27,1995-02-04,Everton,2,1,Norwich City,H
+1995,27,1995-02-04,QPR,3,0,Newcastle Utd,H
+1995,27,1995-02-04,Southampton,2,2,Manchester City,D
+1995,27,1995-02-04,Leicester City,1,2,West Ham,A
+1995,27,1995-02-04,Ipswich Town,0,2,Crystal Palace,A
+1995,27,1995-02-04,Manchester Utd,1,0,Aston Villa,H
+1995,27,1995-02-04,Coventry City,2,2,Chelsea,D
+1995,27,1995-02-05,Tottenham,3,1,Blackburn,H
+1995,28,1995-02-11,Crystal Palace,0,2,Coventry City,A
+1995,28,1995-02-11,Liverpool,1,1,QPR,D
+1995,28,1995-02-11,Manchester City,0,3,Manchester Utd,A
+1995,28,1995-02-11,Newcastle Utd,2,1,Nott'ham Forest,H
+1995,28,1995-02-11,Chelsea,1,1,Tottenham,D
+1995,28,1995-02-11,Arsenal,1,1,Leicester City,D
+1995,28,1995-02-11,Aston Villa,7,1,Wimbledon,H
+1995,28,1995-02-11,Norwich City,2,2,Southampton,D
+1995,28,1995-02-12,Blackburn,3,1,Sheffield Weds,H
+1995,28,1995-02-13,West Ham,2,2,Everton,D
+1995,29,1995-02-18,Coventry City,2,0,West Ham,H
+1995,29,1995-02-18,Sheffield Weds,1,2,Aston Villa,A
+1995,30,1995-02-21,Arsenal,1,0,Nott'ham Forest,H
+1995,30,1995-02-22,Manchester City,2,0,Ipswich Town,H
+1995,30,1995-02-22,Norwich City,0,2,Manchester Utd,A
+1995,30,1995-02-22,Leeds United,1,0,Everton,H
+1995,30,1995-02-22,Blackburn,2,1,Wimbledon,H
+1995,30,1995-02-22,Aston Villa,4,4,Leicester City,D
+1995,31,1995-02-25,Coventry City,4,2,Leicester City,H
+1995,31,1995-02-25,Newcastle Utd,3,1,Aston Villa,H
+1995,31,1995-02-25,Sheffield Weds,1,2,Liverpool,A
+1995,31,1995-02-25,Ipswich Town,2,1,Southampton,H
+1995,31,1995-02-25,Manchester City,0,0,Leeds United,D
+1995,31,1995-02-25,West Ham,1,2,Chelsea,A
+1995,31,1995-02-25,Tottenham,1,2,Wimbledon,A
+1995,31,1995-02-25,Blackburn,0,0,Norwich City,D
+1995,31,1995-02-25,Everton,1,0,Manchester Utd,H
+1995,31,1995-02-25,Crystal Palace,0,3,Arsenal,A
+1995,31,1995-02-26,QPR,1,1,Nott'ham Forest,D
+1995,29,1995-02-28,Ipswich Town,0,2,Newcastle Utd,A
+1995,32,1995-03-04,Leicester City,2,2,Everton,D
+1995,32,1995-03-04,Manchester Utd,9,0,Ipswich Town,H
+1995,32,1995-03-04,Liverpool,2,0,Newcastle Utd,H
+1995,32,1995-03-04,Wimbledon,1,3,QPR,A
+1995,32,1995-03-04,Leeds United,0,1,Sheffield Weds,A
+1995,32,1995-03-04,Southampton,0,0,Coventry City,D
+1995,32,1995-03-04,Aston Villa,0,1,Blackburn,A
+1995,32,1995-03-04,Norwich City,1,1,Manchester City,D
+1995,32,1995-03-04,Nott'ham Forest,2,2,Tottenham,D
+1995,32,1995-03-05,Chelsea,0,0,Crystal Palace,D
+1995,32,1995-03-05,Arsenal,0,1,West Ham,A
+1995,33,1995-03-06,Aston Villa,0,0,Coventry City,D
+1995,33,1995-03-07,Wimbledon,0,1,Manchester Utd,A
+1995,33,1995-03-08,Norwich City,0,0,Sheffield Weds,D
+1995,33,1995-03-08,Manchester City,1,2,Chelsea,A
+1995,33,1995-03-08,Nott'ham Forest,2,1,Everton,H
+1995,33,1995-03-08,QPR,2,0,Leicester City,H
+1995,33,1995-03-08,Blackburn,3,1,Arsenal,H
+1995,33,1995-03-08,Tottenham,3,0,Ipswich Town,H
+1995,33,1995-03-08,Newcastle Utd,2,0,West Ham,H
+1995,34,1995-03-11,Coventry City,1,1,Blackburn,D
+1995,34,1995-03-11,West Ham,2,2,Norwich City,D
+1995,34,1995-03-11,Chelsea,0,3,Leeds United,A
+1995,34,1995-03-11,Sheffield Weds,0,1,Wimbledon,A
+1995,34,1995-03-11,Leicester City,2,4,Nott'ham Forest,A
+1995,30,1995-03-14,Crystal Palace,2,1,Sheffield Weds,H
+1995,30,1995-03-14,Liverpool,2,3,Coventry City,A
+1995,25,1995-03-15,Leicester City,1,3,Leeds United,A
+1995,25,1995-03-15,QPR,2,0,Norwich City,H
+1995,25,1995-03-15,Southampton,1,1,West Ham,D
+1995,34,1995-03-15,Everton,1,1,Manchester City,D
+1995,34,1995-03-15,Manchester Utd,0,0,Tottenham,D
+1995,35,1995-03-18,Aston Villa,0,2,West Ham,A
+1995,35,1995-03-18,QPR,2,3,Everton,A
+1995,35,1995-03-18,Blackburn,2,1,Chelsea,H
+1995,35,1995-03-18,Leeds United,3,0,Coventry City,H
+1995,35,1995-03-18,Nott'ham Forest,3,0,Southampton,H
+1995,35,1995-03-18,Manchester City,3,2,Sheffield Weds,H
+1995,35,1995-03-18,Wimbledon,2,0,Crystal Palace,H
+1995,35,1995-03-18,Tottenham,1,0,Leicester City,H
+1995,35,1995-03-19,Newcastle Utd,1,0,Arsenal,H
+1995,35,1995-03-19,Liverpool,2,0,Manchester Utd,H
+1995,35,1995-03-20,Norwich City,3,0,Ipswich Town,H
+1995,29,1995-03-21,Wimbledon,2,0,Manchester City,H
+1995,29,1995-03-22,Manchester Utd,3,0,Arsenal,H
+1995,29,1995-03-22,Tottenham,0,0,Liverpool,D
+1995,29,1995-03-22,Nott'ham Forest,3,0,Leeds United,H
+1995,34,1995-03-22,Southampton,3,1,Newcastle Utd,H
+1995,40,1995-03-22,QPR,1,0,Chelsea,H
+1995,36,1995-04-01,Arsenal,5,1,Norwich City,H
+1995,36,1995-04-01,Chelsea,1,1,Newcastle Utd,D
+1995,36,1995-04-01,Coventry City,0,1,QPR,A
+1995,36,1995-04-01,Crystal Palace,2,1,Manchester City,H
+1995,36,1995-04-01,Sheffield Weds,1,7,Nott'ham Forest,A
+1995,36,1995-04-01,Ipswich Town,0,1,Aston Villa,A
+1995,36,1995-04-01,Everton,1,2,Blackburn,A
+1995,36,1995-04-01,Leicester City,3,4,Wimbledon,A
+1995,36,1995-04-02,Manchester Utd,0,0,Leeds United,D
+1995,36,1995-04-02,Southampton,4,3,Tottenham,H
+1995,29,1995-04-04,QPR,0,1,Blackburn,A
+1995,34,1995-04-04,Crystal Palace,0,0,Aston Villa,D
+1995,28,1995-04-05,Leeds United,4,0,Ipswich Town,H
+1995,29,1995-04-05,Leicester City,1,0,Norwich City,H
+1995,33,1995-04-05,Liverpool,3,1,Southampton,H
+1995,37,1995-04-08,Sheffield Weds,1,0,Leicester City,H
+1995,37,1995-04-08,QPR,3,1,Arsenal,H
+1995,37,1995-04-08,Newcastle Utd,3,0,Norwich City,H
+1995,37,1995-04-08,Nott'ham Forest,1,1,West Ham,D
+1995,37,1995-04-09,Liverpool,0,1,Leeds United,A
+1995,37,1995-04-10,Wimbledon,1,1,Chelsea,D
+1995,25,1995-04-11,Tottenham,2,1,Manchester City,H
+1995,34,1995-04-11,Ipswich Town,0,1,QPR,A
+1995,30,1995-04-12,Chelsea,0,2,Southampton,A
+1995,34,1995-04-12,Arsenal,0,1,Liverpool,A
+1995,38,1995-04-12,Norwich City,0,1,Nott'ham Forest,A
+1995,38,1995-04-14,Manchester City,2,1,Liverpool,H
+1995,38,1995-04-14,West Ham,3,0,Wimbledon,H
+1995,38,1995-04-14,Crystal Palace,1,1,Tottenham,D
+1995,38,1995-04-14,Everton,2,0,Newcastle Utd,H
+1995,38,1995-04-15,Leicester City,0,4,Manchester Utd,A
+1995,38,1995-04-15,Leeds United,1,1,Blackburn,D
+1995,38,1995-04-15,Arsenal,4,1,Ipswich Town,H
+1995,38,1995-04-15,Coventry City,2,0,Sheffield Weds,H
+1995,38,1995-04-15,Chelsea,1,0,Aston Villa,H
+1995,38,1995-04-15,Southampton,2,1,QPR,H
+1995,39,1995-04-17,Liverpool,2,0,Leicester City,H
+1995,39,1995-04-17,Aston Villa,0,4,Arsenal,A
+1995,39,1995-04-17,Manchester Utd,0,0,Chelsea,D
+1995,39,1995-04-17,Sheffield Weds,0,0,Everton,D
+1995,39,1995-04-17,QPR,0,1,Crystal Palace,A
+1995,39,1995-04-17,Wimbledon,0,2,Southampton,A
+1995,39,1995-04-17,Newcastle Utd,1,2,Leeds United,A
+1995,39,1995-04-17,Nott'ham Forest,2,0,Coventry City,H
+1995,39,1995-04-17,Ipswich Town,1,1,West Ham,D
+1995,39,1995-04-17,Blackburn,2,3,Manchester City,A
+1995,39,1995-04-17,Tottenham,1,0,Norwich City,H
+1995,37,1995-04-20,Blackburn,2,1,Crystal Palace,H
+1995,23,1995-04-29,Chelsea,1,0,QPR,H
+1995,40,1995-04-29,Leeds United,1,0,Aston Villa,H
+1995,40,1995-04-29,Manchester City,0,0,Newcastle Utd,D
+1995,40,1995-04-29,Southampton,0,0,Sheffield Weds,D
+1995,40,1995-04-29,Leicester City,2,0,Ipswich Town,H
+1995,40,1995-04-29,Crystal Palace,1,2,Nott'ham Forest,A
+1995,40,1995-04-29,Norwich City,1,2,Liverpool,A
+1995,40,1995-04-29,Everton,0,0,Wimbledon,D
+1995,40,1995-04-29,Arsenal,1,1,Tottenham,D
+1995,40,1995-04-30,West Ham,2,0,Blackburn,H
+1995,40,1995-05-01,Coventry City,2,3,Manchester Utd,A
+1995,25,1995-05-02,Wimbledon,0,0,Liverpool,D
+1995,29,1995-05-03,Southampton,3,1,Crystal Palace,H
+1995,29,1995-05-03,Everton,3,3,Chelsea,D
+1995,30,1995-05-03,Newcastle Utd,3,3,Tottenham,D
+1995,30,1995-05-03,West Ham,0,0,QPR,D
+1995,37,1995-05-03,Aston Villa,1,1,Manchester City,D
+1995,41,1995-05-04,Arsenal,0,0,Wimbledon,D
+1995,41,1995-05-06,Leeds United,2,1,Norwich City,H
+1995,41,1995-05-06,Aston Villa,2,0,Liverpool,H
+1995,41,1995-05-06,Everton,0,0,Southampton,D
+1995,41,1995-05-06,Crystal Palace,1,0,West Ham,H
+1995,41,1995-05-06,Ipswich Town,2,0,Coventry City,H
+1995,41,1995-05-06,Leicester City,1,1,Chelsea,D
+1995,41,1995-05-06,QPR,2,1,Tottenham,H
+1995,41,1995-05-06,Nott'ham Forest,1,0,Manchester City,H
+1995,41,1995-05-07,Manchester Utd,1,0,Sheffield Weds,H
+1995,41,1995-05-08,Blackburn,1,0,Newcastle Utd,H
+1995,33,1995-05-09,Leeds United,3,1,Crystal Palace,H
+1995,37,1995-05-09,Tottenham,1,3,Coventry City,A
+1995,37,1995-05-09,Ipswich Town,0,1,Everton,A
+1995,36,1995-05-10,West Ham,3,0,Liverpool,H
+1995,37,1995-05-10,Manchester Utd,2,1,Southampton,H
+1995,42,1995-05-13,Wimbledon,2,2,Nott'ham Forest,D
+1995,42,1995-05-14,Tottenham,1,1,Leeds United,D
+1995,42,1995-05-14,Liverpool,2,1,Blackburn,H
+1995,42,1995-05-14,Newcastle Utd,3,2,Crystal Palace,H
+1995,42,1995-05-14,Coventry City,0,0,Everton,D
+1995,42,1995-05-14,Sheffield Weds,4,1,Ipswich Town,H
+1995,42,1995-05-14,West Ham,1,1,Manchester Utd,D
+1995,42,1995-05-14,Manchester City,2,3,QPR,A
+1995,42,1995-05-14,Southampton,2,2,Leicester City,D
+1995,42,1995-05-14,Chelsea,2,1,Arsenal,H
+1995,42,1995-05-14,Norwich City,1,1,Aston Villa,D
+1996,1,1995-08-19,Wimbledon,3,2,Bolton,H
+1996,1,1995-08-19,Newcastle Utd,3,0,Coventry City,H
+1996,1,1995-08-19,Manchester City,1,1,Tottenham,D
+1996,1,1995-08-19,Aston Villa,3,1,Manchester Utd,H
+1996,1,1995-08-19,Blackburn,1,0,QPR,H
+1996,1,1995-08-19,Liverpool,1,0,Sheffield Weds,H
+1996,1,1995-08-19,Chelsea,0,0,Everton,D
+1996,1,1995-08-19,Southampton,3,4,Nott'ham Forest,A
+1996,1,1995-08-19,West Ham,1,2,Leeds United,A
+1996,1,1995-08-20,Arsenal,1,1,Middlesbrough,D
+1996,2,1995-08-21,Leeds United,1,0,Liverpool,H
+1996,2,1995-08-22,Bolton,1,3,Newcastle Utd,A
+1996,2,1995-08-23,Sheffield Weds,2,1,Blackburn,H
+1996,2,1995-08-23,Manchester Utd,2,1,West Ham,H
+1996,2,1995-08-23,Coventry City,2,1,Manchester City,H
+1996,2,1995-08-23,QPR,0,3,Wimbledon,A
+1996,2,1995-08-23,Nott'ham Forest,0,0,Chelsea,D
+1996,2,1995-08-23,Tottenham,0,1,Aston Villa,A
+1996,2,1995-08-23,Everton,0,2,Arsenal,A
+1996,3,1995-08-26,Bolton,2,1,Blackburn,H
+1996,3,1995-08-26,Coventry City,0,0,Arsenal,D
+1996,3,1995-08-26,Manchester Utd,3,1,Wimbledon,H
+1996,3,1995-08-26,Nott'ham Forest,1,1,West Ham,D
+1996,3,1995-08-26,Tottenham,1,3,Liverpool,A
+1996,3,1995-08-26,Leeds United,2,0,Aston Villa,H
+1996,3,1995-08-26,Middlesbrough,2,0,Chelsea,H
+1996,3,1995-08-26,QPR,1,0,Manchester City,H
+1996,3,1995-08-26,Everton,2,0,Southampton,H
+1996,3,1995-08-27,Sheffield Weds,0,2,Newcastle Utd,A
+1996,4,1995-08-28,Blackburn,1,2,Manchester Utd,A
+1996,4,1995-08-29,Arsenal,1,1,Nott'ham Forest,D
+1996,4,1995-08-30,Newcastle Utd,1,0,Middlesbrough,H
+1996,4,1995-08-30,West Ham,1,1,Tottenham,D
+1996,4,1995-08-30,Chelsea,2,2,Coventry City,D
+1996,4,1995-08-30,Manchester City,0,2,Everton,A
+1996,4,1995-08-30,Southampton,1,1,Leeds United,D
+1996,4,1995-08-30,Wimbledon,2,2,Sheffield Weds,D
+1996,4,1995-08-30,Liverpool,1,0,QPR,H
+1996,4,1995-08-30,Aston Villa,1,0,Bolton,H
+1996,5,1995-09-09,QPR,0,3,Sheffield Weds,A
+1996,5,1995-09-09,Wimbledon,1,0,Liverpool,H
+1996,5,1995-09-09,Everton,2,3,Manchester Utd,A
+1996,5,1995-09-09,Bolton,1,1,Middlesbrough,D
+1996,5,1995-09-09,Southampton,1,0,Newcastle Utd,H
+1996,5,1995-09-09,Blackburn,1,1,Aston Villa,D
+1996,5,1995-09-09,Coventry City,1,1,Nott'ham Forest,D
+1996,5,1995-09-09,Tottenham,2,1,Leeds United,H
+1996,5,1995-09-10,Manchester City,0,1,Arsenal,A
+1996,5,1995-09-11,West Ham,1,3,Chelsea,A
+1996,2,1995-09-12,Middlesbrough,0,0,Southampton,D
+1996,6,1995-09-16,Aston Villa,2,0,Wimbledon,H
+1996,6,1995-09-16,Sheffield Weds,1,3,Tottenham,A
+1996,6,1995-09-16,Manchester Utd,3,0,Bolton,H
+1996,6,1995-09-16,Chelsea,3,0,Southampton,H
+1996,6,1995-09-16,Arsenal,1,0,West Ham,H
+1996,6,1995-09-16,Middlesbrough,2,1,Coventry City,H
+1996,6,1995-09-16,Newcastle Utd,3,1,Manchester City,H
+1996,6,1995-09-16,Leeds United,1,3,QPR,A
+1996,6,1995-09-16,Liverpool,3,0,Blackburn,H
+1996,6,1995-09-17,Nott'ham Forest,3,2,Everton,H
+1996,7,1995-09-23,Arsenal,4,2,Southampton,H
+1996,7,1995-09-23,Sheffield Weds,0,0,Manchester Utd,D
+1996,7,1995-09-23,Manchester City,0,1,Middlesbrough,A
+1996,7,1995-09-23,Aston Villa,1,1,Nott'ham Forest,D
+1996,7,1995-09-23,Blackburn,5,1,Coventry City,H
+1996,7,1995-09-23,West Ham,2,1,Everton,H
+1996,7,1995-09-23,Liverpool,5,2,Bolton,H
+1996,7,1995-09-23,Wimbledon,2,4,Leeds United,A
+1996,7,1995-09-24,Newcastle Utd,2,0,Chelsea,H
+1996,7,1995-09-25,QPR,2,3,Tottenham,A
+1996,8,1995-09-30,Bolton,0,1,QPR,A
+1996,8,1995-09-30,Leeds United,2,0,Sheffield Weds,H
+1996,8,1995-09-30,Tottenham,3,1,Wimbledon,H
+1996,8,1995-09-30,Middlesbrough,2,0,Blackburn,H
+1996,8,1995-09-30,Nott'ham Forest,3,0,Manchester City,H
+1996,8,1995-09-30,Chelsea,1,0,Arsenal,H
+1996,8,1995-09-30,Coventry City,0,3,Aston Villa,A
+1996,8,1995-10-01,Manchester Utd,2,2,Liverpool,D
+1996,8,1995-10-01,Everton,1,3,Newcastle Utd,A
+1996,8,1995-10-02,Southampton,0,0,West Ham,D
+1996,9,1995-10-14,Bolton,1,1,Everton,D
+1996,9,1995-10-14,Manchester Utd,1,0,Manchester City,H
+1996,9,1995-10-14,Tottenham,0,1,Nott'ham Forest,A
+1996,9,1995-10-14,Aston Villa,0,1,Chelsea,A
+1996,9,1995-10-14,Blackburn,2,1,Southampton,H
+1996,9,1995-10-14,Leeds United,0,3,Arsenal,A
+1996,9,1995-10-14,Liverpool,0,0,Coventry City,D
+1996,9,1995-10-14,QPR,2,3,Newcastle Utd,A
+1996,9,1995-10-15,Sheffield Weds,0,1,Middlesbrough,A
+1996,9,1995-10-16,Wimbledon,0,1,West Ham,A
+1996,10,1995-10-21,Nott'ham Forest,3,2,Bolton,H
+1996,10,1995-10-21,Newcastle Utd,6,1,Wimbledon,H
+1996,10,1995-10-21,Middlesbrough,1,0,QPR,H
+1996,10,1995-10-21,Coventry City,0,1,Sheffield Weds,A
+1996,10,1995-10-21,Chelsea,1,4,Manchester Utd,A
+1996,10,1995-10-21,Manchester City,0,0,Leeds United,D
+1996,10,1995-10-21,West Ham,1,1,Blackburn,D
+1996,10,1995-10-21,Arsenal,2,0,Aston Villa,H
+1996,10,1995-10-22,Southampton,1,3,Liverpool,A
+1996,10,1995-10-22,Everton,1,1,Tottenham,D
+1996,11,1995-10-28,Manchester Utd,2,0,Middlesbrough,H
+1996,11,1995-10-28,Blackburn,3,0,Chelsea,H
+1996,11,1995-10-28,Wimbledon,1,2,Southampton,A
+1996,11,1995-10-28,Sheffield Weds,0,1,West Ham,A
+1996,11,1995-10-28,Aston Villa,1,0,Everton,H
+1996,11,1995-10-28,Liverpool,6,0,Manchester City,H
+1996,11,1995-10-28,QPR,1,1,Nott'ham Forest,D
+1996,11,1995-10-28,Leeds United,3,1,Coventry City,H
+1996,11,1995-10-29,Tottenham,1,1,Newcastle Utd,D
+1996,11,1995-10-30,Bolton,1,0,Arsenal,H
+1996,12,1995-11-04,Southampton,2,0,QPR,H
+1996,12,1995-11-04,West Ham,1,4,Aston Villa,A
+1996,12,1995-11-04,Chelsea,0,0,Sheffield Weds,D
+1996,12,1995-11-04,Manchester City,1,0,Bolton,H
+1996,12,1995-11-04,Newcastle Utd,2,1,Liverpool,H
+1996,12,1995-11-04,Middlesbrough,1,1,Leeds United,D
+1996,12,1995-11-04,Arsenal,1,0,Manchester Utd,H
+1996,12,1995-11-04,Coventry City,2,3,Tottenham,A
+1996,12,1995-11-05,Everton,1,0,Blackburn,H
+1996,12,1995-11-06,Nott'ham Forest,4,1,Wimbledon,H
+1996,14,1995-11-08,Newcastle Utd,1,0,Blackburn,H
+1996,13,1995-11-18,Liverpool,1,2,Everton,A
+1996,13,1995-11-18,Blackburn,7,0,Nott'ham Forest,H
+1996,13,1995-11-18,Tottenham,2,1,Arsenal,H
+1996,13,1995-11-18,Bolton,0,3,West Ham,A
+1996,13,1995-11-18,Manchester Utd,4,1,Southampton,H
+1996,13,1995-11-18,Aston Villa,1,1,Newcastle Utd,D
+1996,13,1995-11-18,Wimbledon,0,0,Middlesbrough,D
+1996,13,1995-11-18,Sheffield Weds,1,1,Manchester City,D
+1996,13,1995-11-18,Leeds United,1,0,Chelsea,H
+1996,13,1995-11-19,QPR,1,1,Coventry City,D
+1996,14,1995-11-20,Southampton,0,1,Aston Villa,A
+1996,14,1995-11-21,Middlesbrough,0,1,Tottenham,A
+1996,14,1995-11-21,Arsenal,4,2,Sheffield Weds,H
+1996,14,1995-11-22,Coventry City,0,4,Manchester Utd,A
+1996,14,1995-11-22,Manchester City,1,0,Wimbledon,H
+1996,14,1995-11-22,West Ham,0,0,Liverpool,D
+1996,14,1995-11-22,Chelsea,3,2,Bolton,H
+1996,14,1995-11-22,Everton,2,0,QPR,H
+1996,15,1995-11-25,West Ham,1,0,QPR,H
+1996,15,1995-11-25,Southampton,1,0,Bolton,H
+1996,15,1995-11-25,Manchester City,1,0,Aston Villa,H
+1996,15,1995-11-25,Middlesbrough,2,1,Liverpool,H
+1996,15,1995-11-25,Everton,2,2,Sheffield Weds,D
+1996,15,1995-11-25,Newcastle Utd,2,1,Leeds United,H
+1996,15,1995-11-25,Coventry City,3,3,Wimbledon,D
+1996,15,1995-11-25,Chelsea,0,0,Tottenham,D
+1996,15,1995-11-26,Arsenal,0,0,Blackburn,D
+1996,15,1995-11-27,Nott'ham Forest,1,1,Manchester Utd,D
+1996,16,1995-12-02,Manchester Utd,1,1,Chelsea,D
+1996,16,1995-12-02,Leeds United,0,1,Manchester City,A
+1996,16,1995-12-02,Tottenham,0,0,Everton,D
+1996,16,1995-12-02,QPR,1,1,Middlesbrough,D
+1996,16,1995-12-02,Liverpool,1,1,Southampton,D
+1996,16,1995-12-02,Bolton,1,1,Nott'ham Forest,D
+1996,16,1995-12-02,Aston Villa,1,1,Arsenal,D
+1996,16,1995-12-02,Blackburn,4,2,West Ham,H
+1996,16,1995-12-03,Wimbledon,3,3,Newcastle Utd,D
+1996,16,1995-12-04,Sheffield Weds,4,3,Coventry City,H
+1996,17,1995-12-09,Manchester Utd,2,2,Sheffield Weds,D
+1996,17,1995-12-09,Chelsea,1,0,Newcastle Utd,H
+1996,17,1995-12-09,Tottenham,1,0,QPR,H
+1996,17,1995-12-09,Bolton,0,1,Liverpool,A
+1996,17,1995-12-09,Middlesbrough,4,1,Manchester City,H
+1996,17,1995-12-09,Coventry City,5,0,Blackburn,H
+1996,17,1995-12-09,Southampton,0,0,Arsenal,D
+1996,17,1995-12-09,Leeds United,1,1,Wimbledon,D
+1996,17,1995-12-10,Nott'ham Forest,1,1,Aston Villa,D
+1996,17,1995-12-11,Everton,3,0,West Ham,H
+1996,18,1995-12-16,Blackburn,1,0,Middlesbrough,H
+1996,18,1995-12-16,Sheffield Weds,6,2,Leeds United,H
+1996,18,1995-12-16,West Ham,2,1,Southampton,H
+1996,18,1995-12-16,Aston Villa,4,1,Coventry City,H
+1996,18,1995-12-16,QPR,2,1,Bolton,H
+1996,18,1995-12-16,Newcastle Utd,1,0,Everton,H
+1996,18,1995-12-16,Wimbledon,0,1,Tottenham,A
+1996,18,1995-12-16,Arsenal,1,1,Chelsea,D
+1996,18,1995-12-17,Liverpool,2,0,Manchester Utd,H
+1996,18,1995-12-18,Manchester City,1,1,Nott'ham Forest,D
+1996,19,1995-12-23,Middlesbrough,4,2,West Ham,H
+1996,19,1995-12-23,Liverpool,3,1,Arsenal,H
+1996,19,1995-12-23,Newcastle Utd,3,1,Nott'ham Forest,H
+1996,19,1995-12-23,Coventry City,2,1,Everton,H
+1996,19,1995-12-23,Tottenham,2,2,Bolton,D
+1996,19,1995-12-23,Manchester City,0,1,Chelsea,A
+1996,19,1995-12-23,Wimbledon,1,1,Blackburn,D
+1996,19,1995-12-23,QPR,1,0,Aston Villa,H
+1996,19,1995-12-23,Sheffield Weds,2,2,Southampton,D
+1996,19,1995-12-24,Leeds United,3,1,Manchester Utd,H
+1996,20,1995-12-26,Blackburn,2,0,Manchester City,H
+1996,20,1995-12-26,Arsenal,3,0,QPR,H
+1996,20,1995-12-26,Everton,4,0,Middlesbrough,H
+1996,20,1995-12-26,Chelsea,1,2,Wimbledon,A
+1996,20,1995-12-26,Southampton,0,0,Tottenham,D
+1996,20,1995-12-26,Nott'ham Forest,1,0,Sheffield Weds,H
+1996,20,1995-12-27,Bolton,0,2,Leeds United,A
+1996,20,1995-12-27,Manchester Utd,2,0,Newcastle Utd,H
+1996,21,1995-12-30,Chelsea,2,2,Liverpool,D
+1996,21,1995-12-30,Blackburn,2,1,Tottenham,H
+1996,21,1995-12-30,Nott'ham Forest,1,0,Middlesbrough,H
+1996,21,1995-12-30,Manchester Utd,2,1,QPR,H
+1996,21,1995-12-30,Arsenal,1,3,Wimbledon,A
+1996,21,1995-12-30,Everton,2,0,Leeds United,H
+1996,21,1995-12-30,Bolton,1,2,Coventry City,A
+1996,22,1996-01-01,Tottenham,4,1,Manchester Utd,H
+1996,22,1996-01-01,Sheffield Weds,4,2,Bolton,H
+1996,22,1996-01-01,Liverpool,4,2,Nott'ham Forest,H
+1996,22,1996-01-01,Wimbledon,2,3,Everton,A
+1996,22,1996-01-01,Leeds United,0,0,Blackburn,D
+1996,22,1996-01-01,Middlesbrough,0,2,Aston Villa,A
+1996,22,1996-01-01,Manchester City,2,1,West Ham,H
+1996,22,1996-01-01,Coventry City,1,1,Southampton,D
+1996,22,1996-01-02,QPR,1,2,Chelsea,A
+1996,22,1996-01-02,Newcastle Utd,2,0,Arsenal,H
+1996,23,1996-01-13,Sheffield Weds,1,1,Liverpool,D
+1996,23,1996-01-13,Leeds United,2,0,West Ham,H
+1996,23,1996-01-13,Manchester Utd,0,0,Aston Villa,D
+1996,23,1996-01-13,Nott'ham Forest,1,0,Southampton,H
+1996,23,1996-01-13,Middlesbrough,2,3,Arsenal,A
+1996,23,1996-01-13,Everton,1,1,Chelsea,D
+1996,23,1996-01-13,QPR,0,1,Blackburn,A
+1996,23,1996-01-13,Tottenham,1,0,Manchester City,H
+1996,23,1996-01-13,Bolton,1,0,Wimbledon,H
+1996,23,1996-01-14,Coventry City,0,1,Newcastle Utd,A
+1996,24,1996-01-20,Liverpool,5,0,Leeds United,H
+1996,24,1996-01-20,Southampton,2,1,Middlesbrough,H
+1996,24,1996-01-20,Arsenal,1,2,Everton,A
+1996,24,1996-01-20,Manchester City,1,1,Coventry City,D
+1996,24,1996-01-20,Chelsea,1,0,Nott'ham Forest,H
+1996,24,1996-01-20,Blackburn,3,0,Sheffield Weds,H
+1996,24,1996-01-20,Wimbledon,2,1,QPR,H
+1996,24,1996-01-20,Newcastle Utd,2,1,Bolton,H
+1996,24,1996-01-21,Aston Villa,2,1,Tottenham,H
+1996,24,1996-01-22,West Ham,0,1,Manchester Utd,A
+1996,14,1996-01-31,Nott'ham Forest,2,1,Leeds United,H
+1996,20,1996-01-31,West Ham,3,2,Coventry City,H
+1996,20,1996-01-31,Aston Villa,0,2,Liverpool,A
+1996,21,1996-01-31,Southampton,1,1,Manchester City,D
+1996,25,1996-02-03,Arsenal,1,1,Coventry City,D
+1996,25,1996-02-03,Wimbledon,2,4,Manchester Utd,A
+1996,25,1996-02-03,Liverpool,0,0,Tottenham,D
+1996,25,1996-02-03,Manchester City,2,0,QPR,H
+1996,25,1996-02-03,Newcastle Utd,2,0,Sheffield Weds,H
+1996,25,1996-02-03,Aston Villa,3,0,Leeds United,H
+1996,25,1996-02-03,West Ham,1,0,Nott'ham Forest,H
+1996,25,1996-02-03,Southampton,2,2,Everton,D
+1996,25,1996-02-03,Blackburn,3,1,Bolton,H
+1996,25,1996-02-04,Chelsea,5,0,Middlesbrough,H
+1996,26,1996-02-10,Nott'ham Forest,0,1,Arsenal,A
+1996,26,1996-02-10,Coventry City,1,0,Chelsea,H
+1996,26,1996-02-10,Everton,2,0,Manchester City,H
+1996,26,1996-02-10,Middlesbrough,1,2,Newcastle Utd,A
+1996,26,1996-02-10,Bolton,0,2,Aston Villa,A
+1996,26,1996-02-10,Sheffield Weds,2,1,Wimbledon,H
+1996,26,1996-02-10,Manchester Utd,1,0,Blackburn,H
+1996,26,1996-02-11,QPR,1,2,Liverpool,A
+1996,26,1996-02-12,Tottenham,0,1,West Ham,A
+1996,27,1996-02-17,Sheffield Weds,1,3,QPR,A
+1996,27,1996-02-17,Chelsea,1,2,West Ham,A
+1996,27,1996-02-17,Middlesbrough,1,4,Bolton,A
+1996,21,1996-02-21,West Ham,2,0,Newcastle Utd,H
+1996,27,1996-02-21,Manchester Utd,2,0,Everton,H
+1996,28,1996-02-24,Blackburn,2,3,Liverpool,A
+1996,28,1996-02-24,Southampton,2,3,Chelsea,A
+1996,28,1996-02-24,Everton,3,0,Nott'ham Forest,H
+1996,28,1996-02-24,Manchester City,3,3,Newcastle Utd,D
+1996,28,1996-02-24,Coventry City,0,0,Middlesbrough,D
+1996,28,1996-02-24,Tottenham,1,0,Sheffield Weds,H
+1996,28,1996-02-24,Wimbledon,3,3,Aston Villa,D
+1996,28,1996-02-24,West Ham,0,1,Arsenal,A
+1996,28,1996-02-25,Bolton,0,6,Manchester Utd,A
+1996,27,1996-02-28,Aston Villa,2,0,Blackburn,H
+1996,29,1996-03-02,Middlesbrough,0,2,Everton,A
+1996,29,1996-03-02,QPR,1,1,Arsenal,D
+1996,29,1996-03-02,Coventry City,2,2,West Ham,D
+1996,29,1996-03-02,Wimbledon,1,1,Chelsea,D
+1996,29,1996-03-02,Sheffield Weds,1,3,Nott'ham Forest,A
+1996,29,1996-03-02,Leeds United,0,1,Bolton,A
+1996,29,1996-03-02,Manchester City,1,1,Blackburn,D
+1996,29,1996-03-02,Tottenham,1,0,Southampton,H
+1996,29,1996-03-03,Liverpool,3,0,Aston Villa,H
+1996,29,1996-03-04,Newcastle Utd,0,1,Manchester Utd,A
+1996,27,1996-03-05,Arsenal,3,1,Manchester City,H
+1996,21,1996-03-06,Aston Villa,3,2,Sheffield Weds,H
+1996,28,1996-03-06,QPR,1,2,Leeds United,A
+1996,30,1996-03-09,Aston Villa,4,2,QPR,H
+1996,30,1996-03-09,Everton,2,2,Coventry City,D
+1996,30,1996-03-09,West Ham,2,0,Middlesbrough,H
+1996,30,1996-03-12,Chelsea,1,1,Manchester City,D
+1996,27,1996-03-13,Liverpool,2,2,Wimbledon,D
+1996,32,1996-03-13,Blackburn,1,0,Leeds United,H
+1996,31,1996-03-16,Tottenham,2,3,Blackburn,A
+1996,31,1996-03-16,Coventry City,0,2,Bolton,A
+1996,31,1996-03-16,QPR,1,1,Manchester Utd,D
+1996,31,1996-03-16,Middlesbrough,1,1,Nott'ham Forest,D
+1996,31,1996-03-16,Wimbledon,0,3,Arsenal,A
+1996,31,1996-03-16,Liverpool,2,0,Chelsea,H
+1996,31,1996-03-16,Manchester City,2,1,Southampton,H
+1996,31,1996-03-16,Sheffield Weds,2,0,Aston Villa,H
+1996,31,1996-03-17,Leeds United,2,2,Everton,D
+1996,31,1996-03-18,Newcastle Utd,3,0,West Ham,H
+1996,32,1996-03-19,Aston Villa,0,0,Middlesbrough,D
+1996,30,1996-03-20,Bolton,2,3,Tottenham,A
+1996,30,1996-03-20,Southampton,0,1,Sheffield Weds,A
+1996,33,1996-03-20,Manchester Utd,1,0,Arsenal,H
+1996,32,1996-03-23,West Ham,4,2,Manchester City,H
+1996,32,1996-03-23,Everton,2,4,Wimbledon,A
+1996,32,1996-03-23,Bolton,2,1,Sheffield Weds,H
+1996,32,1996-03-23,Arsenal,2,0,Newcastle Utd,H
+1996,32,1996-03-23,Chelsea,1,1,QPR,D
+1996,32,1996-03-23,Nott'ham Forest,1,0,Liverpool,H
+1996,32,1996-03-24,Manchester Utd,1,0,Tottenham,H
+1996,32,1996-03-25,Southampton,1,0,Coventry City,H
+1996,33,1996-03-30,Bolton,1,1,Manchester City,D
+1996,33,1996-03-30,QPR,3,0,Southampton,H
+1996,33,1996-03-30,Wimbledon,1,0,Nott'ham Forest,H
+1996,33,1996-03-30,Leeds United,0,1,Middlesbrough,A
+1996,33,1996-03-30,Tottenham,3,1,Coventry City,H
+1996,33,1996-03-30,Blackburn,0,3,Everton,A
+1996,26,1996-04-03,Leeds United,1,0,Southampton,H
+1996,33,1996-04-03,Liverpool,4,3,Newcastle Utd,H
+1996,34,1996-04-05,Middlesbrough,3,1,Sheffield Weds,H
+1996,34,1996-04-06,Coventry City,1,0,Liverpool,H
+1996,34,1996-04-06,Southampton,1,0,Blackburn,H
+1996,34,1996-04-06,Everton,3,0,Bolton,H
+1996,34,1996-04-06,Arsenal,2,1,Leeds United,H
+1996,34,1996-04-06,Newcastle Utd,2,1,QPR,H
+1996,34,1996-04-06,Nott'ham Forest,2,1,Tottenham,H
+1996,34,1996-04-06,Manchester City,2,3,Manchester Utd,A
+1996,34,1996-04-06,West Ham,1,1,Wimbledon,D
+1996,34,1996-04-06,Chelsea,1,2,Aston Villa,A
+1996,35,1996-04-08,Wimbledon,3,0,Manchester City,H
+1996,35,1996-04-08,Liverpool,2,0,West Ham,H
+1996,35,1996-04-08,Aston Villa,3,0,Southampton,H
+1996,35,1996-04-08,Bolton,2,1,Chelsea,H
+1996,35,1996-04-08,Sheffield Weds,1,0,Arsenal,H
+1996,35,1996-04-08,Manchester Utd,1,0,Coventry City,H
+1996,35,1996-04-08,Tottenham,1,1,Middlesbrough,D
+1996,35,1996-04-08,QPR,3,1,Everton,H
+1996,35,1996-04-08,Blackburn,2,1,Newcastle Utd,H
+1996,35,1996-04-08,Leeds United,1,3,Nott'ham Forest,A
+1996,36,1996-04-13,Chelsea,4,1,Leeds United,H
+1996,36,1996-04-13,Southampton,3,1,Manchester Utd,H
+1996,36,1996-04-13,Middlesbrough,1,2,Wimbledon,A
+1996,36,1996-04-13,Coventry City,1,0,QPR,H
+1996,36,1996-04-13,Manchester City,1,0,Sheffield Weds,H
+1996,36,1996-04-13,West Ham,1,0,Bolton,H
+1996,36,1996-04-13,Nott'ham Forest,1,5,Blackburn,A
+1996,36,1996-04-14,Newcastle Utd,1,0,Aston Villa,H
+1996,36,1996-04-15,Arsenal,0,0,Tottenham,D
+1996,36,1996-04-16,Everton,1,1,Liverpool,D
+1996,27,1996-04-17,Nott'ham Forest,0,0,Coventry City,D
+1996,27,1996-04-17,Newcastle Utd,1,0,Southampton,H
+1996,30,1996-04-17,Manchester Utd,1,0,Leeds United,H
+1996,30,1996-04-17,Blackburn,3,2,Wimbledon,H
+1996,33,1996-04-17,Sheffield Weds,0,0,Chelsea,D
+1996,33,1996-04-17,Aston Villa,1,1,West Ham,D
+1996,37,1996-04-27,Wimbledon,0,2,Coventry City,A
+1996,37,1996-04-27,Tottenham,1,1,Chelsea,D
+1996,37,1996-04-27,Bolton,0,1,Southampton,A
+1996,37,1996-04-27,Aston Villa,0,1,Manchester City,A
+1996,37,1996-04-27,Blackburn,1,1,Arsenal,D
+1996,37,1996-04-27,QPR,3,0,West Ham,H
+1996,37,1996-04-27,Sheffield Weds,2,5,Everton,A
+1996,37,1996-04-27,Liverpool,1,0,Middlesbrough,H
+1996,37,1996-04-28,Manchester Utd,5,0,Nott'ham Forest,H
+1996,37,1996-04-29,Leeds United,0,1,Newcastle Utd,A
+1996,30,1996-05-01,Arsenal,0,0,Liverpool,D
+1996,27,1996-05-02,Leeds United,1,3,Tottenham,A
+1996,30,1996-05-02,Nott'ham Forest,1,1,Newcastle Utd,D
+1996,38,1996-05-05,Nott'ham Forest,3,0,QPR,H
+1996,38,1996-05-05,West Ham,1,1,Sheffield Weds,D
+1996,38,1996-05-05,Arsenal,2,1,Bolton,H
+1996,38,1996-05-05,Manchester City,2,2,Liverpool,D
+1996,38,1996-05-05,Chelsea,2,3,Blackburn,A
+1996,38,1996-05-05,Southampton,0,0,Wimbledon,D
+1996,38,1996-05-05,Newcastle Utd,1,1,Tottenham,D
+1996,38,1996-05-05,Middlesbrough,0,3,Manchester Utd,A
+1996,38,1996-05-05,Everton,1,0,Aston Villa,H
+1996,38,1996-05-05,Coventry City,0,0,Leeds United,D
+1997,1,1996-08-17,Coventry City,0,3,Nott'ham Forest,A
+1997,1,1996-08-17,Everton,2,0,Newcastle Utd,H
+1997,1,1996-08-17,Middlesbrough,3,3,Liverpool,D
+1997,1,1996-08-17,Wimbledon,0,3,Manchester Utd,A
+1997,1,1996-08-17,Blackburn,0,2,Tottenham,A
+1997,1,1996-08-17,Sunderland,0,0,Leicester City,D
+1997,1,1996-08-17,Sheffield Weds,2,1,Aston Villa,H
+1997,1,1996-08-17,Arsenal,2,0,West Ham,H
+1997,1,1996-08-17,Derby County,3,3,Leeds United,D
+1997,1,1996-08-18,Southampton,0,0,Chelsea,D
+1997,2,1996-08-19,Liverpool,2,0,Arsenal,H
+1997,2,1996-08-20,Leeds United,0,2,Sheffield Weds,A
+1997,2,1996-08-21,Tottenham,1,1,Derby County,D
+1997,2,1996-08-21,Leicester City,2,1,Southampton,H
+1997,2,1996-08-21,Chelsea,1,0,Middlesbrough,H
+1997,2,1996-08-21,Manchester Utd,2,2,Everton,D
+1997,2,1996-08-21,Nott'ham Forest,1,4,Sunderland,A
+1997,2,1996-08-21,Aston Villa,1,0,Blackburn,H
+1997,2,1996-08-21,Newcastle Utd,2,0,Wimbledon,H
+1997,2,1996-08-21,West Ham,1,1,Coventry City,D
+1997,3,1996-08-24,Chelsea,2,0,Coventry City,H
+1997,3,1996-08-24,Newcastle Utd,1,2,Sheffield Weds,A
+1997,3,1996-08-24,Aston Villa,2,0,Derby County,H
+1997,3,1996-08-24,West Ham,2,1,Southampton,H
+1997,3,1996-08-24,Tottenham,0,0,Everton,D
+1997,3,1996-08-24,Liverpool,0,0,Sunderland,D
+1997,3,1996-08-24,Nott'ham Forest,1,1,Middlesbrough,D
+1997,3,1996-08-24,Leicester City,0,2,Arsenal,A
+1997,3,1996-08-25,Manchester Utd,2,2,Blackburn,D
+1997,3,1996-08-26,Leeds United,1,0,Wimbledon,H
+1997,4,1996-09-02,Sheffield Weds,2,1,Leicester City,H
+1997,4,1996-09-04,Derby County,1,1,Manchester Utd,D
+1997,4,1996-09-04,Everton,0,1,Aston Villa,A
+1997,4,1996-09-04,Southampton,2,2,Nott'ham Forest,D
+1997,4,1996-09-04,Wimbledon,1,0,Tottenham,H
+1997,4,1996-09-04,Middlesbrough,4,1,West Ham,H
+1997,4,1996-09-04,Arsenal,3,3,Chelsea,D
+1997,4,1996-09-04,Blackburn,0,1,Leeds United,A
+1997,4,1996-09-04,Sunderland,1,2,Newcastle Utd,A
+1997,4,1996-09-04,Coventry City,0,1,Liverpool,A
+1997,5,1996-09-07,Liverpool,2,1,Southampton,H
+1997,5,1996-09-07,Wimbledon,4,0,Everton,H
+1997,5,1996-09-07,Sheffield Weds,0,2,Chelsea,A
+1997,5,1996-09-07,Aston Villa,2,2,Arsenal,D
+1997,5,1996-09-07,Leeds United,0,4,Manchester Utd,A
+1997,5,1996-09-07,Tottenham,1,2,Newcastle Utd,A
+1997,5,1996-09-07,Nott'ham Forest,0,0,Leicester City,D
+1997,5,1996-09-07,Middlesbrough,4,0,Coventry City,H
+1997,5,1996-09-08,Sunderland,0,0,West Ham,D
+1997,5,1996-09-09,Blackburn,1,2,Derby County,A
+1997,6,1996-09-14,Southampton,0,1,Tottenham,A
+1997,6,1996-09-14,Everton,1,2,Middlesbrough,A
+1997,6,1996-09-14,Derby County,1,0,Sunderland,H
+1997,6,1996-09-14,Coventry City,2,1,Leeds United,H
+1997,6,1996-09-14,Newcastle Utd,2,1,Blackburn,H
+1997,6,1996-09-14,West Ham,0,2,Wimbledon,A
+1997,6,1996-09-14,Manchester Utd,4,1,Nott'ham Forest,H
+1997,6,1996-09-15,Chelsea,1,1,Aston Villa,D
+1997,6,1996-09-15,Leicester City,0,3,Liverpool,A
+1997,6,1996-09-16,Arsenal,4,1,Sheffield Weds,H
+1997,7,1996-09-21,Aston Villa,0,0,Manchester Utd,D
+1997,7,1996-09-21,Blackburn,1,1,Everton,D
+1997,7,1996-09-21,Nott'ham Forest,0,2,West Ham,A
+1997,7,1996-09-21,Sheffield Weds,0,0,Derby County,D
+1997,7,1996-09-21,Middlesbrough,0,2,Arsenal,A
+1997,7,1996-09-21,Leeds United,0,1,Newcastle Utd,A
+1997,7,1996-09-21,Liverpool,5,1,Chelsea,H
+1997,7,1996-09-21,Sunderland,1,0,Coventry City,H
+1997,7,1996-09-22,Tottenham,1,2,Leicester City,A
+1997,7,1996-09-23,Wimbledon,3,1,Southampton,H
+1997,8,1996-09-28,Leicester City,1,0,Leeds United,H
+1997,8,1996-09-28,Everton,2,0,Sheffield Weds,H
+1997,8,1996-09-28,Derby County,0,2,Wimbledon,A
+1997,8,1996-09-28,Southampton,4,0,Middlesbrough,H
+1997,8,1996-09-28,Chelsea,1,1,Nott'ham Forest,D
+1997,8,1996-09-28,Coventry City,0,0,Blackburn,D
+1997,8,1996-09-28,Arsenal,2,0,Sunderland,H
+1997,8,1996-09-29,Manchester Utd,2,0,Tottenham,H
+1997,8,1996-09-29,West Ham,1,2,Liverpool,A
+1997,8,1996-09-30,Newcastle Utd,4,3,Aston Villa,H
+1997,9,1996-10-12,Leicester City,1,3,Chelsea,A
+1997,9,1996-10-12,Tottenham,1,0,Aston Villa,H
+1997,9,1996-10-12,Manchester Utd,1,0,Liverpool,H
+1997,9,1996-10-12,Derby County,0,1,Newcastle Utd,A
+1997,9,1996-10-12,Wimbledon,4,2,Sheffield Weds,H
+1997,9,1996-10-12,Leeds United,2,0,Nott'ham Forest,H
+1997,9,1996-10-12,Everton,2,1,West Ham,H
+1997,9,1996-10-12,Blackburn,0,2,Arsenal,A
+1997,9,1996-10-13,Coventry City,1,1,Southampton,D
+1997,9,1996-10-14,Sunderland,2,2,Middlesbrough,D
+1997,10,1996-10-19,Southampton,3,0,Sunderland,H
+1997,10,1996-10-19,Chelsea,2,4,Wimbledon,A
+1997,10,1996-10-19,West Ham,1,0,Leicester City,H
+1997,10,1996-10-19,Aston Villa,2,0,Leeds United,H
+1997,10,1996-10-19,Arsenal,0,0,Coventry City,D
+1997,10,1996-10-19,Nott'ham Forest,1,1,Derby County,D
+1997,10,1996-10-19,Sheffield Weds,1,1,Blackburn,D
+1997,10,1996-10-19,Middlesbrough,0,3,Tottenham,A
+1997,10,1996-10-20,Newcastle Utd,5,0,Manchester Utd,H
+1997,11,1996-10-26,Chelsea,3,1,Tottenham,H
+1997,11,1996-10-26,Leicester City,2,0,Newcastle Utd,H
+1997,11,1996-10-26,Southampton,6,3,Manchester Utd,H
+1997,11,1996-10-26,Middlesbrough,0,0,Wimbledon,D
+1997,11,1996-10-26,West Ham,2,1,Blackburn,H
+1997,11,1996-10-26,Coventry City,0,0,Sheffield Weds,D
+1997,11,1996-10-26,Arsenal,3,0,Leeds United,H
+1997,11,1996-10-26,Sunderland,1,0,Aston Villa,H
+1997,11,1996-10-27,Liverpool,2,1,Derby County,H
+1997,11,1996-10-28,Nott'ham Forest,0,1,Everton,A
+1997,12,1996-11-02,Leeds United,3,0,Sunderland,H
+1997,12,1996-11-02,Aston Villa,2,0,Nott'ham Forest,H
+1997,12,1996-11-02,Tottenham,1,0,West Ham,H
+1997,12,1996-11-02,Wimbledon,2,2,Arsenal,D
+1997,12,1996-11-02,Derby County,2,0,Leicester City,H
+1997,12,1996-11-02,Manchester Utd,1,2,Chelsea,A
+1997,12,1996-11-02,Sheffield Weds,1,1,Southampton,D
+1997,12,1996-11-03,Newcastle Utd,3,1,Middlesbrough,H
+1997,12,1996-11-03,Blackburn,3,0,Liverpool,H
+1997,12,1996-11-04,Everton,1,1,Coventry City,D
+1997,13,1996-11-16,Wimbledon,2,2,Coventry City,D
+1997,13,1996-11-16,Tottenham,2,0,Sunderland,H
+1997,13,1996-11-16,Blackburn,1,1,Chelsea,D
+1997,13,1996-11-16,Everton,7,1,Southampton,H
+1997,13,1996-11-16,Newcastle Utd,1,1,West Ham,D
+1997,13,1996-11-16,Leeds United,0,2,Liverpool,A
+1997,13,1996-11-16,Aston Villa,1,3,Leicester City,A
+1997,13,1996-11-16,Manchester Utd,1,0,Arsenal,H
+1997,13,1996-11-17,Derby County,2,1,Middlesbrough,H
+1997,13,1996-11-18,Sheffield Weds,2,0,Nott'ham Forest,H
+1997,10,1996-11-20,Liverpool,1,1,Everton,D
+1997,14,1996-11-23,Coventry City,1,2,Aston Villa,A
+1997,14,1996-11-23,Sunderland,1,1,Sheffield Weds,D
+1997,14,1996-11-23,Chelsea,1,1,Newcastle Utd,D
+1997,14,1996-11-23,Liverpool,1,1,Wimbledon,D
+1997,14,1996-11-23,Leicester City,1,2,Everton,A
+1997,14,1996-11-23,West Ham,1,1,Derby County,D
+1997,14,1996-11-23,Southampton,0,2,Leeds United,A
+1997,14,1996-11-23,Middlesbrough,2,2,Manchester Utd,D
+1997,14,1996-11-24,Arsenal,3,1,Tottenham,H
+1997,14,1996-11-25,Nott'ham Forest,2,2,Blackburn,D
+1997,15,1996-11-30,Everton,1,3,Sunderland,A
+1997,15,1996-11-30,Wimbledon,1,0,Nott'ham Forest,H
+1997,15,1996-11-30,Derby County,2,1,Coventry City,H
+1997,15,1996-11-30,Sheffield Weds,0,0,West Ham,D
+1997,15,1996-11-30,Blackburn,2,1,Southampton,H
+1997,15,1996-11-30,Aston Villa,1,0,Middlesbrough,H
+1997,15,1996-11-30,Newcastle Utd,1,2,Arsenal,A
+1997,15,1996-11-30,Manchester Utd,3,1,Leicester City,H
+1997,15,1996-12-01,Leeds United,2,0,Chelsea,H
+1997,15,1996-12-02,Tottenham,0,2,Liverpool,A
+1997,17,1996-12-03,Middlesbrough,0,2,Leicester City,A
+1997,17,1996-12-04,Arsenal,3,1,Southampton,H
+1997,17,1996-12-04,West Ham,0,2,Aston Villa,A
+1997,16,1996-12-07,Southampton,0,1,Aston Villa,A
+1997,16,1996-12-07,Coventry City,1,2,Tottenham,A
+1997,16,1996-12-07,Arsenal,2,2,Derby County,D
+1997,16,1996-12-07,Chelsea,2,2,Everton,D
+1997,16,1996-12-07,Leicester City,1,1,Blackburn,D
+1997,16,1996-12-07,Liverpool,0,1,Sheffield Weds,A
+1997,16,1996-12-07,Middlesbrough,0,0,Leeds United,D
+1997,16,1996-12-07,Sunderland,1,3,Wimbledon,A
+1997,16,1996-12-08,West Ham,2,2,Manchester Utd,D
+1997,16,1996-12-09,Nott'ham Forest,0,0,Newcastle Utd,D
+1997,17,1996-12-14,Wimbledon,1,0,Blackburn,H
+1997,17,1996-12-14,Leeds United,0,0,Tottenham,D
+1997,24,1996-12-14,Liverpool,5,1,Middlesbrough,H
+1997,17,1996-12-15,Sunderland,3,0,Chelsea,H
+1997,17,1996-12-16,Derby County,0,1,Everton,A
+1997,17,1996-12-17,Liverpool,4,2,Nott'ham Forest,H
+1997,17,1996-12-17,Coventry City,2,1,Newcastle Utd,H
+1997,17,1996-12-18,Sheffield Weds,1,1,Manchester Utd,D
+1997,18,1996-12-21,Leicester City,0,2,Coventry City,A
+1997,18,1996-12-21,Chelsea,3,1,West Ham,H
+1997,18,1996-12-21,Nott'ham Forest,2,1,Arsenal,H
+1997,18,1996-12-21,Everton,0,0,Leeds United,D
+1997,18,1996-12-21,Manchester Utd,5,0,Sunderland,H
+1997,18,1996-12-21,Tottenham,1,1,Sheffield Weds,D
+1997,18,1996-12-21,Southampton,3,1,Derby County,H
+1997,18,1996-12-22,Aston Villa,5,0,Wimbledon,H
+1997,18,1996-12-23,Newcastle Utd,1,1,Liverpool,D
+1997,19,1996-12-26,Sheffield Weds,0,0,Arsenal,D
+1997,19,1996-12-26,Nott'ham Forest,0,4,Manchester Utd,A
+1997,19,1996-12-26,Liverpool,1,1,Leicester City,D
+1997,19,1996-12-26,Sunderland,2,0,Derby County,H
+1997,19,1996-12-26,Blackburn,1,0,Newcastle Utd,H
+1997,19,1996-12-26,Leeds United,1,3,Coventry City,A
+1997,19,1996-12-26,Middlesbrough,4,2,Everton,H
+1997,19,1996-12-26,Aston Villa,0,2,Chelsea,A
+1997,19,1996-12-26,Tottenham,3,1,Southampton,H
+1997,20,1996-12-28,Leicester City,2,2,Nott'ham Forest,D
+1997,20,1996-12-28,Coventry City,3,0,Middlesbrough,H
+1997,20,1996-12-28,Arsenal,2,2,Aston Villa,D
+1997,20,1996-12-28,Derby County,0,0,Blackburn,D
+1997,20,1996-12-28,Chelsea,2,2,Sheffield Weds,D
+1997,20,1996-12-28,Newcastle Utd,7,1,Tottenham,H
+1997,20,1996-12-28,Manchester Utd,1,0,Leeds United,H
+1997,20,1996-12-28,Everton,1,3,Wimbledon,A
+1997,20,1996-12-28,West Ham,2,0,Sunderland,H
+1997,20,1996-12-29,Southampton,0,1,Liverpool,A
+1997,21,1997-01-01,Chelsea,1,0,Liverpool,H
+1997,21,1997-01-01,Manchester Utd,0,0,Aston Villa,D
+1997,21,1997-01-01,West Ham,0,1,Nott'ham Forest,A
+1997,21,1997-01-01,Everton,0,2,Blackburn,A
+1997,21,1997-01-01,Newcastle Utd,3,0,Leeds United,H
+1997,21,1997-01-01,Arsenal,2,0,Middlesbrough,H
+1997,21,1997-01-01,Coventry City,2,2,Sunderland,D
+1997,22,1997-01-11,Leeds United,3,0,Leicester City,H
+1997,22,1997-01-11,Liverpool,0,0,West Ham,D
+1997,22,1997-01-11,Sheffield Weds,2,1,Everton,H
+1997,22,1997-01-11,Aston Villa,2,2,Newcastle Utd,D
+1997,22,1997-01-11,Sunderland,1,0,Arsenal,H
+1997,22,1997-01-11,Wimbledon,1,1,Derby County,D
+1997,22,1997-01-11,Blackburn,4,0,Coventry City,H
+1997,22,1997-01-11,Middlesbrough,0,1,Southampton,A
+1997,22,1997-01-11,Nott'ham Forest,2,0,Chelsea,H
+1997,22,1997-01-12,Tottenham,1,2,Manchester Utd,A
+1997,23,1997-01-18,Middlesbrough,4,2,Sheffield Weds,H
+1997,23,1997-01-18,Chelsea,3,1,Derby County,H
+1997,23,1997-01-18,Sunderland,0,0,Blackburn,D
+1997,23,1997-01-18,Leicester City,1,0,Wimbledon,H
+1997,23,1997-01-18,Coventry City,0,2,Manchester Utd,A
+1997,23,1997-01-18,Southampton,2,2,Newcastle Utd,D
+1997,23,1997-01-18,Liverpool,3,0,Aston Villa,H
+1997,23,1997-01-19,Arsenal,3,1,Everton,H
+1997,23,1997-01-19,Nott'ham Forest,2,1,Tottenham,H
+1997,23,1997-01-20,West Ham,0,2,Leeds United,A
+1997,24,1997-01-29,West Ham,1,2,Arsenal,A
+1997,24,1997-01-29,Newcastle Utd,4,1,Everton,H
+1997,24,1997-01-29,Nott'ham Forest,0,1,Coventry City,A
+1997,24,1997-01-29,Tottenham,2,1,Blackburn,H
+1997,24,1997-01-29,Manchester Utd,2,1,Wimbledon,H
+1997,24,1997-01-29,Leeds United,0,0,Derby County,D
+1997,24,1997-01-29,Leicester City,1,1,Sunderland,D
+1997,24,1997-01-29,Aston Villa,0,1,Sheffield Weds,A
+1997,25,1997-02-01,Sheffield Weds,0,0,Coventry City,D
+1997,25,1997-02-01,Everton,2,0,Nott'ham Forest,H
+1997,25,1997-02-01,Manchester Utd,2,1,Southampton,H
+1997,25,1997-02-01,Tottenham,1,2,Chelsea,A
+1997,25,1997-02-01,Wimbledon,1,1,Middlesbrough,D
+1997,25,1997-02-01,Blackburn,2,1,West Ham,H
+1997,25,1997-02-01,Leeds United,0,0,Arsenal,D
+1997,25,1997-02-01,Derby County,0,1,Liverpool,A
+1997,25,1997-02-01,Aston Villa,1,0,Sunderland,H
+1997,25,1997-02-02,Newcastle Utd,4,3,Leicester City,H
+1997,26,1997-02-15,Tottenham,0,0,Arsenal,D
+1997,26,1997-02-15,Derby County,1,0,West Ham,H
+1997,21,1997-02-19,Derby County,2,2,Sheffield Weds,D
+1997,26,1997-02-19,Aston Villa,2,1,Coventry City,H
+1997,29,1997-02-19,Arsenal,1,2,Manchester Utd,A
+1997,29,1997-02-19,Liverpool,4,0,Leeds United,H
+1997,27,1997-02-22,Liverpool,0,0,Blackburn,D
+1997,27,1997-02-22,Southampton,2,3,Sheffield Weds,A
+1997,27,1997-02-22,Sunderland,0,1,Leeds United,A
+1997,27,1997-02-22,Leicester City,4,2,Derby County,H
+1997,27,1997-02-22,Coventry City,0,0,Everton,D
+1997,27,1997-02-22,Nott'ham Forest,0,0,Aston Villa,D
+1997,27,1997-02-22,Middlesbrough,0,1,Newcastle Utd,A
+1997,27,1997-02-22,Chelsea,1,1,Manchester Utd,D
+1997,27,1997-02-23,Arsenal,0,1,Wimbledon,A
+1997,27,1997-02-24,West Ham,4,3,Tottenham,H
+1997,21,1997-02-26,Southampton,0,0,Wimbledon,D
+1997,28,1997-03-01,Leeds United,1,0,West Ham,H
+1997,28,1997-03-01,Everton,0,2,Arsenal,A
+1997,28,1997-03-01,Tottenham,0,1,Nott'ham Forest,A
+1997,28,1997-03-01,Manchester Utd,3,1,Coventry City,H
+1997,28,1997-03-01,Sheffield Weds,3,1,Middlesbrough,H
+1997,28,1997-03-01,Blackburn,1,0,Sunderland,H
+1997,28,1997-03-01,Newcastle Utd,0,1,Southampton,A
+1997,28,1997-03-01,Derby County,3,2,Chelsea,H
+1997,28,1997-03-01,Wimbledon,1,3,Leicester City,A
+1997,28,1997-03-02,Aston Villa,1,0,Liverpool,H
+1997,29,1997-03-03,Coventry City,1,1,Wimbledon,D
+1997,29,1997-03-04,Sunderland,0,4,Tottenham,A
+1997,29,1997-03-05,Leicester City,1,0,Aston Villa,H
+1997,29,1997-03-05,Nott'ham Forest,0,3,Sheffield Weds,A
+1997,29,1997-03-05,Middlesbrough,6,1,Derby County,H
+1997,29,1997-03-05,Chelsea,1,1,Blackburn,D
+1997,29,1997-03-05,Southampton,2,2,Everton,D
+1997,30,1997-03-08,Arsenal,2,0,Nott'ham Forest,H
+1997,30,1997-03-08,Coventry City,0,0,Leicester City,D
+1997,30,1997-03-08,Leeds United,1,0,Everton,H
+1997,30,1997-03-08,Sunderland,2,1,Manchester Utd,H
+1997,30,1997-03-10,Liverpool,4,3,Newcastle Utd,H
+1997,26,1997-03-11,Blackburn,1,1,Nott'ham Forest,D
+1997,26,1997-03-12,Leeds United,0,0,Southampton,D
+1997,26,1997-03-12,Sheffield Weds,2,1,Sunderland,H
+1997,30,1997-03-12,West Ham,3,2,Chelsea,H
+1997,31,1997-03-15,Leicester City,1,3,Middlesbrough,A
+1997,31,1997-03-15,Tottenham,1,0,Leeds United,H
+1997,31,1997-03-15,Southampton,0,2,Arsenal,A
+1997,31,1997-03-15,Nott'ham Forest,1,1,Liverpool,D
+1997,31,1997-03-15,Everton,1,0,Derby County,H
+1997,31,1997-03-15,Manchester Utd,2,0,Sheffield Weds,H
+1997,31,1997-03-15,Aston Villa,0,0,West Ham,D
+1997,31,1997-03-15,Blackburn,3,1,Wimbledon,H
+1997,31,1997-03-15,Newcastle Utd,4,0,Coventry City,H
+1997,31,1997-03-16,Chelsea,6,2,Sunderland,H
+1997,19,1997-03-18,Wimbledon,1,1,West Ham,D
+1997,21,1997-03-19,Leicester City,1,1,Tottenham,D
+1997,24,1997-03-19,Chelsea,1,0,Southampton,H
+1997,30,1997-03-19,Middlesbrough,2,1,Blackburn,H
+1997,32,1997-03-22,Derby County,4,2,Tottenham,H
+1997,32,1997-03-22,Middlesbrough,1,0,Chelsea,H
+1997,32,1997-03-22,Coventry City,1,3,West Ham,A
+1997,32,1997-03-22,Blackburn,0,2,Aston Villa,A
+1997,32,1997-03-22,Sunderland,1,1,Nott'ham Forest,D
+1997,32,1997-03-22,Everton,0,2,Manchester Utd,A
+1997,32,1997-03-22,Sheffield Weds,2,2,Leeds United,D
+1997,32,1997-03-22,Southampton,2,2,Leicester City,D
+1997,32,1997-03-23,Wimbledon,1,1,Newcastle Utd,D
+1997,32,1997-03-24,Arsenal,1,2,Liverpool,A
+1997,34,1997-03-24,Middlesbrough,1,1,Nott'ham Forest,D
+1997,33,1997-04-05,Manchester Utd,2,3,Derby County,A
+1997,33,1997-04-05,Newcastle Utd,1,1,Sunderland,D
+1997,33,1997-04-05,Chelsea,0,3,Arsenal,A
+1997,33,1997-04-05,Tottenham,1,0,Wimbledon,H
+1997,33,1997-04-05,Aston Villa,3,1,Everton,H
+1997,33,1997-04-05,Nott'ham Forest,1,3,Southampton,A
+1997,33,1997-04-06,Liverpool,1,2,Coventry City,A
+1997,33,1997-04-07,Leeds United,0,0,Blackburn,D
+1997,26,1997-04-09,Everton,1,1,Leicester City,D
+1997,30,1997-04-09,Sheffield Weds,2,1,Tottenham,H
+1997,30,1997-04-09,Derby County,1,1,Southampton,D
+1997,30,1997-04-09,Wimbledon,0,2,Aston Villa,A
+1997,33,1997-04-09,West Ham,0,0,Middlesbrough,D
+1997,34,1997-04-09,Coventry City,3,1,Chelsea,H
+1997,34,1997-04-12,Southampton,2,0,West Ham,H
+1997,34,1997-04-12,Blackburn,2,3,Manchester Utd,A
+1997,34,1997-04-12,Arsenal,2,0,Leicester City,H
+1997,34,1997-04-12,Everton,1,0,Tottenham,H
+1997,34,1997-04-12,Derby County,2,1,Aston Villa,H
+1997,34,1997-04-13,Sunderland,1,2,Liverpool,A
+1997,34,1997-04-13,Sheffield Weds,1,1,Newcastle Utd,D
+1997,26,1997-04-16,Newcastle Utd,3,1,Chelsea,H
+1997,34,1997-04-16,Wimbledon,2,0,Leeds United,H
+1997,36,1997-04-16,Everton,1,1,Liverpool,D
+1997,35,1997-04-19,Chelsea,2,1,Leicester City,H
+1997,35,1997-04-19,Arsenal,1,1,Blackburn,D
+1997,35,1997-04-19,Southampton,2,2,Coventry City,D
+1997,35,1997-04-19,Aston Villa,1,1,Tottenham,D
+1997,35,1997-04-19,Middlesbrough,0,1,Sunderland,A
+1997,35,1997-04-19,West Ham,2,2,Everton,D
+1997,35,1997-04-19,Liverpool,1,3,Manchester Utd,A
+1997,35,1997-04-19,Sheffield Weds,3,1,Wimbledon,H
+1997,35,1997-04-19,Nott'ham Forest,1,1,Leeds United,D
+1997,35,1997-04-19,Newcastle Utd,3,1,Derby County,H
+1997,36,1997-04-21,Coventry City,1,1,Arsenal,D
+1997,36,1997-04-22,Leeds United,0,0,Aston Villa,D
+1997,36,1997-04-22,Wimbledon,0,1,Chelsea,A
+1997,36,1997-04-22,Sunderland,0,1,Southampton,A
+1997,36,1997-04-22,Blackburn,4,1,Sheffield Weds,H
+1997,36,1997-04-23,Derby County,0,0,Nott'ham Forest,D
+1997,36,1997-04-23,Leicester City,0,1,West Ham,A
+1997,36,1997-04-24,Tottenham,1,0,Middlesbrough,H
+1997,37,1997-05-03,Nott'ham Forest,1,1,Wimbledon,D
+1997,37,1997-05-03,Southampton,2,0,Blackburn,H
+1997,37,1997-05-03,West Ham,5,1,Sheffield Weds,H
+1997,37,1997-05-03,Coventry City,1,2,Derby County,A
+1997,37,1997-05-03,Leicester City,2,2,Manchester Utd,D
+1997,37,1997-05-03,Middlesbrough,3,2,Aston Villa,H
+1997,37,1997-05-03,Arsenal,0,1,Newcastle Utd,A
+1997,37,1997-05-03,Sunderland,3,0,Everton,H
+1997,37,1997-05-03,Liverpool,2,1,Tottenham,H
+1997,37,1997-05-03,Chelsea,0,0,Leeds United,D
+1997,26,1997-05-05,Manchester Utd,3,3,Middlesbrough,D
+1997,26,1997-05-06,Wimbledon,2,1,Liverpool,H
+1997,29,1997-05-06,West Ham,0,0,Newcastle Utd,D
+1997,33,1997-05-07,Leicester City,1,0,Sheffield Weds,H
+1997,18,1997-05-08,Blackburn,0,0,Middlesbrough,D
+1997,36,1997-05-08,Manchester Utd,0,0,Newcastle Utd,D
+1997,38,1997-05-11,Wimbledon,1,0,Sunderland,H
+1997,38,1997-05-11,Blackburn,2,4,Leicester City,A
+1997,38,1997-05-11,Derby County,1,3,Arsenal,A
+1997,38,1997-05-11,Leeds United,1,1,Middlesbrough,D
+1997,38,1997-05-11,Sheffield Weds,1,1,Liverpool,D
+1997,38,1997-05-11,Tottenham,1,2,Coventry City,A
+1997,38,1997-05-11,Everton,1,2,Chelsea,A
+1997,38,1997-05-11,Newcastle Utd,5,0,Nott'ham Forest,H
+1997,38,1997-05-11,Manchester Utd,2,0,West Ham,H
+1997,38,1997-05-11,Aston Villa,1,0,Southampton,H
+1998,1,1997-08-09,Coventry City,3,2,Chelsea,H
+1998,1,1997-08-09,Newcastle Utd,2,1,Sheffield Weds,H
+1998,1,1997-08-09,Southampton,0,1,Bolton,A
+1998,1,1997-08-09,Everton,1,2,Crystal Palace,A
+1998,1,1997-08-09,Leicester City,1,0,Aston Villa,H
+1998,1,1997-08-09,Wimbledon,1,1,Liverpool,D
+1998,1,1997-08-09,Barnsley,1,2,West Ham,A
+1998,1,1997-08-09,Leeds United,1,1,Arsenal,D
+1998,1,1997-08-09,Blackburn,1,0,Derby County,H
+1998,1,1997-08-10,Tottenham,0,2,Manchester Utd,A
+1998,2,1997-08-11,Arsenal,2,0,Coventry City,H
+1998,2,1997-08-12,Crystal Palace,0,1,Barnsley,A
+1998,2,1997-08-13,Manchester Utd,1,0,Southampton,H
+1998,2,1997-08-13,West Ham,2,1,Tottenham,H
+1998,2,1997-08-13,Liverpool,1,2,Leicester City,A
+1998,2,1997-08-13,Aston Villa,0,4,Blackburn,A
+1998,2,1997-08-13,Sheffield Weds,1,3,Leeds United,A
+1998,3,1997-08-23,Southampton,1,3,Arsenal,A
+1998,3,1997-08-23,Leeds United,0,2,Crystal Palace,A
+1998,3,1997-08-23,Blackburn,1,1,Liverpool,D
+1998,3,1997-08-23,Tottenham,1,0,Derby County,H
+1998,3,1997-08-23,Leicester City,0,0,Manchester Utd,D
+1998,3,1997-08-23,Everton,2,1,West Ham,H
+1998,3,1997-08-23,Wimbledon,1,1,Sheffield Weds,D
+1998,3,1997-08-23,Newcastle Utd,1,0,Aston Villa,H
+1998,3,1997-08-23,Coventry City,2,2,Bolton,D
+1998,3,1997-08-24,Barnsley,0,6,Chelsea,A
+1998,4,1997-08-25,Blackburn,7,2,Sheffield Weds,H
+1998,4,1997-08-26,Leeds United,0,2,Liverpool,A
+1998,4,1997-08-27,Everton,0,2,Manchester Utd,A
+1998,4,1997-08-27,Wimbledon,0,2,Chelsea,A
+1998,4,1997-08-27,Tottenham,3,2,Aston Villa,H
+1998,4,1997-08-27,Southampton,1,0,Crystal Palace,H
+1998,4,1997-08-27,Coventry City,1,1,West Ham,D
+1998,4,1997-08-27,Leicester City,3,3,Arsenal,D
+1998,4,1997-08-27,Barnsley,2,1,Bolton,H
+1998,5,1997-08-30,Chelsea,4,2,Southampton,H
+1998,5,1997-08-30,Derby County,1,0,Barnsley,H
+1998,5,1997-08-30,Manchester Utd,3,0,Coventry City,H
+1998,5,1997-08-30,Crystal Palace,1,2,Blackburn,A
+1998,5,1997-08-30,Aston Villa,1,0,Leeds United,H
+1998,5,1997-08-30,West Ham,3,1,Wimbledon,H
+1998,5,1997-08-30,Arsenal,0,0,Tottenham,D
+1998,5,1997-08-30,Sheffield Weds,1,0,Leicester City,H
+1998,5,1997-09-01,Bolton,0,0,Everton,D
+1998,6,1997-09-13,Leicester City,3,0,Tottenham,H
+1998,6,1997-09-13,Arsenal,4,1,Bolton,H
+1998,6,1997-09-13,Derby County,3,1,Everton,H
+1998,6,1997-09-13,Coventry City,1,0,Southampton,H
+1998,6,1997-09-13,Newcastle Utd,1,3,Wimbledon,A
+1998,6,1997-09-13,Crystal Palace,0,3,Chelsea,A
+1998,6,1997-09-13,Manchester Utd,2,1,West Ham,H
+1998,6,1997-09-13,Barnsley,0,3,Aston Villa,A
+1998,6,1997-09-13,Liverpool,2,1,Sheffield Weds,H
+1998,6,1997-09-14,Blackburn,3,4,Leeds United,A
+1998,7,1997-09-20,Tottenham,0,0,Blackburn,D
+1998,7,1997-09-20,Leeds United,0,1,Leicester City,A
+1998,7,1997-09-20,Everton,4,2,Barnsley,H
+1998,7,1997-09-20,Southampton,1,1,Liverpool,D
+1998,7,1997-09-20,Sheffield Weds,0,0,Coventry City,D
+1998,7,1997-09-20,West Ham,0,1,Newcastle Utd,A
+1998,7,1997-09-20,Wimbledon,0,1,Crystal Palace,A
+1998,7,1997-09-20,Aston Villa,2,1,Derby County,H
+1998,7,1997-09-20,Bolton,0,0,Manchester Utd,D
+1998,7,1997-09-21,Chelsea,2,3,Arsenal,A
+1998,8,1997-09-22,Liverpool,3,0,Aston Villa,H
+1998,8,1997-09-23,Wimbledon,4,1,Barnsley,H
+1998,8,1997-09-23,Bolton,1,1,Tottenham,D
+1998,8,1997-09-24,Newcastle Utd,1,0,Everton,H
+1998,8,1997-09-24,Coventry City,1,1,Crystal Palace,D
+1998,8,1997-09-24,Sheffield Weds,2,5,Derby County,A
+1998,8,1997-09-24,Manchester Utd,2,2,Chelsea,D
+1998,8,1997-09-24,Southampton,0,2,Leeds United,A
+1998,8,1997-09-24,Leicester City,1,1,Blackburn,D
+1998,8,1997-09-24,Arsenal,4,0,West Ham,H
+1998,9,1997-09-27,West Ham,2,1,Liverpool,H
+1998,9,1997-09-27,Barnsley,0,2,Leicester City,A
+1998,9,1997-09-27,Everton,2,2,Arsenal,D
+1998,9,1997-09-27,Chelsea,1,0,Newcastle Utd,H
+1998,9,1997-09-27,Aston Villa,2,2,Sheffield Weds,D
+1998,9,1997-09-27,Leeds United,1,0,Manchester Utd,H
+1998,9,1997-09-27,Crystal Palace,2,2,Bolton,D
+1998,9,1997-09-27,Derby County,4,0,Southampton,H
+1998,9,1997-09-28,Tottenham,0,0,Wimbledon,D
+1998,9,1997-09-28,Blackburn,0,0,Coventry City,D
+1998,10,1997-10-04,Sheffield Weds,3,1,Everton,H
+1998,10,1997-10-04,Coventry City,0,0,Leeds United,D
+1998,10,1997-10-04,Southampton,3,0,West Ham,H
+1998,10,1997-10-04,Newcastle Utd,1,0,Tottenham,H
+1998,10,1997-10-04,Arsenal,5,0,Barnsley,H
+1998,10,1997-10-04,Wimbledon,0,1,Blackburn,A
+1998,10,1997-10-04,Manchester Utd,2,0,Crystal Palace,H
+1998,10,1997-10-04,Bolton,0,1,Aston Villa,A
+1998,10,1997-10-05,Liverpool,4,2,Chelsea,H
+1998,10,1997-10-06,Leicester City,1,2,Derby County,A
+1998,11,1997-10-18,Everton,2,0,Liverpool,H
+1998,11,1997-10-18,Chelsea,1,0,Leicester City,H
+1998,11,1997-10-18,Blackburn,1,0,Southampton,H
+1998,11,1997-10-18,Aston Villa,1,2,Wimbledon,A
+1998,11,1997-10-18,Derby County,2,2,Manchester Utd,D
+1998,11,1997-10-18,Leeds United,4,1,Newcastle Utd,H
+1998,11,1997-10-18,West Ham,3,0,Bolton,H
+1998,11,1997-10-18,Crystal Palace,0,0,Arsenal,D
+1998,11,1997-10-19,Tottenham,3,2,Sheffield Weds,H
+1998,11,1997-10-20,Barnsley,2,0,Coventry City,H
+1998,2,1997-10-22,Derby County,1,1,Wimbledon,D
+1998,12,1997-10-25,Southampton,3,2,Tottenham,H
+1998,12,1997-10-25,Wimbledon,1,0,Leeds United,H
+1998,12,1997-10-25,Coventry City,0,0,Everton,D
+1998,12,1997-10-25,Manchester Utd,7,0,Barnsley,H
+1998,12,1997-10-25,Newcastle Utd,1,1,Blackburn,D
+1998,12,1997-10-25,Sheffield Weds,1,3,Crystal Palace,A
+1998,12,1997-10-25,Liverpool,4,0,Derby County,H
+1998,12,1997-10-26,Arsenal,0,0,Aston Villa,D
+1998,12,1997-10-26,Bolton,1,0,Chelsea,H
+1998,12,1997-10-27,Leicester City,2,1,West Ham,H
+1998,13,1997-11-01,Manchester Utd,6,1,Sheffield Weds,H
+1998,13,1997-11-01,Bolton,1,1,Liverpool,D
+1998,13,1997-11-01,Newcastle Utd,3,3,Leicester City,D
+1998,13,1997-11-01,Barnsley,1,1,Blackburn,D
+1998,13,1997-11-01,Wimbledon,1,2,Coventry City,A
+1998,13,1997-11-01,Aston Villa,0,2,Chelsea,A
+1998,13,1997-11-01,Derby County,3,0,Arsenal,H
+1998,13,1997-11-01,Tottenham,0,1,Leeds United,A
+1998,13,1997-11-02,Everton,0,2,Southampton,A
+1998,14,1997-11-08,Crystal Palace,1,1,Aston Villa,D
+1998,14,1997-11-08,Liverpool,4,0,Tottenham,H
+1998,14,1997-11-08,Leeds United,4,3,Derby County,H
+1998,14,1997-11-08,Sheffield Weds,5,0,Bolton,H
+1998,14,1997-11-08,Blackburn,3,2,Everton,H
+1998,14,1997-11-08,Southampton,4,1,Barnsley,H
+1998,14,1997-11-08,Coventry City,2,2,Newcastle Utd,D
+1998,14,1997-11-09,Arsenal,3,2,Manchester Utd,H
+1998,14,1997-11-09,Chelsea,2,1,West Ham,H
+1998,14,1997-11-10,Leicester City,0,1,Wimbledon,A
+1998,15,1997-11-22,Wimbledon,2,5,Manchester Utd,A
+1998,15,1997-11-22,Aston Villa,2,1,Everton,H
+1998,15,1997-11-22,Sheffield Weds,2,0,Arsenal,H
+1998,15,1997-11-22,Newcastle Utd,2,1,Southampton,H
+1998,15,1997-11-22,Leicester City,0,0,Bolton,D
+1998,15,1997-11-22,Blackburn,1,0,Chelsea,H
+1998,15,1997-11-22,Derby County,3,1,Coventry City,H
+1998,15,1997-11-22,Liverpool,0,1,Barnsley,A
+1998,15,1997-11-23,Leeds United,3,1,West Ham,H
+1998,15,1997-11-24,Tottenham,0,1,Crystal Palace,A
+1998,2,1997-11-26,Chelsea,2,0,Everton,H
+1998,16,1997-11-29,Southampton,2,3,Sheffield Weds,A
+1998,16,1997-11-29,Barnsley,2,3,Leeds United,A
+1998,16,1997-11-29,Coventry City,0,2,Leicester City,A
+1998,16,1997-11-29,Bolton,1,0,Wimbledon,H
+1998,16,1997-11-29,West Ham,2,1,Aston Villa,H
+1998,16,1997-11-29,Everton,0,2,Tottenham,A
+1998,16,1997-11-29,Chelsea,4,0,Derby County,H
+1998,16,1997-11-29,Crystal Palace,1,2,Newcastle Utd,A
+1998,16,1997-11-30,Manchester Utd,4,0,Blackburn,H
+1998,16,1997-11-30,Arsenal,0,1,Liverpool,A
+1998,2,1997-12-01,Bolton,1,0,Newcastle Utd,H
+1998,13,1997-12-03,West Ham,4,1,Crystal Palace,H
+1998,17,1997-12-06,Derby County,2,0,West Ham,H
+1998,17,1997-12-06,Aston Villa,3,0,Coventry City,H
+1998,17,1997-12-06,Liverpool,1,3,Manchester Utd,A
+1998,17,1997-12-06,Newcastle Utd,0,1,Arsenal,A
+1998,17,1997-12-06,Blackburn,3,1,Bolton,H
+1998,17,1997-12-06,Tottenham,1,6,Chelsea,A
+1998,17,1997-12-06,Leicester City,1,1,Crystal Palace,D
+1998,17,1997-12-06,Leeds United,0,0,Everton,D
+1998,17,1997-12-07,Wimbledon,1,0,Southampton,H
+1998,17,1997-12-08,Sheffield Weds,2,1,Barnsley,H
+1998,18,1997-12-13,West Ham,1,0,Sheffield Weds,H
+1998,18,1997-12-13,Southampton,2,1,Leicester City,H
+1998,18,1997-12-13,Arsenal,1,3,Blackburn,A
+1998,18,1997-12-13,Chelsea,0,0,Leeds United,D
+1998,18,1997-12-13,Barnsley,2,2,Newcastle Utd,D
+1998,18,1997-12-13,Crystal Palace,0,3,Liverpool,A
+1998,18,1997-12-13,Coventry City,4,0,Tottenham,H
+1998,18,1997-12-13,Everton,0,0,Wimbledon,D
+1998,18,1997-12-14,Bolton,3,3,Derby County,D
+1998,18,1997-12-15,Manchester Utd,1,0,Aston Villa,H
+1998,4,1997-12-17,Newcastle Utd,0,0,Derby County,D
+1998,19,1997-12-20,Leeds United,2,0,Bolton,H
+1998,19,1997-12-20,Blackburn,3,0,West Ham,H
+1998,19,1997-12-20,Leicester City,0,1,Everton,A
+1998,19,1997-12-20,Tottenham,3,0,Barnsley,H
+1998,19,1997-12-20,Aston Villa,1,1,Southampton,D
+1998,19,1997-12-20,Sheffield Weds,1,4,Chelsea,A
+1998,19,1997-12-20,Derby County,0,0,Crystal Palace,D
+1998,19,1997-12-20,Liverpool,1,0,Coventry City,H
+1998,19,1997-12-21,Newcastle Utd,0,1,Manchester Utd,A
+1998,20,1997-12-26,West Ham,1,0,Coventry City,H
+1998,20,1997-12-26,Crystal Palace,1,1,Southampton,D
+1998,20,1997-12-26,Aston Villa,4,1,Tottenham,H
+1998,20,1997-12-26,Manchester Utd,2,0,Everton,H
+1998,20,1997-12-26,Liverpool,3,1,Leeds United,H
+1998,20,1997-12-26,Sheffield Weds,0,0,Blackburn,D
+1998,20,1997-12-26,Derby County,1,0,Newcastle Utd,H
+1998,20,1997-12-26,Arsenal,2,1,Leicester City,H
+1998,20,1997-12-26,Chelsea,1,1,Wimbledon,D
+1998,20,1997-12-26,Bolton,1,1,Barnsley,D
+1998,21,1997-12-28,Newcastle Utd,1,2,Liverpool,A
+1998,21,1997-12-28,Leeds United,1,1,Aston Villa,D
+1998,21,1997-12-28,Leicester City,1,1,Sheffield Weds,D
+1998,21,1997-12-28,Tottenham,1,1,Arsenal,D
+1998,21,1997-12-28,Wimbledon,1,2,West Ham,A
+1998,21,1997-12-28,Barnsley,1,0,Derby County,H
+1998,21,1997-12-28,Coventry City,3,2,Manchester Utd,H
+1998,21,1997-12-28,Blackburn,2,2,Crystal Palace,D
+1998,21,1997-12-28,Everton,3,2,Bolton,H
+1998,21,1997-12-29,Southampton,1,0,Chelsea,H
+1998,22,1998-01-10,Manchester Utd,2,0,Tottenham,H
+1998,22,1998-01-10,Arsenal,2,1,Leeds United,H
+1998,22,1998-01-10,Chelsea,3,1,Coventry City,H
+1998,22,1998-01-10,Bolton,0,0,Southampton,D
+1998,22,1998-01-10,Aston Villa,1,1,Leicester City,D
+1998,22,1998-01-10,West Ham,6,0,Barnsley,H
+1998,22,1998-01-10,Sheffield Weds,2,1,Newcastle Utd,H
+1998,22,1998-01-10,Liverpool,2,0,Wimbledon,H
+1998,22,1998-01-10,Crystal Palace,1,3,Everton,A
+1998,22,1998-01-11,Derby County,3,1,Blackburn,H
+1998,23,1998-01-17,Barnsley,1,0,Crystal Palace,H
+1998,23,1998-01-17,Leicester City,0,0,Liverpool,D
+1998,23,1998-01-17,Blackburn,5,0,Aston Villa,H
+1998,23,1998-01-17,Tottenham,1,0,West Ham,H
+1998,23,1998-01-17,Wimbledon,0,0,Derby County,D
+1998,23,1998-01-17,Coventry City,2,2,Arsenal,D
+1998,23,1998-01-17,Leeds United,1,2,Sheffield Weds,A
+1998,23,1998-01-17,Newcastle Utd,2,1,Bolton,H
+1998,23,1998-01-18,Everton,3,1,Chelsea,H
+1998,23,1998-01-19,Southampton,1,0,Manchester Utd,H
+1998,5,1998-01-20,Liverpool,1,0,Newcastle Utd,H
+1998,24,1998-01-31,Crystal Palace,0,2,Leeds United,A
+1998,24,1998-01-31,Chelsea,2,0,Barnsley,H
+1998,24,1998-01-31,Sheffield Weds,1,1,Wimbledon,D
+1998,24,1998-01-31,Liverpool,0,0,Blackburn,D
+1998,24,1998-01-31,Arsenal,3,0,Southampton,H
+1998,24,1998-01-31,Bolton,1,5,Coventry City,A
+1998,24,1998-01-31,Derby County,2,1,Tottenham,H
+1998,24,1998-01-31,West Ham,2,2,Everton,D
+1998,24,1998-01-31,Manchester Utd,0,1,Leicester City,A
+1998,24,1998-02-01,Aston Villa,0,1,Newcastle Utd,A
+1998,25,1998-02-07,Manchester Utd,1,1,Bolton,D
+1998,25,1998-02-07,Blackburn,0,3,Tottenham,A
+1998,25,1998-02-07,Leicester City,1,0,Leeds United,H
+1998,25,1998-02-07,Derby County,0,1,Aston Villa,A
+1998,25,1998-02-07,Liverpool,2,3,Southampton,A
+1998,25,1998-02-07,Barnsley,2,2,Everton,D
+1998,25,1998-02-07,Newcastle Utd,0,1,West Ham,A
+1998,25,1998-02-07,Coventry City,1,0,Sheffield Weds,H
+1998,25,1998-02-08,Arsenal,2,0,Chelsea,H
+1998,25,1998-02-09,Crystal Palace,0,3,Wimbledon,A
+1998,26,1998-02-14,Everton,1,2,Derby County,A
+1998,26,1998-02-14,Tottenham,1,1,Leicester City,D
+1998,26,1998-02-14,Sheffield Weds,3,3,Liverpool,D
+1998,26,1998-02-18,Southampton,1,2,Coventry City,A
+1998,34,1998-02-18,Aston Villa,0,2,Manchester Utd,A
+1998,27,1998-02-21,Arsenal,1,0,Crystal Palace,H
+1998,27,1998-02-21,Leicester City,2,0,Chelsea,H
+1998,27,1998-02-21,Sheffield Weds,1,0,Tottenham,H
+1998,27,1998-02-21,Wimbledon,2,1,Aston Villa,H
+1998,27,1998-02-21,Southampton,3,0,Blackburn,H
+1998,27,1998-02-21,Manchester Utd,2,0,Derby County,H
+1998,27,1998-02-21,Coventry City,1,0,Barnsley,H
+1998,27,1998-02-21,Bolton,1,1,West Ham,D
+1998,27,1998-02-22,Newcastle Utd,1,1,Leeds United,D
+1998,27,1998-02-23,Liverpool,1,1,Everton,D
+1998,28,1998-02-28,Leeds United,0,1,Southampton,A
+1998,28,1998-02-28,Everton,0,0,Newcastle Utd,D
+1998,28,1998-02-28,Aston Villa,2,1,Liverpool,H
+1998,28,1998-02-28,Blackburn,5,3,Leicester City,H
+1998,28,1998-02-28,Barnsley,2,1,Wimbledon,H
+1998,28,1998-02-28,Derby County,3,0,Sheffield Weds,H
+1998,28,1998-02-28,Crystal Palace,0,3,Coventry City,A
+1998,28,1998-02-28,Chelsea,0,1,Manchester Utd,A
+1998,28,1998-03-01,Tottenham,1,0,Bolton,H
+1998,28,1998-03-02,West Ham,0,0,Arsenal,D
+1998,29,1998-03-04,Leeds United,1,0,Tottenham,H
+1998,29,1998-03-07,Liverpool,2,1,Bolton,H
+1998,29,1998-03-07,Sheffield Weds,2,0,Manchester Utd,H
+1998,29,1998-03-07,Southampton,2,1,Everton,H
+1998,29,1998-03-08,Chelsea,0,1,Aston Villa,A
+1998,19,1998-03-11,Wimbledon,0,1,Arsenal,A
+1998,26,1998-03-11,Leeds United,4,0,Blackburn,H
+1998,26,1998-03-11,Chelsea,6,2,Crystal Palace,H
+1998,26,1998-03-11,West Ham,1,1,Manchester Utd,D
+1998,26,1998-03-11,Aston Villa,0,1,Barnsley,A
+1998,30,1998-03-14,Aston Villa,3,1,Crystal Palace,H
+1998,30,1998-03-14,Barnsley,4,3,Southampton,H
+1998,30,1998-03-14,Tottenham,3,3,Liverpool,D
+1998,30,1998-03-14,West Ham,2,1,Chelsea,H
+1998,30,1998-03-14,Bolton,3,2,Sheffield Weds,H
+1998,30,1998-03-14,Wimbledon,2,1,Leicester City,H
+1998,30,1998-03-14,Everton,1,0,Blackburn,H
+1998,30,1998-03-14,Manchester Utd,0,1,Arsenal,A
+1998,30,1998-03-14,Newcastle Utd,0,0,Coventry City,D
+1998,30,1998-03-15,Derby County,0,5,Leeds United,A
+1998,32,1998-03-18,Newcastle Utd,1,2,Crystal Palace,A
+1998,31,1998-03-28,Coventry City,1,0,Derby County,H
+1998,31,1998-03-28,Arsenal,1,0,Sheffield Weds,H
+1998,31,1998-03-28,Everton,1,4,Aston Villa,A
+1998,31,1998-03-28,Crystal Palace,1,3,Tottenham,A
+1998,31,1998-03-28,Bolton,2,0,Leicester City,H
+1998,31,1998-03-28,Manchester Utd,2,0,Wimbledon,H
+1998,31,1998-03-28,Barnsley,2,3,Liverpool,A
+1998,31,1998-03-28,Southampton,2,1,Newcastle Utd,H
+1998,31,1998-03-30,West Ham,3,0,Leeds United,H
+1998,26,1998-03-31,Bolton,0,1,Arsenal,A
+1998,26,1998-03-31,Wimbledon,0,0,Newcastle Utd,D
+1998,29,1998-03-31,Blackburn,2,1,Barnsley,H
+1998,32,1998-04-04,Aston Villa,2,0,West Ham,H
+1998,32,1998-04-04,Leicester City,1,1,Coventry City,D
+1998,32,1998-04-04,Tottenham,1,1,Everton,D
+1998,32,1998-04-04,Wimbledon,0,0,Bolton,D
+1998,32,1998-04-04,Sheffield Weds,1,0,Southampton,H
+1998,32,1998-04-04,Leeds United,2,1,Barnsley,H
+1998,32,1998-04-05,Derby County,0,1,Chelsea,A
+1998,32,1998-04-06,Blackburn,1,3,Manchester Utd,A
+1998,34,1998-04-08,Leeds United,3,1,Chelsea,H
+1998,33,1998-04-10,Manchester Utd,1,1,Liverpool,D
+1998,33,1998-04-11,Crystal Palace,0,3,Leicester City,A
+1998,33,1998-04-11,Everton,2,0,Leeds United,H
+1998,33,1998-04-11,Arsenal,3,1,Newcastle Utd,H
+1998,33,1998-04-11,Bolton,2,1,Blackburn,H
+1998,33,1998-04-11,West Ham,0,0,Derby County,D
+1998,33,1998-04-11,Southampton,0,1,Wimbledon,A
+1998,33,1998-04-11,Coventry City,1,2,Aston Villa,A
+1998,33,1998-04-11,Chelsea,2,0,Tottenham,H
+1998,33,1998-04-11,Barnsley,2,1,Sheffield Weds,H
+1998,34,1998-04-13,Newcastle Utd,2,1,Barnsley,H
+1998,34,1998-04-13,Derby County,4,0,Bolton,H
+1998,34,1998-04-13,Blackburn,1,4,Arsenal,A
+1998,34,1998-04-13,Wimbledon,0,0,Everton,D
+1998,34,1998-04-13,Tottenham,1,1,Coventry City,D
+1998,34,1998-04-13,Sheffield Weds,1,1,West Ham,D
+1998,34,1998-04-13,Liverpool,2,1,Crystal Palace,H
+1998,34,1998-04-14,Leicester City,3,3,Southampton,D
+1998,35,1998-04-18,Manchester Utd,1,1,Newcastle Utd,D
+1998,35,1998-04-18,Crystal Palace,3,1,Derby County,H
+1998,35,1998-04-18,Everton,1,1,Leicester City,D
+1998,35,1998-04-18,Bolton,2,3,Leeds United,A
+1998,35,1998-04-18,Southampton,1,2,Aston Villa,A
+1998,35,1998-04-18,Barnsley,1,1,Tottenham,D
+1998,35,1998-04-18,West Ham,2,1,Blackburn,H
+1998,35,1998-04-18,Arsenal,5,0,Wimbledon,H
+1998,35,1998-04-19,Coventry City,1,1,Liverpool,D
+1998,35,1998-04-19,Chelsea,1,0,Sheffield Weds,H
+1998,36,1998-04-25,Tottenham,2,0,Newcastle Utd,H
+1998,36,1998-04-25,Chelsea,4,1,Liverpool,H
+1998,36,1998-04-25,Aston Villa,1,3,Bolton,A
+1998,36,1998-04-25,Everton,1,3,Sheffield Weds,A
+1998,36,1998-04-25,Blackburn,0,0,Wimbledon,D
+1998,36,1998-04-25,West Ham,2,4,Southampton,A
+1998,36,1998-04-25,Leeds United,3,3,Coventry City,D
+1998,36,1998-04-25,Barnsley,0,2,Arsenal,A
+1998,36,1998-04-26,Derby County,0,4,Leicester City,A
+1998,36,1998-04-27,Crystal Palace,0,3,Manchester Utd,A
+1998,29,1998-04-29,Arsenal,1,0,Derby County,H
+1998,29,1998-04-29,Coventry City,0,0,Wimbledon,D
+1998,29,1998-04-29,Leicester City,0,0,Newcastle Utd,D
+1998,31,1998-04-29,Chelsea,0,1,Blackburn,A
+1998,37,1998-05-02,Coventry City,2,0,Blackburn,H
+1998,37,1998-05-02,Leicester City,1,0,Barnsley,H
+1998,37,1998-05-02,Southampton,0,2,Derby County,A
+1998,37,1998-05-02,Bolton,5,2,Crystal Palace,H
+1998,37,1998-05-02,Sheffield Weds,1,3,Aston Villa,A
+1998,37,1998-05-02,Liverpool,5,0,West Ham,H
+1998,37,1998-05-02,Wimbledon,2,6,Tottenham,A
+1998,37,1998-05-02,Newcastle Utd,3,1,Chelsea,H
+1998,37,1998-05-03,Arsenal,4,0,Everton,H
+1998,37,1998-05-04,Manchester Utd,3,0,Leeds United,H
+1998,29,1998-05-05,Crystal Palace,3,3,West Ham,D
+1998,32,1998-05-06,Liverpool,4,0,Arsenal,H
+1998,38,1998-05-10,Leeds United,1,1,Wimbledon,D
+1998,38,1998-05-10,West Ham,4,3,Leicester City,H
+1998,38,1998-05-10,Barnsley,0,2,Manchester Utd,A
+1998,38,1998-05-10,Blackburn,1,0,Newcastle Utd,H
+1998,38,1998-05-10,Tottenham,1,1,Southampton,D
+1998,38,1998-05-10,Chelsea,2,0,Bolton,H
+1998,38,1998-05-10,Aston Villa,1,0,Arsenal,H
+1998,38,1998-05-10,Everton,1,1,Coventry City,D
+1998,38,1998-05-10,Derby County,1,0,Liverpool,H
+1998,38,1998-05-10,Crystal Palace,1,0,Sheffield Weds,H
+1999,1,1998-08-15,Everton,0,0,Aston Villa,D
+1999,1,1998-08-15,Sheffield Weds,0,1,West Ham,A
+1999,1,1998-08-15,Coventry City,2,1,Chelsea,H
+1999,1,1998-08-15,Middlesbrough,0,0,Leeds United,D
+1999,1,1998-08-15,Manchester Utd,2,2,Leicester City,D
+1999,1,1998-08-15,Wimbledon,3,1,Tottenham,H
+1999,1,1998-08-15,Newcastle Utd,0,0,Charlton Ath,D
+1999,1,1998-08-15,Blackburn,0,0,Derby County,D
+1999,1,1998-08-16,Southampton,1,2,Liverpool,A
+1999,1,1998-08-17,Arsenal,2,1,Nott'ham Forest,H
+1999,2,1998-08-22,Nott'ham Forest,1,0,Coventry City,H
+1999,2,1998-08-22,Liverpool,0,0,Arsenal,D
+1999,2,1998-08-22,Tottenham,0,3,Sheffield Weds,A
+1999,2,1998-08-22,Chelsea,1,1,Newcastle Utd,D
+1999,2,1998-08-22,Leicester City,2,0,Everton,H
+1999,2,1998-08-22,West Ham,0,0,Manchester Utd,D
+1999,2,1998-08-22,Derby County,0,0,Wimbledon,D
+1999,2,1998-08-22,Charlton Ath,5,0,Southampton,H
+1999,2,1998-08-23,Aston Villa,3,1,Middlesbrough,H
+1999,2,1998-08-24,Leeds United,1,0,Blackburn,H
+1999,3,1998-08-29,Coventry City,0,0,West Ham,D
+1999,3,1998-08-29,Everton,0,1,Tottenham,A
+1999,3,1998-08-29,Arsenal,0,0,Charlton Ath,D
+1999,3,1998-08-29,Sheffield Weds,0,1,Aston Villa,A
+1999,3,1998-08-29,Middlesbrough,1,1,Derby County,D
+1999,3,1998-08-29,Blackburn,1,0,Leicester City,H
+1999,3,1998-08-29,Wimbledon,1,1,Leeds United,D
+1999,3,1998-08-29,Southampton,1,2,Nott'ham Forest,A
+1999,3,1998-08-30,Newcastle Utd,1,4,Liverpool,A
+1999,4,1998-09-08,Nott'ham Forest,0,2,Everton,A
+1999,4,1998-09-09,Chelsea,0,0,Arsenal,D
+1999,4,1998-09-09,Manchester Utd,4,1,Charlton Ath,H
+1999,4,1998-09-09,Aston Villa,1,0,Newcastle Utd,H
+1999,4,1998-09-09,Tottenham,2,1,Blackburn,H
+1999,4,1998-09-09,Derby County,1,0,Sheffield Weds,H
+1999,4,1998-09-09,West Ham,3,4,Wimbledon,A
+1999,4,1998-09-09,Leicester City,0,1,Middlesbrough,A
+1999,4,1998-09-09,Leeds United,3,0,Southampton,H
+1999,4,1998-09-09,Liverpool,2,0,Coventry City,H
+1999,5,1998-09-12,Everton,0,0,Leeds United,D
+1999,5,1998-09-12,Manchester Utd,2,0,Coventry City,H
+1999,5,1998-09-12,Aston Villa,2,0,Wimbledon,H
+1999,5,1998-09-12,Sheffield Weds,3,0,Blackburn,H
+1999,5,1998-09-12,Leicester City,1,1,Arsenal,D
+1999,5,1998-09-12,Chelsea,2,1,Nott'ham Forest,H
+1999,5,1998-09-12,West Ham,2,1,Liverpool,H
+1999,5,1998-09-12,Newcastle Utd,4,0,Southampton,H
+1999,5,1998-09-12,Charlton Ath,1,2,Derby County,A
+1999,5,1998-09-13,Tottenham,0,3,Middlesbrough,A
+1999,6,1998-09-19,Liverpool,3,3,Charlton Ath,D
+1999,6,1998-09-19,Coventry City,1,5,Newcastle Utd,A
+1999,6,1998-09-19,Leeds United,0,0,Aston Villa,D
+1999,6,1998-09-19,Derby County,2,0,Leicester City,H
+1999,6,1998-09-19,Wimbledon,2,1,Sheffield Weds,H
+1999,6,1998-09-19,Middlesbrough,2,2,Everton,D
+1999,6,1998-09-19,Southampton,1,1,Tottenham,D
+1999,6,1998-09-19,Nott'ham Forest,0,0,West Ham,D
+1999,6,1998-09-20,Arsenal,3,0,Manchester Utd,H
+1999,6,1998-09-21,Blackburn,3,4,Chelsea,A
+1999,7,1998-09-24,Manchester Utd,2,0,Liverpool,H
+1999,7,1998-09-26,Aston Villa,1,0,Derby County,H
+1999,7,1998-09-26,Sheffield Weds,1,0,Arsenal,H
+1999,7,1998-09-26,Everton,0,0,Blackburn,D
+1999,7,1998-09-26,Charlton Ath,1,1,Coventry City,D
+1999,7,1998-09-26,Chelsea,2,0,Middlesbrough,H
+1999,7,1998-09-26,Newcastle Utd,2,0,Nott'ham Forest,H
+1999,7,1998-09-26,Tottenham,3,3,Leeds United,D
+1999,7,1998-09-27,Leicester City,1,1,Wimbledon,D
+1999,7,1998-09-28,West Ham,1,0,Southampton,H
+1999,8,1998-10-03,Nott'ham Forest,0,1,Charlton Ath,A
+1999,8,1998-10-03,Southampton,0,3,Manchester Utd,A
+1999,8,1998-10-03,Wimbledon,1,2,Everton,A
+1999,8,1998-10-03,Derby County,0,1,Tottenham,A
+1999,8,1998-10-03,Coventry City,1,2,Aston Villa,A
+1999,8,1998-10-03,Middlesbrough,4,0,Sheffield Weds,H
+1999,8,1998-10-03,Leeds United,0,1,Leicester City,A
+1999,8,1998-10-03,Blackburn,3,0,West Ham,H
+1999,8,1998-10-04,Arsenal,3,0,Newcastle Utd,H
+1999,8,1998-10-04,Liverpool,1,1,Chelsea,D
+1999,9,1998-10-17,Middlesbrough,2,1,Blackburn,H
+1999,9,1998-10-17,West Ham,0,0,Aston Villa,D
+1999,9,1998-10-17,Everton,0,0,Liverpool,D
+1999,9,1998-10-17,Arsenal,1,1,Southampton,D
+1999,9,1998-10-17,Manchester Utd,5,1,Wimbledon,H
+1999,9,1998-10-17,Newcastle Utd,2,1,Derby County,H
+1999,9,1998-10-17,Nott'ham Forest,1,1,Leeds United,D
+1999,9,1998-10-17,Chelsea,2,1,Charlton Ath,H
+1999,9,1998-10-18,Coventry City,1,0,Sheffield Weds,H
+1999,9,1998-10-19,Leicester City,2,1,Tottenham,H
+1999,10,1998-10-24,Liverpool,5,1,Nott'ham Forest,H
+1999,10,1998-10-24,Wimbledon,2,2,Middlesbrough,D
+1999,10,1998-10-24,Aston Villa,1,1,Leicester City,D
+1999,10,1998-10-24,Southampton,2,1,Coventry City,H
+1999,10,1998-10-24,Derby County,1,1,Manchester Utd,D
+1999,10,1998-10-24,Sheffield Weds,0,0,Everton,D
+1999,10,1998-10-24,Charlton Ath,4,2,West Ham,H
+1999,10,1998-10-24,Tottenham,2,0,Newcastle Utd,H
+1999,10,1998-10-25,Blackburn,1,2,Arsenal,A
+1999,10,1998-10-25,Leeds United,0,0,Chelsea,D
+1999,11,1998-10-31,Everton,1,4,Manchester Utd,A
+1999,11,1998-10-31,Sheffield Weds,0,0,Southampton,D
+1999,11,1998-10-31,Leicester City,1,0,Liverpool,H
+1999,11,1998-10-31,Coventry City,0,1,Arsenal,A
+1999,11,1998-10-31,Derby County,2,2,Leeds United,D
+1999,11,1998-10-31,Newcastle Utd,0,3,West Ham,A
+1999,11,1998-10-31,Wimbledon,1,1,Blackburn,D
+1999,11,1998-11-01,Middlesbrough,1,1,Nott'ham Forest,D
+1999,11,1998-11-02,Tottenham,2,2,Charlton Ath,D
+1999,12,1998-11-07,Charlton Ath,0,0,Leicester City,D
+1999,12,1998-11-07,Blackburn,1,2,Coventry City,A
+1999,12,1998-11-07,Nott'ham Forest,0,1,Wimbledon,A
+1999,12,1998-11-07,Southampton,3,3,Middlesbrough,D
+1999,12,1998-11-07,Liverpool,1,2,Derby County,A
+1999,12,1998-11-07,Aston Villa,3,2,Tottenham,H
+1999,12,1998-11-08,West Ham,1,1,Chelsea,D
+1999,12,1998-11-08,Arsenal,1,0,Everton,H
+1999,12,1998-11-08,Manchester Utd,0,0,Newcastle Utd,D
+1999,12,1998-11-08,Leeds United,2,1,Sheffield Weds,H
+1999,13,1998-11-14,Newcastle Utd,1,1,Sheffield Weds,D
+1999,13,1998-11-14,Charlton Ath,1,1,Middlesbrough,D
+1999,13,1998-11-14,Southampton,1,4,Aston Villa,A
+1999,13,1998-11-14,Chelsea,3,0,Wimbledon,H
+1999,13,1998-11-14,Manchester Utd,3,2,Blackburn,H
+1999,13,1998-11-14,West Ham,3,2,Leicester City,H
+1999,13,1998-11-14,Liverpool,1,3,Leeds United,A
+1999,13,1998-11-14,Arsenal,0,0,Tottenham,D
+1999,13,1998-11-15,Coventry City,3,0,Everton,H
+1999,13,1998-11-16,Nott'ham Forest,2,2,Derby County,D
+1999,14,1998-11-21,Blackburn,0,2,Southampton,A
+1999,14,1998-11-21,Middlesbrough,2,0,Coventry City,H
+1999,14,1998-11-21,Leicester City,2,4,Chelsea,A
+1999,14,1998-11-21,Sheffield Weds,3,1,Manchester Utd,H
+1999,14,1998-11-21,Aston Villa,2,4,Liverpool,A
+1999,14,1998-11-21,Tottenham,2,0,Nott'ham Forest,H
+1999,14,1998-11-21,Leeds United,4,1,Charlton Ath,H
+1999,14,1998-11-21,Wimbledon,1,0,Arsenal,H
+1999,14,1998-11-22,Derby County,0,2,West Ham,A
+1999,14,1998-11-23,Everton,1,0,Newcastle Utd,H
+1999,15,1998-11-28,Charlton Ath,1,2,Everton,A
+1999,15,1998-11-28,Southampton,0,1,Derby County,A
+1999,15,1998-11-28,Coventry City,1,1,Leicester City,D
+1999,15,1998-11-28,West Ham,2,1,Tottenham,H
+1999,15,1998-11-28,Newcastle Utd,3,1,Wimbledon,H
+1999,15,1998-11-28,Chelsea,1,1,Sheffield Weds,D
+1999,15,1998-11-28,Nott'ham Forest,2,2,Aston Villa,D
+1999,15,1998-11-29,Liverpool,2,0,Blackburn,H
+1999,15,1998-11-29,Arsenal,1,1,Middlesbrough,D
+1999,15,1998-11-29,Manchester Utd,3,2,Leeds United,H
+1999,16,1998-12-05,Leicester City,2,0,Southampton,H
+1999,16,1998-12-05,Blackburn,1,0,Charlton Ath,H
+1999,16,1998-12-05,Leeds United,4,0,West Ham,H
+1999,16,1998-12-05,Everton,0,0,Chelsea,D
+1999,16,1998-12-05,Tottenham,2,1,Liverpool,H
+1999,16,1998-12-05,Aston Villa,1,1,Manchester Utd,D
+1999,16,1998-12-05,Derby County,0,0,Arsenal,D
+1999,16,1998-12-05,Wimbledon,2,1,Coventry City,H
+1999,16,1998-12-06,Middlesbrough,2,2,Newcastle Utd,D
+1999,16,1998-12-07,Sheffield Weds,3,2,Nott'ham Forest,H
+1999,11,1998-12-09,Chelsea,2,1,Aston Villa,H
+1999,17,1998-12-12,Blackburn,0,0,Newcastle Utd,D
+1999,17,1998-12-12,Derby County,2,2,Chelsea,D
+1999,17,1998-12-12,Middlesbrough,1,0,West Ham,H
+1999,17,1998-12-12,Sheffield Weds,3,0,Charlton Ath,H
+1999,17,1998-12-12,Leicester City,3,1,Nott'ham Forest,H
+1999,17,1998-12-12,Everton,1,0,Southampton,H
+1999,17,1998-12-12,Tottenham,2,2,Manchester Utd,D
+1999,17,1998-12-13,Wimbledon,1,0,Liverpool,H
+1999,17,1998-12-13,Aston Villa,3,2,Arsenal,H
+1999,17,1998-12-14,Leeds United,2,0,Coventry City,H
+1999,3,1998-12-16,Manchester Utd,1,1,Chelsea,D
+1999,18,1998-12-19,West Ham,2,1,Everton,H
+1999,18,1998-12-19,Liverpool,2,0,Sheffield Weds,H
+1999,18,1998-12-19,Nott'ham Forest,2,2,Blackburn,D
+1999,18,1998-12-19,Newcastle Utd,1,0,Leicester City,H
+1999,18,1998-12-19,Coventry City,1,1,Derby County,D
+1999,18,1998-12-19,Chelsea,2,0,Tottenham,H
+1999,18,1998-12-19,Manchester Utd,2,3,Middlesbrough,A
+1999,18,1998-12-19,Southampton,3,1,Wimbledon,H
+1999,18,1998-12-20,Arsenal,3,1,Leeds United,H
+1999,18,1998-12-21,Charlton Ath,0,1,Aston Villa,A
+1999,19,1998-12-26,Everton,0,0,Derby County,D
+1999,19,1998-12-26,Manchester Utd,3,0,Nott'ham Forest,H
+1999,19,1998-12-26,Newcastle Utd,0,3,Leeds United,A
+1999,19,1998-12-26,Blackburn,2,1,Aston Villa,H
+1999,19,1998-12-26,Sheffield Weds,0,1,Leicester City,A
+1999,19,1998-12-26,Southampton,0,2,Chelsea,A
+1999,19,1998-12-26,Coventry City,1,1,Tottenham,D
+1999,19,1998-12-26,Wimbledon,2,1,Charlton Ath,H
+1999,19,1998-12-26,Middlesbrough,1,3,Liverpool,A
+1999,19,1998-12-26,Arsenal,1,0,West Ham,H
+1999,20,1998-12-28,Liverpool,4,2,Newcastle Utd,H
+1999,20,1998-12-28,Charlton Ath,0,1,Arsenal,A
+1999,20,1998-12-28,Tottenham,4,1,Everton,H
+1999,20,1998-12-28,West Ham,2,0,Coventry City,H
+1999,20,1998-12-28,Derby County,2,1,Middlesbrough,H
+1999,20,1998-12-28,Aston Villa,2,1,Sheffield Weds,H
+1999,20,1998-12-28,Leicester City,1,1,Blackburn,D
+1999,20,1998-12-28,Nott'ham Forest,1,1,Southampton,D
+1999,20,1998-12-29,Chelsea,0,0,Manchester Utd,D
+1999,20,1998-12-29,Leeds United,2,2,Wimbledon,D
+1999,21,1999-01-09,Sheffield Weds,0,0,Tottenham,D
+1999,21,1999-01-09,Newcastle Utd,0,1,Chelsea,A
+1999,21,1999-01-09,Everton,0,0,Leicester City,D
+1999,21,1999-01-09,Wimbledon,2,1,Derby County,H
+1999,21,1999-01-09,Coventry City,4,0,Nott'ham Forest,H
+1999,21,1999-01-09,Arsenal,0,0,Liverpool,D
+1999,21,1999-01-09,Southampton,3,1,Charlton Ath,H
+1999,21,1999-01-09,Middlesbrough,0,0,Aston Villa,D
+1999,21,1999-01-09,Blackburn,1,0,Leeds United,H
+1999,21,1999-01-10,Manchester Utd,4,1,West Ham,H
+1999,22,1999-01-16,Liverpool,7,1,Southampton,H
+1999,22,1999-01-16,Chelsea,2,1,Coventry City,H
+1999,22,1999-01-16,Nott'ham Forest,0,1,Arsenal,A
+1999,22,1999-01-16,West Ham,0,4,Sheffield Weds,A
+1999,22,1999-01-16,Tottenham,0,0,Wimbledon,D
+1999,22,1999-01-16,Leicester City,2,6,Manchester Utd,A
+1999,22,1999-01-16,Derby County,1,0,Blackburn,H
+1999,22,1999-01-16,Leeds United,2,0,Middlesbrough,H
+1999,22,1999-01-17,Charlton Ath,2,2,Newcastle Utd,D
+1999,22,1999-01-18,Aston Villa,3,0,Everton,H
+1999,23,1999-01-30,Sheffield Weds,0,1,Derby County,A
+1999,23,1999-01-30,Southampton,3,0,Leeds United,H
+1999,23,1999-01-30,Everton,0,1,Nott'ham Forest,A
+1999,23,1999-01-30,Wimbledon,0,0,West Ham,D
+1999,23,1999-01-30,Blackburn,1,1,Tottenham,D
+1999,23,1999-01-30,Middlesbrough,0,0,Leicester City,D
+1999,23,1999-01-30,Newcastle Utd,2,1,Aston Villa,H
+1999,23,1999-01-30,Coventry City,2,1,Liverpool,H
+1999,23,1999-01-31,Charlton Ath,0,1,Manchester Utd,A
+1999,23,1999-01-31,Arsenal,1,0,Chelsea,H
+1999,32,1999-02-03,Manchester Utd,1,0,Derby County,H
+1999,24,1999-02-06,Chelsea,1,0,Southampton,H
+1999,24,1999-02-06,Leicester City,0,2,Sheffield Weds,A
+1999,24,1999-02-06,Tottenham,0,0,Coventry City,D
+1999,24,1999-02-06,Aston Villa,1,3,Blackburn,A
+1999,24,1999-02-06,Nott'ham Forest,1,8,Manchester Utd,A
+1999,24,1999-02-06,Liverpool,3,1,Middlesbrough,H
+1999,24,1999-02-06,Leeds United,0,1,Newcastle Utd,A
+1999,24,1999-02-06,West Ham,0,4,Arsenal,A
+1999,24,1999-02-07,Derby County,2,1,Everton,H
+1999,24,1999-02-08,Charlton Ath,2,0,Wimbledon,H
+1999,25,1999-02-13,Charlton Ath,1,0,Liverpool,H
+1999,25,1999-02-13,West Ham,2,1,Nott'ham Forest,H
+1999,25,1999-02-17,Newcastle Utd,4,1,Coventry City,H
+1999,25,1999-02-17,Everton,5,0,Middlesbrough,H
+1999,25,1999-02-17,Chelsea,1,1,Blackburn,D
+1999,25,1999-02-17,Aston Villa,1,2,Leeds United,A
+1999,25,1999-02-17,Manchester Utd,1,1,Arsenal,D
+1999,26,1999-02-20,Blackburn,1,4,Sheffield Weds,A
+1999,26,1999-02-20,Middlesbrough,0,0,Tottenham,D
+1999,26,1999-02-20,Arsenal,5,0,Leicester City,H
+1999,26,1999-02-20,Leeds United,1,0,Everton,H
+1999,26,1999-02-20,Liverpool,2,2,West Ham,D
+1999,26,1999-02-20,Nott'ham Forest,1,3,Chelsea,A
+1999,26,1999-02-20,Southampton,2,1,Newcastle Utd,H
+1999,26,1999-02-20,Derby County,0,2,Charlton Ath,A
+1999,26,1999-02-20,Coventry City,0,1,Manchester Utd,A
+1999,26,1999-02-21,Wimbledon,0,0,Aston Villa,D
+1999,27,1999-02-27,Chelsea,2,1,Liverpool,H
+1999,27,1999-02-27,Charlton Ath,0,0,Nott'ham Forest,D
+1999,27,1999-02-27,Tottenham,1,1,Derby County,D
+1999,27,1999-02-27,Everton,1,1,Wimbledon,D
+1999,27,1999-02-27,Aston Villa,1,4,Coventry City,A
+1999,27,1999-02-27,Manchester Utd,2,1,Southampton,H
+1999,27,1999-02-27,West Ham,2,0,Blackburn,H
+1999,27,1999-02-27,Sheffield Weds,3,1,Middlesbrough,H
+1999,27,1999-02-28,Newcastle Utd,1,1,Arsenal,D
+1999,27,1999-03-01,Leicester City,1,2,Leeds United,A
+1999,25,1999-03-02,Tottenham,3,0,Southampton,H
+1999,25,1999-03-03,Sheffield Weds,1,2,Wimbledon,A
+1999,28,1999-03-06,Coventry City,2,1,Charlton Ath,H
+1999,28,1999-03-06,Southampton,1,0,West Ham,H
+1999,28,1999-03-06,Wimbledon,0,1,Leicester City,A
+1999,28,1999-03-09,Arsenal,3,0,Sheffield Weds,H
+1999,28,1999-03-10,Derby County,2,1,Aston Villa,H
+1999,28,1999-03-10,Leeds United,2,0,Tottenham,H
+1999,28,1999-03-10,Blackburn,1,2,Everton,A
+1999,28,1999-03-10,Nott'ham Forest,1,2,Newcastle Utd,A
+1999,29,1999-03-13,Sheffield Weds,0,2,Leeds United,A
+1999,29,1999-03-13,Leicester City,1,1,Charlton Ath,D
+1999,29,1999-03-13,Wimbledon,1,3,Nott'ham Forest,A
+1999,29,1999-03-13,Coventry City,1,1,Blackburn,D
+1999,29,1999-03-13,Tottenham,1,0,Aston Villa,H
+1999,29,1999-03-13,Everton,0,2,Arsenal,A
+1999,29,1999-03-13,Derby County,3,2,Liverpool,H
+1999,29,1999-03-13,Chelsea,0,1,West Ham,A
+1999,29,1999-03-13,Newcastle Utd,1,2,Manchester Utd,A
+1999,29,1999-03-14,Middlesbrough,3,0,Southampton,H
+1999,30,1999-03-20,Southampton,1,0,Sheffield Weds,H
+1999,30,1999-03-20,Leeds United,4,1,Derby County,H
+1999,30,1999-03-20,West Ham,2,0,Newcastle Utd,H
+1999,30,1999-03-20,Arsenal,2,0,Coventry City,H
+1999,30,1999-03-20,Blackburn,3,1,Wimbledon,H
+1999,30,1999-03-20,Nott'ham Forest,1,2,Middlesbrough,A
+1999,30,1999-03-21,Aston Villa,0,3,Chelsea,A
+1999,30,1999-03-21,Manchester Utd,3,1,Everton,H
+1999,31,1999-04-02,Aston Villa,0,0,West Ham,D
+1999,31,1999-04-03,Liverpool,3,2,Everton,H
+1999,31,1999-04-03,Charlton Ath,0,1,Chelsea,A
+1999,31,1999-04-03,Southampton,0,0,Arsenal,D
+1999,31,1999-04-03,Tottenham,0,2,Leicester City,A
+1999,31,1999-04-03,Derby County,3,4,Newcastle Utd,A
+1999,31,1999-04-03,Wimbledon,1,1,Manchester Utd,D
+1999,31,1999-04-03,Blackburn,0,0,Middlesbrough,D
+1999,31,1999-04-03,Leeds United,3,1,Nott'ham Forest,H
+1999,31,1999-04-03,Sheffield Weds,1,2,Coventry City,A
+1999,32,1999-04-05,Coventry City,1,0,Southampton,H
+1999,32,1999-04-05,Everton,1,2,Sheffield Weds,A
+1999,32,1999-04-05,Middlesbrough,3,1,Wimbledon,H
+1999,32,1999-04-05,Nott'ham Forest,2,2,Liverpool,D
+1999,32,1999-04-05,Newcastle Utd,1,1,Tottenham,D
+1999,32,1999-04-05,West Ham,0,1,Charlton Ath,A
+1999,32,1999-04-06,Leicester City,2,2,Aston Villa,D
+1999,32,1999-04-06,Arsenal,1,0,Blackburn,H
+1999,33,1999-04-10,Derby County,1,0,Nott'ham Forest,H
+1999,33,1999-04-10,Leicester City,0,0,West Ham,D
+1999,33,1999-04-10,Middlesbrough,2,0,Charlton Ath,H
+1999,33,1999-04-10,Aston Villa,3,0,Southampton,H
+1999,33,1999-04-11,Everton,2,0,Coventry City,H
+1999,33,1999-04-11,Wimbledon,1,2,Chelsea,A
+1999,33,1999-04-12,Leeds United,0,0,Liverpool,D
+1999,28,1999-04-14,Middlesbrough,0,0,Chelsea,D
+1999,34,1999-04-17,Charlton Ath,1,1,Leeds United,D
+1999,34,1999-04-17,Southampton,3,3,Blackburn,D
+1999,34,1999-04-17,Liverpool,0,1,Aston Villa,A
+1999,34,1999-04-17,Newcastle Utd,1,3,Everton,A
+1999,34,1999-04-17,Nott'ham Forest,0,1,Tottenham,A
+1999,34,1999-04-17,Manchester Utd,3,0,Sheffield Weds,H
+1999,34,1999-04-17,Coventry City,1,2,Middlesbrough,A
+1999,34,1999-04-17,West Ham,5,1,Derby County,H
+1999,34,1999-04-18,Chelsea,2,2,Leicester City,D
+1999,34,1999-04-19,Arsenal,5,1,Wimbledon,H
+1999,30,1999-04-20,Charlton Ath,1,4,Tottenham,A
+1999,30,1999-04-21,Liverpool,0,1,Leicester City,A
+1999,33,1999-04-21,Sheffield Weds,1,1,Newcastle Utd,D
+1999,35,1999-04-24,Aston Villa,2,0,Nott'ham Forest,H
+1999,35,1999-04-24,Blackburn,1,3,Liverpool,A
+1999,35,1999-04-24,Leicester City,1,0,Coventry City,H
+1999,35,1999-04-24,Everton,4,1,Charlton Ath,H
+1999,35,1999-04-24,Wimbledon,1,1,Newcastle Utd,D
+1999,35,1999-04-24,Middlesbrough,1,6,Arsenal,A
+1999,35,1999-04-24,Derby County,0,0,Southampton,D
+1999,35,1999-04-24,Tottenham,1,2,West Ham,A
+1999,35,1999-04-25,Leeds United,1,1,Manchester Utd,D
+1999,35,1999-04-25,Sheffield Weds,0,0,Chelsea,D
+1999,36,1999-05-01,Coventry City,2,1,Wimbledon,H
+1999,36,1999-05-01,Southampton,2,1,Leicester City,H
+1999,36,1999-05-01,Liverpool,3,2,Tottenham,H
+1999,36,1999-05-01,West Ham,1,5,Leeds United,A
+1999,36,1999-05-01,Nott'ham Forest,2,0,Sheffield Weds,H
+1999,36,1999-05-01,Chelsea,3,1,Everton,H
+1999,36,1999-05-01,Charlton Ath,0,0,Blackburn,D
+1999,36,1999-05-01,Manchester Utd,2,1,Aston Villa,H
+1999,36,1999-05-01,Newcastle Utd,1,1,Middlesbrough,D
+1999,36,1999-05-02,Arsenal,1,0,Derby County,H
+1999,25,1999-05-05,Leicester City,1,2,Derby County,A
+1999,28,1999-05-05,Liverpool,2,2,Manchester Utd,D
+1999,32,1999-05-05,Chelsea,1,0,Leeds United,H
+1999,33,1999-05-05,Tottenham,1,3,Arsenal,A
+1999,37,1999-05-08,Blackburn,1,2,Nott'ham Forest,A
+1999,37,1999-05-08,Sheffield Weds,1,0,Liverpool,H
+1999,37,1999-05-08,Derby County,0,0,Coventry City,D
+1999,37,1999-05-08,Wimbledon,0,2,Southampton,A
+1999,37,1999-05-08,Leicester City,2,0,Newcastle Utd,H
+1999,37,1999-05-08,Everton,6,0,West Ham,H
+1999,37,1999-05-08,Aston Villa,3,4,Charlton Ath,A
+1999,37,1999-05-09,Middlesbrough,0,1,Manchester Utd,A
+1999,37,1999-05-10,Tottenham,2,2,Chelsea,D
+1999,37,1999-05-11,Leeds United,1,0,Arsenal,H
+1999,33,1999-05-12,Blackburn,0,0,Manchester Utd,D
+1999,38,1999-05-16,Arsenal,1,0,Aston Villa,H
+1999,38,1999-05-16,Coventry City,2,2,Leeds United,D
+1999,38,1999-05-16,Southampton,2,0,Everton,H
+1999,38,1999-05-16,Charlton Ath,0,1,Sheffield Weds,A
+1999,38,1999-05-16,Newcastle Utd,1,1,Blackburn,D
+1999,38,1999-05-16,Liverpool,3,0,Wimbledon,H
+1999,38,1999-05-16,West Ham,4,0,Middlesbrough,H
+1999,38,1999-05-16,Chelsea,2,1,Derby County,H
+1999,38,1999-05-16,Manchester Utd,2,1,Tottenham,H
+1999,38,1999-05-16,Nott'ham Forest,1,0,Leicester City,H
 2000,1,1999-08-07,Newcastle Utd,0,1,Aston Villa,A
 2000,1,1999-08-07,Coventry City,0,1,Southampton,A
 2000,1,1999-08-07,Middlesbrough,0,1,Bradford City,A

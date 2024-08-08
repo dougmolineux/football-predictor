@@ -66,6 +66,37 @@ To check the accuracy of the model, a script called `comparison.js` uses all the
 
 This performance is actually quite terrible, and even worse than a random number generator, which would have a 33 percent accuracy (considering there are 3 outcomes: home win, away win, draw).
 
+### Questions: 
+1. Does the accuracy of the model change between training sessions, even if the configuration of the model, the dataset and everything stays the same?
+
+Answer: The first time we trained the model we got a 22.89% accuracy, the second time we ran it we got a 22.63% accuracy. It appears to be roughly the same, but slightly different.
+
+2. Does the accuracy improve if we start to remove the earlier seasons (newer performances are more relevant)?
+
+Answer: Removing all the games between 1993 and 1999 improves the accuracy by 1 percent (23.42%).
+
+3. How long does it take to train with the current configuration?
+
+Answer: It takes about 2.5 seconds per epoch, with 100 epochs to train it in its current state. 250 seconds, a bit more than 4 minutes
+
+4. How much accuracy does 200 epochs give us (100 give us roughly 22%)
+
+Answer: 200 epochs produced an accuracy of 23.95%, whereas previously it was 23.42%. 200 epochs gave a slight increase in accuracy of half a percent.
+
+5. There's a theory that batch size can improve accuracy, but increase training time. How much more accurate does batch size improve accuracy?
+
+Answer: batch size of 20 actually decreased it from 23 to 22#. 40 batch size decreases training time down to 500ms per epoch. So the higher the batch size, the faster the training is, it also doesn't seem to affect accuracy significantly. A batch size of 4 actually takes 5.5 seconds per epoch, but accuracy remained around 22 percent.
+
+6. What impact will increasing the number of neurons have on this process?
+
+Answer: Doubling the neurons to 20 (keeping batch size at 40), actually got 23.95% accuracy, which is the highest of seen so far. 40 neurons had exactly the same. Just for fun i tried 100 neurons, but the accuracy actually went down.
+
+7. What about adding another layer in between the input layer and output layer?
+
+Answer: Adding a layer with the same neuron count had no impact on accuracy, but did increase training time.
+
+8. What if you only use results after 2010?
+
 ### Screenshots
 <img src='https://github.com/dougmolineux/football-predictor/blob/015d5c7bc1d84608f8f6a4e3ab23f107e122b227/screenshots/example.png' />
 <img src='https://github.com/dougmolineux/football-predictor/blob/97d8a5067896ae6fb2234e0ade8f4571f4fe7d65/screenshots/accuracy_of_first_model.png' />

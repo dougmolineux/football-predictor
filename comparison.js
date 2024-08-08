@@ -2,6 +2,12 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const tf = require('@tensorflow/tfjs-node');
 
+const config = {
+    neuronCount: 10,
+    batchSize: 40,
+    epochs: 100,
+};
+
 // Load and preprocess data
 async function loadData(filePath) {
     const matches = [];
@@ -80,8 +86,21 @@ function prepareData(matches, teamToIndex) {
 // Create and train the model
 async function createModel(inputs, outputs) {
     const model = tf.sequential();
-    model.add(tf.layers.dense({ units: 10, activation: 'relu', inputShape: [2] }));
-    model.add(tf.layers.dense({ units: 3, activation: 'softmax' })); // 3 classes: win, draw, lose
+    model.add(tf.layers.dense({
+        units: config.neuronCount,
+        activation: 'relu',
+        inputShape: [2]
+    }));
+
+    model.add(tf.layers.dense({
+        units: config.neuronCount,
+        activation: 'relu'
+    })); // Add another hidden layer
+
+    model.add(tf.layers.dense({
+        units: 3,
+        activation: 'softmax'
+    })); // 3 units: win, draw, lose
 
     model.compile({
         optimizer: 'adam',
@@ -94,8 +113,8 @@ async function createModel(inputs, outputs) {
 
     // Train the model
     await model.fit(inputs, floatOutputs, {
-        epochs: 100,
-        batchSize: 10,
+        epochs: config.epochs,
+        batchSize: config.batchSize,
         shuffle: true
     });
 
