@@ -6,7 +6,7 @@ This is using a 23.42% accurate model, according to the 2023 comparison script.
 ### First 5 Results
 <img src='https://github.com/dougmolineux/football-predictor/blob/b0236189ea69a48bafce53dca91a759d9972474c/screenshots/predictions_made_aug_13_page1.png' />
 
-### Second 
+### Second 5 Results
 <img src='https://github.com/dougmolineux/football-predictor/blob/b0236189ea69a48bafce53dca91a759d9972474c/screenshots/predictions_made_aug_13_page2.png' />
 
 ## Quirks
