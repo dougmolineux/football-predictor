@@ -1,6 +1,7 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 const tf = require('@tensorflow/tfjs-node');
+const { log } = require('console');
 
 const config = {
     neuronCount: 10,
@@ -65,21 +66,22 @@ function prepareData(matches, teamToIndex) {
         if (match.season_end_year < 2023) {
             inputs.push(input);
             outputs.push(output);
-        } else if (match.season_end_year === 2023) {
-            testInputs.push(input);
-            testOutputs.push(output);
         }
+        // } else if (match.season_end_year === 2023) {
+        //     testInputs.push(input);
+        //     testOutputs.push(output);
+        // }
     });
 
     return {
         trainingData: {
             inputs: tf.tensor2d(inputs),
             outputs: tf.tensor1d(outputs, 'int32')
-        },
-        testData: {
-            inputs: tf.tensor2d(testInputs),
-            outputs: testOutputs // Keep as an array for easy comparison later
         }
+        // testData: {
+        //     inputs: tf.tensor2d(testInputs),
+        //     outputs: testOutputs // Keep as an array for easy comparison later
+        // }
     };
 }
 
@@ -174,16 +176,29 @@ async function main() {
             console.log('Model trained and saved successfully!');
         }
 
-        // Predict outcomes for the test data
-        const predictions = model.predict(testData.inputs).arraySync();
-
-        // Calculate accuracy
-        const accuracy = calculateAccuracy(predictions, testData.outputs);
-        console.log(`Model accuracy for 2023 matches: ${accuracy.toFixed(2)}%`);
-
+        console.log('Predictions for the First week of the 2024 / 2025 Season')
+        predictWrapper('Manchester Utd', 'Fulham', model, teamToIndex);
+        predictWrapper('Ipswich Town', 'Liverpool', model, teamToIndex);
+        predictWrapper('Arsenal', 'Wolves', model, teamToIndex);
+        predictWrapper('Everton', 'Brighton', model, teamToIndex);
+        predictWrapper('Newcastle Utd', 'Southampton', model, teamToIndex);
+        predictWrapper('Nott\'ham Forest', 'Bournemouth', model, teamToIndex);
+        predictWrapper('West Ham', 'Aston Villa', model, teamToIndex);
+        predictWrapper('Brentford', 'Crystal Palace', model, teamToIndex);
+        predictWrapper('Chelsea', 'Manchester City', model, teamToIndex);
+        predictWrapper('Leicester City', 'Tottenham', model, teamToIndex);
     } catch (error) {
         console.error('Error:', error);
     }
+}
+
+function predictWrapper(homeTeam, awayTeam, model, teamToIndex) {
+    const prediction = predictOutcome(model, teamToIndex, homeTeam, awayTeam);
+
+    console.log(`Prediction for ${homeTeam} vs ${awayTeam}:`);
+    console.log(` Home Win Probability: ${prediction[0]}`);
+    console.log(` Draw Probability: ${prediction[1]}`);
+    console.log(` Away Win Probability: ${prediction[2]}`);
 }
 
 main();
