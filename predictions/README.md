@@ -47,4 +47,5 @@ Prediction for Leicester City vs Tottenham:
  Draw Probability: 0.663115978240966796875000000000
  Away Win Probability: 0.000000000000000000000210996904
 
-
+# Notes on First Set of Predictions
+The Away Win Probability is almost always extremely low. This needs to be investigated further. Also, the Draw probability is always rather high.
