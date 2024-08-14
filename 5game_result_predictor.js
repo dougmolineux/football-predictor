@@ -196,9 +196,9 @@ function predictWrapper(homeTeam, awayTeam, model, teamToIndex) {
     const prediction = predictOutcome(model, teamToIndex, homeTeam, awayTeam);
 
     console.log(`Prediction for ${homeTeam} vs ${awayTeam}:`);
-    console.log(` Home Win Probability: ${prediction[0]}`);
-    console.log(` Draw Probability: ${prediction[1]}`);
-    console.log(` Away Win Probability: ${prediction[2]}`);
+    console.log(` Home Win Probability: ${prediction[0].toFixed(30)}`);
+    console.log(` Draw Probability: ${prediction[1].toFixed(30)}`);
+    console.log(` Away Win Probability: ${prediction[2].toFixed(30)}`);
 }
 
 main();
