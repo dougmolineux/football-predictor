@@ -15,3 +15,5 @@ A few of these results are quite unlikely, particularly Man Utd and Arsenal resu
 ## Quirks
 For some reason, Brentford vs Crystal Palace has an Away Win Probablity of zero. It is finding the team correctly, in terms of translating to an index. If the home team is changed to Chelsea, then there is an unusually high Away probability, which is unusual because Crystal Palace's results have not  been better than Chelseas.
 
+Every single away team is predicted to win, (with the exception of the zero away win anomalies) this is surely a bug.
+
