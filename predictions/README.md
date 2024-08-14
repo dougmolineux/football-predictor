@@ -4,6 +4,7 @@
 This is using a 23.42% accurate model, according to the 2023 comparison script.
 
 ### Predictions
+```
 Model loaded successfully!
 Predictions for the First week of the 2024 / 2025 Season
 Prediction for Manchester Utd vs Fulham:
@@ -46,6 +47,6 @@ Prediction for Leicester City vs Tottenham:
  Home Win Probability: 0.336883991956710815429687500000
  Draw Probability: 0.663115978240966796875000000000
  Away Win Probability: 0.000000000000000000000210996904
-
+```
 # Notes on First Set of Predictions
 The Away Win Probability is almost always extremely low. This needs to be investigated further. Also, the Draw probability is always rather high.
